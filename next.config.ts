@@ -7,6 +7,9 @@ const nextConfig: NextConfig = {
   output: "export",
   basePath: basePath,
   assetPrefix: basePath ? `${basePath}/` : undefined,
+  env: {
+    NEXT_PUBLIC_BASE_PATH: basePath,
+  },
   images: {
     unoptimized: true, // 与 output: 'export' 兼容
     remotePatterns: [

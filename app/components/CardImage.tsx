@@ -42,9 +42,11 @@ export function CardImage({
   }
 
   const isExternal = src.startsWith("http");
+  const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
+  const imgSrc = src.startsWith("/") && basePath ? `${basePath}${src}` : src;
   const img = (
     <Image
-      src={src}
+      src={imgSrc}
       alt={alt}
       fill={fill}
       width={!fill ? width : undefined}
