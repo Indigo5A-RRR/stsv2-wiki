@@ -1,0 +1,3674 @@
+{
+  "ancient_beta": {
+    "class": "Ancient",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "biased_cognition": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "quadcast": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "apotheosis": {
+    "class": "Ancient",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "whistle": {
+    "class": "Ancient",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "brightest_flame": {
+    "class": "Ancient",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "maul": {
+    "class": "Ancient",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "neows_fury": {
+    "class": "Ancient",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "relax": {
+    "class": "Ancient",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "wish": {
+    "class": "Ancient",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "break": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "corruption": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "limit_break": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "forbidden_grimoire": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "protector": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "meteor_shower": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "the_sealed_throne": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "corpse_explosion": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "suppress": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "wraith_form": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "apparition": {
+    "class": "Event",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "toric_toughness": {
+    "class": "Event",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "banshees_cry": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "debilitate": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "graveblast": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "hang": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "sculpting_strike": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "soul": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "alchemize": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "anointed": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "automation": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "beacon_of_hope": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "beat_down": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "believe_in_you": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "calamity": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "catastrophe": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "coordinate": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "entropy": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "fasten": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "fisticuffs": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "gang_up": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "hidden_gem": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "huddle_up": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "intercept": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "jackpot": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "knockdown": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "lift": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "mimic": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "nostalgia": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "omnislice": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "prep_time": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "production": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "prowess": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "rally": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "rend": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "rolling_boulder": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "salvo": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "scrawl": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "seeker_strike": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "shockwave": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "splash": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "stratagem": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "ultimate_defend": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "ultimate_strike": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "volley": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "bolas": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "dark_shackles": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "discovery": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "dramatic_entrance": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "equilibrium": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "eternal_armor": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "finesse": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "flash_of_steel": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "gold_axe": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "golden_axe": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "hand_of_greed": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "impatience": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "jack_of_all_trades": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "master_of_strategy": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "mayhem": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "mind_blast": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "panache": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "panic_button": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "prolong": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "purity": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "restlessness": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "secret_technique": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "secret_weapon": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "tag_team": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "the_bomb": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "the_gambit": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "thinking_ahead": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "thrumming_hatchet": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "ascenders_bane": {
+    "class": "Curse",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "bad_luck": {
+    "class": "Curse",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "enthralled": {
+    "class": "Curse",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "greed": {
+    "class": "Curse",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "poor_sleep": {
+    "class": "Curse",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "spore_mind": {
+    "class": "Curse",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "clumsy": {
+    "class": "Curse",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "curse_of_the_bell": {
+    "class": "Curse",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "debt": {
+    "class": "Curse",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "decay": {
+    "class": "Curse",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "doubt": {
+    "class": "Curse",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "folly": {
+    "class": "Curse",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "guilty": {
+    "class": "Curse",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "injury": {
+    "class": "Curse",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "normality": {
+    "class": "Curse",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "regret": {
+    "class": "Curse",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "shame": {
+    "class": "Curse",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "writhe": {
+    "class": "Curse",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "all_for_one": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "ball_lightning": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "barrage": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "beam_cell": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "adaptive_strike": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "boost_away": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "bulk_up": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "compact": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "consuming_shadow": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "energy_surge": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "feral": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "fight_through": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "flak_cannon": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "focused_strike": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "glasswork": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "gunk_up": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "hailstorm": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "helix_drill": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "hotfix": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "ignition": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "iteration": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "lightning_rod": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "modded": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "refract": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "rocket_punch": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "shadow_shield": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "shatter": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "smokestack": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "spinner": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "subroutine": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "synchronize": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "synthesis": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "tesla_coil": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "thunder": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "trash_to_treasure": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "turbo": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "uproar": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "voltaic": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "boot_sequence": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "buffer": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "capacitor": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "chaos": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "charge_battery": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "chill": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "claw": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "cold_snap": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "compile_driver": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "coolant": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "coolheaded": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "creative_ai": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "darkness": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "defend_defect": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "defragment": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "double_energy": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "dualcast": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "echo_form": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "ftl": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "fusion": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "genetic_algorithm": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "glacier": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "go_for_the_eyes": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "hologram": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "hyperbeam": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "ice_lance": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "leap": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "loop": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "machine_learning": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "meteor_strike": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "momentum_strike": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "multi_cast": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "null": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "overclock": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "rainbow": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "reboot": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "scavenge": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "scrape": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "signal_boost": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "skim": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "storm": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "strike_defect": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "sunder": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "supercritical": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "sweeping_beam": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "tempest": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "white_noise": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "zap": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "feeding_frenzy": {
+    "class": "Event",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "outmaneuver": {
+    "class": "Event",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "byrd_swoop": {
+    "class": "Event",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "caltrops": {
+    "class": "Event",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "enlightenment": {
+    "class": "Event",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "exterminate": {
+    "class": "Event",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "hello_world": {
+    "class": "Event",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "mad_science_attack": {
+    "class": "Event",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "mad_science_power": {
+    "class": "Event",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "mad_science_skill": {
+    "class": "Event",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "peck": {
+    "class": "Event",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "rip_and_tear": {
+    "class": "Event",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "squash": {
+    "class": "Event",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "aggression": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "anger": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "armaments": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "ashen_strike": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "barricade": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "bash": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "battle_trance": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "cascade": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "colossus": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "conflagration": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "crimson_mantle": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "demonic_shield": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "drum_of_battle": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "fight_me": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "juggling": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "pillage": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "spite": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "tank": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "unmovable": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "vicious": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "blood_wall": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "bloodletting": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "bludgeon": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "body_slam": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "brand": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "breakthrough": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "bully": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "burning_pact": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "cinder": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "cruelty": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "dark_embrace": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "defend_ironclad": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "demon_form": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "dismantle": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "dominate": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "evil_eye": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "expect_a_fight": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "feed": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "feel_no_pain": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "fiend_fire": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "flame_barrier": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "mind_rot": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "bandage_up": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "beta": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "calm": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "deep_breath": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "fame_and_fortune": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "forethought": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "insight": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "jax": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "safety": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "transmutation": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "trip": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "violence": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "wrath": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "fission": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "seek": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "distraction": {
+    "class": "Event",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "dual_wield": {
+    "class": "Event",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "entrench": {
+    "class": "Event",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "metamorphosis": {
+    "class": "Event",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "consume": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "stack": {
+    "class": "Event",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "soot": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "minion_sacrifice": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "sovereign_blade": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "lunar_blast": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "bite": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "expunger": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "ritual_dagger": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "smite": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "through_violence": {
+    "class": "Colorless",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "lightning_mastery": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "lock_on": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "self_repair": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "thunder_strike": {
+    "class": "Defect",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "clash": {
+    "class": "Event",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "rebound": {
+    "class": "Event",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "forgotten_ritual": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "grapple": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "havoc": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "headbutt": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "hellraiser": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "hemokinesis": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "howl_from_beyond": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "impervious": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "infernal_blade": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "inferno": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "inflame": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "iron_wave": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "juggernaut": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "mangle": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "molten_fist": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "offering": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "one_two_punch": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "pacts_end": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "perfected_strike": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "pommel_strike": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "primal_force": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "pyre": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "rage": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "rampage": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "rupture": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "second_wind": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "setup_strike": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "shrug_it_off": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "stampede": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "stoke": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "stomp": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "stone_armor": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "strike_ironclad": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "sword_boomerang": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "taunt": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "tear_asunder": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "thrash": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "thunderclap": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "tremble": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "true_grit": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "twin_strike": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "unrelenting": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "uppercut": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "whirlwind": {
+    "class": "Ironclad",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "afterlife": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "bodyguard": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "bone_shards": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "bury": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "call_of_the_void": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "danse_macabre": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "deaths_door": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "defile": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "delay": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "demesne": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "devour_life": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "dirge": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "dredge": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "eidolon": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "enfeebling_touch": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "glimpse_beyond": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "haunt": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "invoke": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "legion_of_bone": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "lethality": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "misery": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "necro_mastery": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "neurosurge": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "pagestorm": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "pull_from_below": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "rattle": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "reap": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "reaper_form": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "right_hand_hand": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "seance": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "severance": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "shroud": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "sic_em": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "sleight_of_flesh": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "snap": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "soul_storm": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "sow": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "spirit_of_ash": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "squeeze": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "the_scythe": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "transfigure": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "undeath": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "veilpiercer": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "wisp": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "blight_strike": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "borrowed_time": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "calcify": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "capture_spirit": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "cleanse": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "countdown": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "death_march": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "deathbringer": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "defend_necrobinder": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "defy": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "drain_power": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "end_of_days": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "eradicate": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "fear": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "fetch": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "flatten": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "friendship": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "grave_warden": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "high_five": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "melancholy": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "negative_pulse": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "no_escape": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "oblivion": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "parse": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "poke": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "pull_aggro": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "putrefy": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "rabid": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "reanimate": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "reave": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "sacrifice": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "scourge": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "sentry_mode": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "shared_fate": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "spur": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "strike_necrobinder": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "times_up": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "unleash": {
+    "class": "Necrobinder",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "lantern_key": {
+    "class": "Quest",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "spoils_map": {
+    "class": "Quest",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "byrdonis_egg": {
+    "class": "Quest",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "alignment": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "arsenal": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "astral_pulse": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "beat_into_shape": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "begone": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "big_bang": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "black_hole": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "bombardment": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "bulwark": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "bundle_of_joy": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "child_of_the_stars": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "collision_course": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "comet": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "conqueror": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "convergence": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "cosmic_indifference": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "crash_landing": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "crush_under": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "decisions_decisions": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "devastate": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "dying_star": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "falling_star": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "foregone_conclusion": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "furnace": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "gamma_blast": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "gather_light": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "genesis": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "glow": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "guiding_star": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "hammer_time": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "heavenly_drill": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "hegemony": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "heirloom_hammer": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "hidden_cache": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "i_am_invincible": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "kingly_punch": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "knockout_blow": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "know_thy_place": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "largesse": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "make_it_so": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "manifest_authority": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "monologue": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "neutron_aegis": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "pale_blue_dot": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "parry": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "patter": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "photon_cut": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "pillar_of_creation": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "quasar": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "refine_blade": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "reflect": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "resonance": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "royal_gamble": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "royalties": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "seeking_edge": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "seven_stars": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "shining_strike": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "spectrum_shift": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "spoils_of_battle": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "summon_forth": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "supermassive": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "sword_sage": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "terraforming": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "tyranny": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "venerate": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "void_form": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "wrought_in_war": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "celestial_might": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "charge": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "cloak_of_stars": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "crescent_spear": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "defend_regent": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "glimmer": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "glitterstream": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "guards": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "kingly_kick": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "monarchs_gaze": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "orbit": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "particle_wall": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "prophesize": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "radiate": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "reserves": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "royal_corona": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "solar_strike": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "stardust": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "strike_regent": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "the_smith": {
+    "class": "Regent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "accelerant": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "accuracy": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "acrobatics": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "adrenaline": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "afterimage": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "anticipate": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "assassinate": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "backflip": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "backstab": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "abrasive": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "blade_of_ink": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "bubble_bubble": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "corrosive_wave": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "haze": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "hidden_daggers": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "knife_trap": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "leading_strike": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "murder": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "outbreak": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "phantom_blades": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "precise_cut": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "ricochet": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "serpent_form": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "sneaky": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "speedster": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "strangle": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "the_hunt": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "tracking": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "up_my_sleeve": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "blackened_blade": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "blade_dance": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "blur": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "bouncing_flask": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "bullet_time": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "burst": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "calculated_gamble": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "cloak_and_dagger": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "dagger_spray": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "dagger_throw": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "dash": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "deadly_poison": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "defend_silent": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "deflect": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "dodge_and_roll": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "echoing_slash": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "envenom": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "escape_plan": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "expertise": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "expose": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "fan_of_knives": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "finisher": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "flanking": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "flechettes": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "flick_flack": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "follow_through": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "footwork": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "grand_finale": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "hand_trick": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "infinite_blades": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "leg_sweep": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "malaise": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "master_planner": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "memento_mori": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "mirage": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "neutralize": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "nightmare": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "noxious_fumes": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "piercing_wail": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "pinpoint": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "poisoned_stab": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "pounce": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "predator": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "prepared": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "reflex": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "shadow_step": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "shadowmeld": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "skewer": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "slice": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "snakebite": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "storm_of_steel": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "strike_silent": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "sucker_punch": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "survivor": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "tactician": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "tools_of_the_trade": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "untouchable": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "well_laid_plans": {
+    "class": "Silent",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "beckon": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "debris": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "disintegration": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "frantic_escape": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "infection": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "burn": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "dazed": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "slimed": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "toxic": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "void": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "wound": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "fuel": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "giant_rock": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "luminesce": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "minion_strike": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "sloth": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "sweeping_gaze": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "waste_away": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "minion_dive_bomb": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "shiv": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  },
+  "starlight_sword": {
+    "class": "Status",
+    "type": "skill",
+    "cost": 0,
+    "rarity": "common"
+  }
+}

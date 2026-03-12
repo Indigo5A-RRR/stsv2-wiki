@@ -1,0 +1,222 @@
+[
+  {
+    "id": "instinct",
+    "name": "本能",
+    "nameEn": "Instinct",
+    "description": "这张牌的费用减少1。",
+    "descriptionEn": "Decrease the cost of this card by [blue]1[/blue].",
+    "extraCardText": null,
+    "extraCardTextEn": null,
+    "image": "/enchantment-icons/instinct.webp"
+  },
+  {
+    "id": "sown",
+    "name": "播种",
+    "nameEn": "Sown",
+    "description": "你在每场战斗中第一次打出这张牌时，获得1点能量。",
+    "descriptionEn": "The first time you play this card each combat, gain {Amount:energyIcons()}.",
+    "extraCardText": "获得1点能量。",
+    "extraCardTextEn": "Gain {Amount:energyIcons()}.",
+    "image": "/enchantment-icons/sown.webp"
+  },
+  {
+    "id": "slumbering_essence",
+    "name": "沉眠精华",
+    "nameEn": "Slumbering Essence",
+    "description": "回合结束时，如果这张牌在你的手牌中，则将其费用降低1点，直到其被打出。",
+    "descriptionEn": "If this card is in your hand at the end of turn, reduce its cost by [blue]1[/blue] until it is played.",
+    "extraCardText": null,
+    "extraCardTextEn": null,
+    "image": "/enchantment-icons/slumbering_essence.webp"
+  },
+  {
+    "id": "momentum",
+    "name": "动量",
+    "nameEn": "Momentum",
+    "description": "在本场战斗中，每次打出就增加这张牌的攻击伤害5点。",
+    "descriptionEn": "Increase this card's attack damage by [blue]{Amount}[/blue] this combat when played.",
+    "extraCardText": "在本场战斗中这张牌的伤害增加5点。",
+    "extraCardTextEn": "Increase this card's damage by {Amount} this combat.",
+    "image": "/enchantment-icons/momentum.webp"
+  },
+  {
+    "id": "sharp",
+    "name": "锋利",
+    "nameEn": "Sharp",
+    "description": "这张牌上的伤害值增加3点。",
+    "descriptionEn": "Increases damage on this card by [blue]{Amount}[/blue].",
+    "extraCardText": null,
+    "extraCardTextEn": null,
+    "image": "/enchantment-icons/sharp.webp"
+  },
+  {
+    "id": "corrupted",
+    "name": "腐化",
+    "nameEn": "Corrupted",
+    "description": "造成的伤害增加50%，但会失去2生命。",
+    "descriptionEn": "Deal [blue]50%[/blue] more damage, but lose [blue]2[/blue] HP.",
+    "extraCardText": "失去2点生命。",
+    "extraCardTextEn": "Lose 2 HP.",
+    "image": "/enchantment-icons/corrupted.webp"
+  },
+  {
+    "id": "glam",
+    "name": "华彩",
+    "nameEn": "Glam",
+    "description": "这张牌每场战斗能够重放一次。",
+    "descriptionEn": "This card has [gold]Replay[/gold] once per combat.",
+    "extraCardText": null,
+    "extraCardTextEn": null,
+    "image": "/enchantment-icons/glam.webp"
+  },
+  {
+    "id": "royally_approved",
+    "name": "皇室认证",
+    "nameEn": "Royally Approved",
+    "description": "这张牌拥有固有和保留。",
+    "descriptionEn": "This card has [gold]Innate[/gold] and [gold]Retain[/gold].",
+    "extraCardText": null,
+    "extraCardTextEn": null,
+    "image": "/enchantment-icons/royally_approved.webp"
+  },
+  {
+    "id": "vigorous",
+    "name": "活力",
+    "nameEn": "Vigorous",
+    "description": "第一次打出这张牌时，造成8点额外伤害。",
+    "descriptionEn": "The first time this card is played, it deals [blue]{Amount}[/blue] additional damage.",
+    "extraCardText": null,
+    "extraCardTextEn": null,
+    "image": "/enchantment-icons/vigorous.webp"
+  },
+  {
+    "id": "clone",
+    "name": "克隆",
+    "nameEn": "Clone",
+    "description": "这张牌能在休息处被复制。",
+    "descriptionEn": "This card can be duplicated at [gold]Rest Sites[/gold].",
+    "extraCardText": null,
+    "extraCardTextEn": null,
+    "image": "/enchantment-icons/clone.webp"
+  },
+  {
+    "id": "adroit",
+    "name": "伶俐",
+    "nameEn": "Adroit",
+    "description": "获得等同于该牌基础格挡值的格挡。（伶俐牌组附魔时为+3）",
+    "descriptionEn": "Gain [blue]{Block:diff()}[/blue] [gold]Block[/gold].",
+    "extraCardText": "获得等同于该牌基础格挡值的格挡。",
+    "extraCardTextEn": "Gain {Block:diff()} [gold]Block[/gold].",
+    "image": "/enchantment-icons/adroit.webp"
+  },
+  {
+    "id": "souls_power",
+    "name": "灵魂之力",
+    "nameEn": "Soul's Power",
+    "description": "这张牌失去消耗。",
+    "descriptionEn": "This card loses [gold]Exhaust[/gold].",
+    "extraCardText": null,
+    "extraCardTextEn": null,
+    "image": "/enchantment-icons/souls_power.webp"
+  },
+  {
+    "id": "nimble",
+    "name": "灵巧",
+    "nameEn": "Nimble",
+    "description": "这张牌获得的格挡值增加2点。",
+    "descriptionEn": "Increases [gold]Block[/gold] gained from this card by [blue]{Amount}[/blue].",
+    "extraCardText": null,
+    "extraCardTextEn": null,
+    "image": "/enchantment-icons/nimble.webp"
+  },
+  {
+    "id": "goopy",
+    "name": "黏糊",
+    "nameEn": "Goopy",
+    "description": "这张牌获得消耗。当被打出时，这张牌的格挡值永久增加1点。",
+    "descriptionEn": "This card gains [gold]Exhaust[/gold]. When played, permanently increase this card's [gold]Block[/gold] by [blue]1[/blue].",
+    "extraCardText": "这张牌的格挡值永久增加1点。",
+    "extraCardTextEn": "Permanently increase this card's [gold]Block[/gold] by [blue]1[/blue].",
+    "image": "/enchantment-icons/goopy.webp"
+  },
+  {
+    "id": "slither",
+    "name": "蛇行",
+    "nameEn": "Slither",
+    "description": "当你抽到这张牌时，使其费用在0到3之间随机变化。",
+    "descriptionEn": "When you draw this card, randomize its cost from [blue]0[/blue] to [blue]3[/blue].",
+    "extraCardText": null,
+    "extraCardTextEn": null,
+    "image": "/enchantment-icons/slither.webp"
+  },
+  {
+    "id": "tezcataras_ember",
+    "name": "特兹卡塔拉的余烬",
+    "nameEn": "Tezcatara's Ember",
+    "description": "费用为0且获得永恒。",
+    "descriptionEn": "Costs [blue]0[/blue] and gains [gold]Eternal[/gold].",
+    "extraCardText": null,
+    "extraCardTextEn": null,
+    "image": "/enchantment-icons/tezcataras_ember.webp"
+  },
+  {
+    "id": "perfect_fit",
+    "name": "完美契合",
+    "nameEn": "Perfect Fit",
+    "description": "每当这张牌要被洗入抽牌堆时，将其放在抽牌堆顶。",
+    "descriptionEn": "Whenever this would be shuffled into your [gold]Draw Pile[/gold], place it on the top instead.",
+    "extraCardText": "完美契合。",
+    "extraCardTextEn": "Perfect Fit.",
+    "image": "/enchantment-icons/perfect_fit.webp"
+  },
+  {
+    "id": "steady",
+    "name": "稳定",
+    "nameEn": "Steady",
+    "description": "这张牌获得保留。",
+    "descriptionEn": "This card gains [gold]Retain[/gold].",
+    "extraCardText": null,
+    "extraCardTextEn": null,
+    "image": "/enchantment-icons/steady.webp"
+  },
+  {
+    "id": "spiral",
+    "name": "涡旋",
+    "nameEn": "Spiral",
+    "description": "这张牌获得重放1。",
+    "descriptionEn": "This card gains [gold]Replay[/gold] [blue]1[/blue].",
+    "extraCardText": null,
+    "extraCardTextEn": null,
+    "image": "/enchantment-icons/spiral.webp"
+  },
+  {
+    "id": "swift",
+    "name": "迅速",
+    "nameEn": "Swift",
+    "description": "你第一次打出这张牌时，抽1张牌。",
+    "descriptionEn": "The first time you play this card, draw [blue]{Amount}[/blue] {Amount:plural:card|cards}.",
+    "extraCardText": "第一次打出时抽1张牌。",
+    "extraCardTextEn": "Draw {Amount} {Amount:plural:card|cards} the first time this is played.",
+    "image": "/enchantment-icons/swift.webp"
+  },
+  {
+    "id": "favored",
+    "name": "钟爱",
+    "nameEn": "Favored",
+    "description": "这张牌的攻击伤害翻倍。",
+    "descriptionEn": "This card's attack damage is doubled.",
+    "extraCardText": null,
+    "extraCardTextEn": null,
+    "image": "/enchantment-icons/favored.webp"
+  },
+  {
+    "id": "imbued",
+    "name": "注能",
+    "nameEn": "Imbued",
+    "description": "这张牌在每场战斗开始时自动打出。",
+    "descriptionEn": "This card is played automatically at the start of each combat.",
+    "extraCardText": "注能。",
+    "extraCardTextEn": "Imbued.",
+    "image": "/enchantment-icons/imbued.webp"
+  }
+]

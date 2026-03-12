@@ -1,0 +1,6985 @@
+[
+  {
+    "id": "abrasive",
+    "cost": 3,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "ThornsPower": 4,
+      "DexterityPower": 1
+    },
+    "varsUpgraded": {
+      "ThornsPower": 6,
+      "DexterityPower": 1
+    }
+  },
+  {
+    "id": "accelerant",
+    "cost": 1,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Accelerant": 1
+    },
+    "varsUpgraded": {
+      "Accelerant": 2
+    }
+  },
+  {
+    "id": "accuracy",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "AccuracyPower": 4
+    },
+    "varsUpgraded": {
+      "AccuracyPower": 6
+    }
+  },
+  {
+    "id": "acrobatics",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Cards": 3
+    },
+    "varsUpgraded": {
+      "Cards": 4
+    }
+  },
+  {
+    "id": "adaptive_strike",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 18
+    },
+    "varsUpgraded": {
+      "Damage": 23
+    }
+  },
+  {
+    "id": "adrenaline",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Cards": 2
+    }
+  },
+  {
+    "id": "afterimage",
+    "cost": 1,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "AfterimagePower": 1
+    }
+  },
+  {
+    "id": "afterlife",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Summon": 6
+    },
+    "varsUpgraded": {
+      "Summon": 9
+    }
+  },
+  {
+    "id": "aggression",
+    "cost": 1,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self"
+  },
+  {
+    "id": "alchemize",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "costUpgraded": 0
+  },
+  {
+    "id": "alignment",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self"
+  },
+  {
+    "id": "all_for_one",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 10
+    },
+    "varsUpgraded": {
+      "Damage": 14
+    }
+  },
+  {
+    "id": "anger",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 6
+    },
+    "varsUpgraded": {
+      "Damage": 8
+    }
+  },
+  {
+    "id": "anointed",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self"
+  },
+  {
+    "id": "anticipate",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "DexterityPower": 3
+    }
+  },
+  {
+    "id": "apotheosis",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "ancient",
+    "targetType": "self",
+    "costUpgraded": 1
+  },
+  {
+    "id": "apparition",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "ancient",
+    "targetType": "self",
+    "vars": {
+      "IntangiblePower": 1
+    }
+  },
+  {
+    "id": "armaments",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Block": 5
+    }
+  },
+  {
+    "id": "arsenal",
+    "cost": 1,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "ArsenalPower": 1
+    },
+    "varsUpgraded": {
+      "ArsenalPower": 2
+    }
+  },
+  {
+    "id": "ascenders_bane",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none"
+  },
+  {
+    "id": "ashen_strike",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 3,
+      "ExtraDamage": 3
+    },
+    "varsUpgraded": {
+      "Damage": 3,
+      "ExtraDamage": 4
+    }
+  },
+  {
+    "id": "assassinate",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 10,
+      "VulnerablePower": 1
+    },
+    "varsUpgraded": {
+      "Damage": 13,
+      "VulnerablePower": 1
+    }
+  },
+  {
+    "id": "astral_pulse",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 14
+    },
+    "varsUpgraded": {
+      "Damage": 18
+    }
+  },
+  {
+    "id": "automation",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "costUpgraded": 0
+  },
+  {
+    "id": "backflip",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Block": 5,
+      "Cards": 2
+    },
+    "varsUpgraded": {
+      "Block": 8,
+      "Cards": 2
+    }
+  },
+  {
+    "id": "backstab",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 11
+    },
+    "varsUpgraded": {
+      "Damage": 15
+    }
+  },
+  {
+    "id": "bad_luck",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none",
+    "vars": {
+      "HpLoss": 13
+    }
+  },
+  {
+    "id": "ball_lightning",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 7
+    },
+    "varsUpgraded": {
+      "Damage": 10
+    }
+  },
+  {
+    "id": "banshees_cry",
+    "cost": 6,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 33
+    },
+    "varsUpgraded": {
+      "Damage": 39
+    }
+  },
+  {
+    "id": "barrage",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 5
+    },
+    "varsUpgraded": {
+      "Damage": 7
+    }
+  },
+  {
+    "id": "barricade",
+    "cost": 3,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "costUpgraded": 2
+  },
+  {
+    "id": "bash",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "basic",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 8,
+      "VulnerablePower": 2
+    },
+    "varsUpgraded": {
+      "Damage": 10,
+      "VulnerablePower": 2
+    }
+  },
+  {
+    "id": "battle_trance",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Cards": 3
+    },
+    "varsUpgraded": {
+      "Cards": 4
+    }
+  },
+  {
+    "id": "beacon_of_hope",
+    "cost": 1,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self"
+  },
+  {
+    "id": "beam_cell",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 3,
+      "VulnerablePower": 1
+    },
+    "varsUpgraded": {
+      "Damage": 4,
+      "VulnerablePower": 1
+    }
+  },
+  {
+    "id": "beat_down",
+    "cost": 3,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "randomenemy",
+    "vars": {
+      "Cards": 3
+    },
+    "varsUpgraded": {
+      "Cards": 4
+    }
+  },
+  {
+    "id": "beat_into_shape",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 5
+    },
+    "varsUpgraded": {
+      "Damage": 7
+    }
+  },
+  {
+    "id": "beckon",
+    "cost": 1,
+    "type": "status",
+    "rarity": "status",
+    "targetType": "none",
+    "vars": {
+      "HpLoss": 6
+    }
+  },
+  {
+    "id": "begone",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 4
+    },
+    "varsUpgraded": {
+      "Damage": 5
+    }
+  },
+  {
+    "id": "believe_in_you",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "any_ally"
+  },
+  {
+    "id": "biased_cognition",
+    "cost": 1,
+    "type": "power",
+    "rarity": "ancient",
+    "targetType": "self",
+    "vars": {
+      "FocusPower": 4,
+      "BiasedCognitionPower": 1
+    },
+    "varsUpgraded": {
+      "FocusPower": 5,
+      "BiasedCognitionPower": 1
+    }
+  },
+  {
+    "id": "bigbang",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Cards": 1,
+      "Forge": 5
+    }
+  },
+  {
+    "id": "black_hole",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "BlackHolePower": 3
+    },
+    "varsUpgraded": {
+      "BlackHolePower": 4
+    }
+  },
+  {
+    "id": "blade_dance",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Cards": 3
+    },
+    "varsUpgraded": {
+      "Cards": 4
+    }
+  },
+  {
+    "id": "blade_of_ink",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "StrengthPower": 2
+    }
+  },
+  {
+    "id": "blight_strike",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 8
+    },
+    "varsUpgraded": {
+      "Damage": 10
+    }
+  },
+  {
+    "id": "blood_wall",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Block": 16,
+      "HpLoss": 2
+    },
+    "varsUpgraded": {
+      "Block": 20,
+      "HpLoss": 2
+    }
+  },
+  {
+    "id": "bloodletting",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "HpLoss": 3
+    }
+  },
+  {
+    "id": "bludgeon",
+    "cost": 3,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 32
+    },
+    "varsUpgraded": {
+      "Damage": 42
+    }
+  },
+  {
+    "id": "blur",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 5,
+      "Blur": 1
+    },
+    "varsUpgraded": {
+      "Block": 8,
+      "Blur": 1
+    }
+  },
+  {
+    "id": "body_slam",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 1,
+      "ExtraDamage": 1
+    },
+    "costUpgraded": 0
+  },
+  {
+    "id": "bodyguard",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "basic",
+    "targetType": "self",
+    "vars": {
+      "Summon": 5
+    },
+    "varsUpgraded": {
+      "Summon": 7
+    }
+  },
+  {
+    "id": "bolas",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 3
+    },
+    "varsUpgraded": {
+      "Damage": 4
+    }
+  },
+  {
+    "id": "bombardment",
+    "cost": 3,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 18
+    },
+    "varsUpgraded": {
+      "Damage": 24
+    }
+  },
+  {
+    "id": "bone_shards",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 9,
+      "Block": 9,
+      "OstyDamage": 9
+    },
+    "varsUpgraded": {
+      "Damage": 9,
+      "Block": 12,
+      "OstyDamage": 12
+    }
+  },
+  {
+    "id": "boost_away",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Block": 6
+    },
+    "varsUpgraded": {
+      "Block": 9
+    }
+  },
+  {
+    "id": "boot_sequence",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 10
+    },
+    "varsUpgraded": {
+      "Block": 13
+    }
+  },
+  {
+    "id": "borrowed_time",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "DoomPower": 3
+    }
+  },
+  {
+    "id": "bouncing_flask",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "randomenemy",
+    "vars": {
+      "PoisonPower": 3,
+      "Repeat": 3
+    },
+    "varsUpgraded": {
+      "PoisonPower": 3,
+      "Repeat": 4
+    }
+  },
+  {
+    "id": "brand",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "StrengthPower": 1,
+      "HpLoss": 1
+    }
+  },
+  {
+    "id": "break",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "ancient",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 20,
+      "VulnerablePower": 5
+    },
+    "varsUpgraded": {
+      "Damage": 25,
+      "VulnerablePower": 5
+    }
+  },
+  {
+    "id": "breakthrough",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 9,
+      "HpLoss": 1
+    },
+    "varsUpgraded": {
+      "Damage": 13,
+      "HpLoss": 1
+    }
+  },
+  {
+    "id": "brightest_flame",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "ancient",
+    "targetType": "self",
+    "vars": {
+      "Cards": 2,
+      "MaxHp": 1
+    },
+    "varsUpgraded": {
+      "Cards": 3,
+      "MaxHp": 1
+    }
+  },
+  {
+    "id": "bubblebubble",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "PoisonPower": 9
+    }
+  },
+  {
+    "id": "buffer",
+    "cost": 2,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "BufferPower": 1
+    },
+    "varsUpgraded": {
+      "BufferPower": 2
+    }
+  },
+  {
+    "id": "bulk_up",
+    "cost": 2,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "OrbSlots": 1,
+      "StrengthPower": 2,
+      "DexterityPower": 2
+    }
+  },
+  {
+    "id": "bullet_time",
+    "cost": 3,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "costUpgraded": 2
+  },
+  {
+    "id": "bully",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 2,
+      "ExtraDamage": 2
+    },
+    "varsUpgraded": {
+      "Damage": 2,
+      "ExtraDamage": 3
+    }
+  },
+  {
+    "id": "bulwark",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 13,
+      "Forge": 10
+    },
+    "varsUpgraded": {
+      "Block": 16,
+      "Forge": 13
+    }
+  },
+  {
+    "id": "bundle_of_joy",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Cards": 3
+    },
+    "varsUpgraded": {
+      "Cards": 4
+    }
+  },
+  {
+    "id": "burn",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none",
+    "vars": {
+      "Damage": 2
+    }
+  },
+  {
+    "id": "burning_pact",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Cards": 2
+    },
+    "varsUpgraded": {
+      "Cards": 3
+    }
+  },
+  {
+    "id": "burst",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Skills": 1
+    },
+    "varsUpgraded": {
+      "Skills": 2
+    }
+  },
+  {
+    "id": "bury",
+    "cost": 4,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 52
+    },
+    "varsUpgraded": {
+      "Damage": 63
+    }
+  },
+  {
+    "id": "byrd_swoop",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "event",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 14
+    },
+    "varsUpgraded": {
+      "Damage": 18
+    }
+  },
+  {
+    "id": "byrdonis_egg",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none"
+  },
+  {
+    "id": "calamity",
+    "cost": 3,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "costUpgraded": 2
+  },
+  {
+    "id": "calcify",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "CalcifyPower": 4
+    },
+    "varsUpgraded": {
+      "CalcifyPower": 6
+    }
+  },
+  {
+    "id": "calculated_gamble",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self"
+  },
+  {
+    "id": "call_of_the_void",
+    "cost": 1,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Cards": 1
+    }
+  },
+  {
+    "id": "caltrops",
+    "cost": 1,
+    "type": "power",
+    "rarity": "event",
+    "targetType": "self",
+    "vars": {
+      "ThornsPower": 3
+    },
+    "varsUpgraded": {
+      "ThornsPower": 5
+    }
+  },
+  {
+    "id": "capacitor",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Repeat": 2
+    },
+    "varsUpgraded": {
+      "Repeat": 3
+    }
+  },
+  {
+    "id": "capture_spirit",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 3,
+      "Cards": 3
+    },
+    "varsUpgraded": {
+      "Damage": 4,
+      "Cards": 4
+    }
+  },
+  {
+    "id": "cascade",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none"
+  },
+  {
+    "id": "catastrophe",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Cards": 2
+    },
+    "varsUpgraded": {
+      "Cards": 3
+    }
+  },
+  {
+    "id": "celestial_might",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 6,
+      "Repeat": 3
+    },
+    "varsUpgraded": {
+      "Damage": 8,
+      "Repeat": 3
+    }
+  },
+  {
+    "id": "chaos",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Repeat": 1
+    },
+    "varsUpgraded": {
+      "Repeat": 2
+    }
+  },
+  {
+    "id": "charge",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Cards": 2
+    }
+  },
+  {
+    "id": "charge_battery",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Block": 7
+    },
+    "varsUpgraded": {
+      "Block": 10
+    }
+  },
+  {
+    "id": "child_of_the_stars",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "BlockForStars": 2
+    },
+    "varsUpgraded": {
+      "BlockForStars": 3
+    }
+  },
+  {
+    "id": "chill",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self"
+  },
+  {
+    "id": "cinder",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 17,
+      "CardsToExhaust": 1
+    },
+    "varsUpgraded": {
+      "Damage": 22,
+      "CardsToExhaust": 1
+    }
+  },
+  {
+    "id": "clash",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "event",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 14
+    },
+    "varsUpgraded": {
+      "Damage": 18
+    }
+  },
+  {
+    "id": "claw",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 3,
+      "Increase": 2
+    },
+    "varsUpgraded": {
+      "Damage": 4,
+      "Increase": 3
+    }
+  },
+  {
+    "id": "cleanse",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Summon": 3
+    },
+    "varsUpgraded": {
+      "Summon": 5
+    }
+  },
+  {
+    "id": "cloak_and_dagger",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Block": 6,
+      "Cards": 1
+    },
+    "varsUpgraded": {
+      "Block": 6,
+      "Cards": 2
+    }
+  },
+  {
+    "id": "cloak_of_stars",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Block": 7
+    },
+    "varsUpgraded": {
+      "Block": 10
+    }
+  },
+  {
+    "id": "clumsy",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none"
+  },
+  {
+    "id": "cold_snap",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 6
+    },
+    "varsUpgraded": {
+      "Damage": 9
+    }
+  },
+  {
+    "id": "collisioncourse",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 9
+    },
+    "varsUpgraded": {
+      "Damage": 12
+    }
+  },
+  {
+    "id": "colossus",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Block": 5,
+      "Colossus": 1
+    },
+    "varsUpgraded": {
+      "Block": 8,
+      "Colossus": 1
+    }
+  },
+  {
+    "id": "comet",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 33,
+      "VulnerablePower": 3,
+      "WeakPower": 3
+    },
+    "varsUpgraded": {
+      "Damage": 44,
+      "VulnerablePower": 3,
+      "WeakPower": 3
+    }
+  },
+  {
+    "id": "compact",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 6
+    },
+    "varsUpgraded": {
+      "Block": 7
+    }
+  },
+  {
+    "id": "compile_driver",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 7
+    },
+    "varsUpgraded": {
+      "Damage": 10
+    }
+  },
+  {
+    "id": "conflagration",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 2,
+      "ExtraDamage": 2
+    },
+    "varsUpgraded": {
+      "Damage": 2,
+      "ExtraDamage": 3
+    }
+  },
+  {
+    "id": "conqueror",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Forge": 3
+    },
+    "varsUpgraded": {
+      "Forge": 5
+    }
+  },
+  {
+    "id": "consuming_shadow",
+    "cost": 2,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "ConsumingShadowPower": 1,
+      "Repeat": 2
+    },
+    "varsUpgraded": {
+      "ConsumingShadowPower": 1,
+      "Repeat": 3
+    }
+  },
+  {
+    "id": "convergence",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self"
+  },
+  {
+    "id": "coolant",
+    "cost": 1,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "CoolantPower": 2
+    },
+    "varsUpgraded": {
+      "CoolantPower": 3
+    }
+  },
+  {
+    "id": "coolheaded",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Cards": 1
+    },
+    "varsUpgraded": {
+      "Cards": 2
+    }
+  },
+  {
+    "id": "coordinate",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "any_ally",
+    "vars": {
+      "StrengthPower": 5
+    }
+  },
+  {
+    "id": "corrosive_wave",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "CorrosiveWave": 3
+    },
+    "varsUpgraded": {
+      "CorrosiveWave": 4
+    }
+  },
+  {
+    "id": "corruption",
+    "cost": 3,
+    "type": "power",
+    "rarity": "ancient",
+    "targetType": "self",
+    "vars": {
+      "Power": 1
+    },
+    "costUpgraded": 2
+  },
+  {
+    "id": "cosmic_indifference",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Block": 6
+    },
+    "varsUpgraded": {
+      "Block": 9
+    }
+  },
+  {
+    "id": "countdown",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "CountdownPower": 6
+    },
+    "varsUpgraded": {
+      "CountdownPower": 9
+    }
+  },
+  {
+    "id": "crash_landing",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 21
+    },
+    "varsUpgraded": {
+      "Damage": 26
+    }
+  },
+  {
+    "id": "creative_ai",
+    "cost": 3,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "CreativeAi": 1
+    },
+    "costUpgraded": 2
+  },
+  {
+    "id": "crescent_spear",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 2,
+      "ExtraDamage": 2
+    },
+    "varsUpgraded": {
+      "Damage": 2,
+      "ExtraDamage": 3
+    }
+  },
+  {
+    "id": "crimson_mantle",
+    "cost": 1,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "CrimsonMantlePower": 8
+    },
+    "varsUpgraded": {
+      "CrimsonMantlePower": 10
+    }
+  },
+  {
+    "id": "cruelty",
+    "cost": 1,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "CrueltyPower": 25
+    },
+    "varsUpgraded": {
+      "CrueltyPower": 50
+    }
+  },
+  {
+    "id": "crush_under",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 7,
+      "StrengthLoss": 1
+    },
+    "varsUpgraded": {
+      "Damage": 8,
+      "StrengthLoss": 2
+    }
+  },
+  {
+    "id": "curse_of_the_bell",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none"
+  },
+  {
+    "id": "dagger_spray",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 4
+    },
+    "varsUpgraded": {
+      "Damage": 6
+    }
+  },
+  {
+    "id": "dagger_throw",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 9
+    },
+    "varsUpgraded": {
+      "Damage": 12
+    }
+  },
+  {
+    "id": "danse_macabre",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "DanseMacabrePower": 3
+    },
+    "varsUpgraded": {
+      "DanseMacabrePower": 4
+    }
+  },
+  {
+    "id": "dark_embrace",
+    "cost": 2,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "costUpgraded": 1
+  },
+  {
+    "id": "dark_shackles",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "StrengthLoss": 9
+    },
+    "varsUpgraded": {
+      "StrengthLoss": 15
+    }
+  },
+  {
+    "id": "darkness",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self"
+  },
+  {
+    "id": "dash",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 10,
+      "Block": 10
+    },
+    "varsUpgraded": {
+      "Damage": 13,
+      "Block": 13
+    }
+  },
+  {
+    "id": "dazed",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none"
+  },
+  {
+    "id": "deadly_poison",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "PoisonPower": 5
+    }
+  },
+  {
+    "id": "death_march",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 3,
+      "ExtraDamage": 3
+    },
+    "varsUpgraded": {
+      "Damage": 3,
+      "ExtraDamage": 4
+    }
+  },
+  {
+    "id": "deathbringer",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "allenemies",
+    "vars": {
+      "DoomPower": 21,
+      "WeakPower": 1
+    }
+  },
+  {
+    "id": "deathsdoor",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 6,
+      "Repeat": 2
+    },
+    "varsUpgraded": {
+      "Block": 7,
+      "Repeat": 2
+    }
+  },
+  {
+    "id": "debilitate",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 7,
+      "DebilitatePower": 3
+    },
+    "varsUpgraded": {
+      "Damage": 9,
+      "DebilitatePower": 4
+    }
+  },
+  {
+    "id": "debris",
+    "cost": 1,
+    "type": "status",
+    "rarity": "status",
+    "targetType": "none"
+  },
+  {
+    "id": "debt",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none"
+  },
+  {
+    "id": "decay",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none",
+    "vars": {
+      "Damage": 2
+    }
+  },
+  {
+    "id": "decisionsdecisions",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Cards": 3,
+      "Repeat": 3
+    },
+    "varsUpgraded": {
+      "Cards": 5,
+      "Repeat": 3
+    }
+  },
+  {
+    "id": "defend_ironclad",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "basic",
+    "targetType": "self",
+    "vars": {
+      "Block": 5
+    },
+    "varsUpgraded": {
+      "Block": 8
+    }
+  },
+  {
+    "id": "defend_necrobinder",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "basic",
+    "targetType": "self",
+    "vars": {
+      "Block": 5
+    },
+    "varsUpgraded": {
+      "Block": 8
+    }
+  },
+  {
+    "id": "defend_regent",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "basic",
+    "targetType": "self",
+    "vars": {
+      "Block": 5
+    },
+    "varsUpgraded": {
+      "Block": 8
+    }
+  },
+  {
+    "id": "defend_silent",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "basic",
+    "targetType": "self",
+    "vars": {
+      "Block": 5
+    },
+    "varsUpgraded": {
+      "Block": 8
+    }
+  },
+  {
+    "id": "defenddefect",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "basic",
+    "targetType": "self",
+    "vars": {
+      "Block": 5
+    },
+    "varsUpgraded": {
+      "Block": 8
+    }
+  },
+  {
+    "id": "defile",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 13
+    },
+    "varsUpgraded": {
+      "Damage": 17
+    }
+  },
+  {
+    "id": "deflect",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Block": 4
+    },
+    "varsUpgraded": {
+      "Block": 7
+    }
+  },
+  {
+    "id": "defragment",
+    "cost": 1,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "FocusPower": 1
+    },
+    "varsUpgraded": {
+      "FocusPower": 2
+    }
+  },
+  {
+    "id": "defy",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Block": 6,
+      "WeakPower": 1
+    },
+    "varsUpgraded": {
+      "Block": 7,
+      "WeakPower": 1
+    }
+  },
+  {
+    "id": "delay",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 11
+    },
+    "varsUpgraded": {
+      "Block": 13
+    }
+  },
+  {
+    "id": "demesne",
+    "cost": 3,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Cards": 1
+    },
+    "costUpgraded": 2
+  },
+  {
+    "id": "demon_form",
+    "cost": 3,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "StrengthPower": 2
+    },
+    "varsUpgraded": {
+      "StrengthPower": 3
+    }
+  },
+  {
+    "id": "demonic_shield",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "any_ally",
+    "vars": {
+      "HpLoss": 1
+    }
+  },
+  {
+    "id": "deprecated",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none"
+  },
+  {
+    "id": "devastate",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 30
+    },
+    "varsUpgraded": {
+      "Damage": 40
+    }
+  },
+  {
+    "id": "devour_life",
+    "cost": 1,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "DevourLifePower": 1
+    },
+    "varsUpgraded": {
+      "DevourLifePower": 2
+    }
+  },
+  {
+    "id": "dirge",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Summon": 3
+    },
+    "varsUpgraded": {
+      "Summon": 4
+    }
+  },
+  {
+    "id": "discovery",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self"
+  },
+  {
+    "id": "disintegration",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none",
+    "vars": {
+      "DisintegrationPower": 6
+    }
+  },
+  {
+    "id": "dismantle",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 8
+    },
+    "varsUpgraded": {
+      "Damage": 10
+    }
+  },
+  {
+    "id": "distraction",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "event",
+    "targetType": "self",
+    "costUpgraded": 0
+  },
+  {
+    "id": "dodge_and_roll",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Block": 4
+    },
+    "varsUpgraded": {
+      "Block": 6
+    }
+  },
+  {
+    "id": "dominate",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "StrengthPerVulnerable": 1
+    }
+  },
+  {
+    "id": "double_energy",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "costUpgraded": 0
+  },
+  {
+    "id": "doubt",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none",
+    "vars": {
+      "WeakPower": 1
+    }
+  },
+  {
+    "id": "drain_power",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 10,
+      "Cards": 2
+    },
+    "varsUpgraded": {
+      "Damage": 12,
+      "Cards": 3
+    }
+  },
+  {
+    "id": "dramatic_entrance",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 11
+    },
+    "varsUpgraded": {
+      "Damage": 15
+    }
+  },
+  {
+    "id": "dredge",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Cards": 3
+    }
+  },
+  {
+    "id": "drum_of_battle",
+    "cost": 0,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "DrumOfBattlePower": 1,
+      "Cards": 2
+    },
+    "varsUpgraded": {
+      "DrumOfBattlePower": 1,
+      "Cards": 3
+    }
+  },
+  {
+    "id": "dual_wield",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "event",
+    "targetType": "self",
+    "vars": {
+      "Cards": 1
+    },
+    "varsUpgraded": {
+      "Cards": 2
+    }
+  },
+  {
+    "id": "dualcast",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "basic",
+    "targetType": "self",
+    "costUpgraded": 0
+  },
+  {
+    "id": "dying_star",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 9,
+      "StrengthLoss": 9
+    },
+    "varsUpgraded": {
+      "Damage": 11,
+      "StrengthLoss": 11
+    }
+  },
+  {
+    "id": "echo_form",
+    "cost": 3,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "EchoForm": 1
+    }
+  },
+  {
+    "id": "echoing_slash",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 10
+    },
+    "varsUpgraded": {
+      "Damage": 13
+    }
+  },
+  {
+    "id": "eidolon",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "costUpgraded": 1
+  },
+  {
+    "id": "end_of_days",
+    "cost": 3,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "allenemies",
+    "vars": {
+      "DoomPower": 29
+    }
+  },
+  {
+    "id": "energy_surge",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "allallies"
+  },
+  {
+    "id": "enfeebling_touch",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "StrengthLoss": 8
+    },
+    "varsUpgraded": {
+      "StrengthLoss": 11
+    }
+  },
+  {
+    "id": "enlightenment",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "event",
+    "targetType": "self"
+  },
+  {
+    "id": "enthralled",
+    "cost": 2,
+    "type": "curse",
+    "rarity": "curse",
+    "targetType": "none"
+  },
+  {
+    "id": "entrench",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "event",
+    "targetType": "self",
+    "costUpgraded": 1
+  },
+  {
+    "id": "entropy",
+    "cost": 1,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Cards": 1
+    }
+  },
+  {
+    "id": "envenom",
+    "cost": 2,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "EnvenomPower": 1
+    },
+    "varsUpgraded": {
+      "EnvenomPower": 2
+    }
+  },
+  {
+    "id": "equilibrium",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 13,
+      "Equilibrium": 1
+    },
+    "varsUpgraded": {
+      "Block": 16,
+      "Equilibrium": 1
+    }
+  },
+  {
+    "id": "eradicate",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 11
+    },
+    "varsUpgraded": {
+      "Damage": 14
+    }
+  },
+  {
+    "id": "escape_plan",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 3
+    },
+    "varsUpgraded": {
+      "Block": 5
+    }
+  },
+  {
+    "id": "eternal_armor",
+    "cost": 3,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "PlatingPower": 7
+    },
+    "varsUpgraded": {
+      "PlatingPower": 9
+    }
+  },
+  {
+    "id": "evileye",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 8
+    },
+    "varsUpgraded": {
+      "Block": 11
+    }
+  },
+  {
+    "id": "expect_a_fight",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "costUpgraded": 1
+  },
+  {
+    "id": "expertise",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Cards": 6
+    },
+    "varsUpgraded": {
+      "Cards": 7
+    }
+  },
+  {
+    "id": "expose",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Power": 2
+    },
+    "varsUpgraded": {
+      "Power": 3
+    }
+  },
+  {
+    "id": "exterminate",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "event",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 3,
+      "Repeat": 4
+    },
+    "varsUpgraded": {
+      "Damage": 4,
+      "Repeat": 4
+    }
+  },
+  {
+    "id": "falling_star",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "basic",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 7,
+      "VulnerablePower": 1,
+      "WeakPower": 1
+    },
+    "varsUpgraded": {
+      "Damage": 11,
+      "VulnerablePower": 1,
+      "WeakPower": 1
+    }
+  },
+  {
+    "id": "fan_of_knives",
+    "cost": 2,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self"
+  },
+  {
+    "id": "fasten",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "ExtraBlock": 5
+    },
+    "varsUpgraded": {
+      "ExtraBlock": 7
+    }
+  },
+  {
+    "id": "fear",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 7,
+      "VulnerablePower": 1
+    },
+    "varsUpgraded": {
+      "Damage": 8,
+      "VulnerablePower": 1
+    }
+  },
+  {
+    "id": "feed",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 10,
+      "MaxHp": 3
+    },
+    "varsUpgraded": {
+      "Damage": 12,
+      "MaxHp": 4
+    }
+  },
+  {
+    "id": "feedingfrenzy",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "event",
+    "targetType": "self",
+    "vars": {
+      "StrengthPower": 5
+    }
+  },
+  {
+    "id": "feel_no_pain",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Power": 3
+    },
+    "varsUpgraded": {
+      "Power": 4
+    }
+  },
+  {
+    "id": "feral",
+    "cost": 2,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "FeralPower": 1
+    },
+    "costUpgraded": 1
+  },
+  {
+    "id": "fetch",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 3,
+      "Cards": 1,
+      "OstyDamage": 3
+    },
+    "varsUpgraded": {
+      "Damage": 3,
+      "Cards": 1,
+      "OstyDamage": 6
+    }
+  },
+  {
+    "id": "fiendfire",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 7
+    },
+    "varsUpgraded": {
+      "Damage": 10
+    }
+  },
+  {
+    "id": "fight_me",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 5,
+      "EnemyStrength": 1,
+      "StrengthPower": 2,
+      "Repeat": 2
+    },
+    "varsUpgraded": {
+      "Damage": 6,
+      "EnemyStrength": 1,
+      "StrengthPower": 2,
+      "Repeat": 2
+    }
+  },
+  {
+    "id": "fight_through",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 13
+    },
+    "varsUpgraded": {
+      "Block": 17
+    }
+  },
+  {
+    "id": "finesse",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 4,
+      "Cards": 1
+    },
+    "varsUpgraded": {
+      "Block": 7,
+      "Cards": 1
+    }
+  },
+  {
+    "id": "finisher",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 6
+    },
+    "varsUpgraded": {
+      "Damage": 8
+    }
+  },
+  {
+    "id": "fisticuffs",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 7
+    },
+    "varsUpgraded": {
+      "Damage": 9
+    }
+  },
+  {
+    "id": "flak_cannon",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "randomenemy",
+    "vars": {
+      "Damage": 8
+    },
+    "varsUpgraded": {
+      "Damage": 11
+    }
+  },
+  {
+    "id": "flame_barrier",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 12,
+      "DamageBack": 4
+    },
+    "varsUpgraded": {
+      "Block": 16,
+      "DamageBack": 6
+    }
+  },
+  {
+    "id": "flanking",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "costUpgraded": 1
+  },
+  {
+    "id": "flash_of_steel",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 5,
+      "Cards": 1
+    },
+    "varsUpgraded": {
+      "Damage": 8,
+      "Cards": 1
+    }
+  },
+  {
+    "id": "flatten",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 12,
+      "OstyDamage": 12
+    },
+    "varsUpgraded": {
+      "Damage": 12,
+      "OstyDamage": 16
+    }
+  },
+  {
+    "id": "flechettes",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 5
+    },
+    "varsUpgraded": {
+      "Damage": 7
+    }
+  },
+  {
+    "id": "flickflack",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 7
+    },
+    "varsUpgraded": {
+      "Damage": 9
+    }
+  },
+  {
+    "id": "focused_strike",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 9,
+      "FocusPower": 1
+    },
+    "varsUpgraded": {
+      "Damage": 11,
+      "FocusPower": 2
+    }
+  },
+  {
+    "id": "follow_through",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 6,
+      "WeakPower": 1
+    },
+    "varsUpgraded": {
+      "Damage": 8,
+      "WeakPower": 1
+    }
+  },
+  {
+    "id": "folly",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none"
+  },
+  {
+    "id": "footwork",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "DexterityPower": 2
+    }
+  },
+  {
+    "id": "forbidden_grimoire",
+    "cost": 2,
+    "type": "power",
+    "rarity": "ancient",
+    "targetType": "self",
+    "costUpgraded": 1
+  },
+  {
+    "id": "foregone_conclusion",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Cards": 2
+    },
+    "varsUpgraded": {
+      "Cards": 3
+    }
+  },
+  {
+    "id": "forgotten_ritual",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self"
+  },
+  {
+    "id": "frantic_escape",
+    "cost": 1,
+    "type": "status",
+    "rarity": "status",
+    "targetType": "self"
+  },
+  {
+    "id": "friendship",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "StrengthPower": 2
+    },
+    "varsUpgraded": {
+      "StrengthPower": 1
+    }
+  },
+  {
+    "id": "ftl",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 5,
+      "Cards": 1
+    },
+    "varsUpgraded": {
+      "Damage": 6,
+      "Cards": 1
+    }
+  },
+  {
+    "id": "fuel",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "token",
+    "targetType": "self",
+    "vars": {
+      "Cards": 1
+    },
+    "varsUpgraded": {
+      "Cards": 2
+    }
+  },
+  {
+    "id": "furnace",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Forge": 4
+    },
+    "varsUpgraded": {
+      "Forge": 6
+    }
+  },
+  {
+    "id": "fusion",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "costUpgraded": 1
+  },
+  {
+    "id": "gamma_blast",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 13,
+      "VulnerablePower": 2,
+      "WeakPower": 2
+    },
+    "varsUpgraded": {
+      "Damage": 18,
+      "VulnerablePower": 2,
+      "WeakPower": 2
+    }
+  },
+  {
+    "id": "gang_up",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 5,
+      "ExtraDamage": 5
+    },
+    "varsUpgraded": {
+      "Damage": 5,
+      "ExtraDamage": 7
+    }
+  },
+  {
+    "id": "gather_light",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Block": 7
+    },
+    "varsUpgraded": {
+      "Block": 10
+    }
+  },
+  {
+    "id": "genesis",
+    "cost": 2,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "StarsPerTurn": 2
+    },
+    "varsUpgraded": {
+      "StarsPerTurn": 3
+    }
+  },
+  {
+    "id": "genetic_algorithm",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self"
+  },
+  {
+    "id": "giant_rock",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "token",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 16
+    },
+    "varsUpgraded": {
+      "Damage": 20
+    }
+  },
+  {
+    "id": "glacier",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 6
+    },
+    "varsUpgraded": {
+      "Block": 9
+    }
+  },
+  {
+    "id": "glasswork",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 5
+    },
+    "varsUpgraded": {
+      "Block": 8
+    }
+  },
+  {
+    "id": "glimmer",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "PutBack": 1,
+      "Cards": 3
+    },
+    "varsUpgraded": {
+      "PutBack": 1,
+      "Cards": 4
+    }
+  },
+  {
+    "id": "glimpse_beyond",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "allallies",
+    "vars": {
+      "Cards": 3
+    },
+    "varsUpgraded": {
+      "Cards": 4
+    }
+  },
+  {
+    "id": "glitterstream",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Block": 11
+    },
+    "varsUpgraded": {
+      "Block": 13
+    }
+  },
+  {
+    "id": "glow",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Cards": 2
+    }
+  },
+  {
+    "id": "go_for_the_eyes",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 3,
+      "WeakPower": 1
+    },
+    "varsUpgraded": {
+      "Damage": 4,
+      "WeakPower": 1
+    }
+  },
+  {
+    "id": "gold_axe",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 1,
+      "ExtraDamage": 1
+    }
+  },
+  {
+    "id": "grand_finale",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 50
+    },
+    "varsUpgraded": {
+      "Damage": 60
+    }
+  },
+  {
+    "id": "grapple",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 7,
+      "GrapplePower": 5
+    },
+    "varsUpgraded": {
+      "Damage": 9,
+      "GrapplePower": 7
+    }
+  },
+  {
+    "id": "grave_warden",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Block": 8,
+      "Cards": 1
+    },
+    "varsUpgraded": {
+      "Block": 10,
+      "Cards": 1
+    }
+  },
+  {
+    "id": "graveblast",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 4
+    },
+    "varsUpgraded": {
+      "Damage": 6
+    }
+  },
+  {
+    "id": "greed",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none"
+  },
+  {
+    "id": "guards",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self"
+  },
+  {
+    "id": "guiding_star",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 12,
+      "Cards": 2
+    },
+    "varsUpgraded": {
+      "Damage": 13,
+      "Cards": 3
+    }
+  },
+  {
+    "id": "guilty",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none",
+    "vars": {
+      "Combats": 5
+    }
+  },
+  {
+    "id": "gunk_up",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 4,
+      "Repeat": 3
+    },
+    "varsUpgraded": {
+      "Damage": 5,
+      "Repeat": 3
+    }
+  },
+  {
+    "id": "hailstorm",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "HailstormPower": 6
+    },
+    "varsUpgraded": {
+      "HailstormPower": 8
+    }
+  },
+  {
+    "id": "hammer_time",
+    "cost": 2,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "costUpgraded": 1
+  },
+  {
+    "id": "hand_of_greed",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 20,
+      "Gold": 20
+    },
+    "varsUpgraded": {
+      "Damage": 25,
+      "Gold": 25
+    }
+  },
+  {
+    "id": "hand_trick",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 7
+    },
+    "varsUpgraded": {
+      "Block": 10
+    }
+  },
+  {
+    "id": "hang",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 10
+    },
+    "varsUpgraded": {
+      "Damage": 13
+    }
+  },
+  {
+    "id": "haunt",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "HpLoss": 6
+    },
+    "varsUpgraded": {
+      "HpLoss": 8
+    }
+  },
+  {
+    "id": "havoc",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "costUpgraded": 0
+  },
+  {
+    "id": "haze",
+    "cost": 3,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "allenemies",
+    "vars": {
+      "PoisonPower": 4
+    }
+  },
+  {
+    "id": "headbutt",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 9
+    },
+    "varsUpgraded": {
+      "Damage": 12
+    }
+  },
+  {
+    "id": "heavenly_drill",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 8
+    },
+    "varsUpgraded": {
+      "Damage": 10
+    }
+  },
+  {
+    "id": "hegemony",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 15
+    },
+    "varsUpgraded": {
+      "Damage": 18
+    }
+  },
+  {
+    "id": "heirloomhammer",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 17,
+      "Repeat": 1
+    },
+    "varsUpgraded": {
+      "Damage": 22,
+      "Repeat": 1
+    }
+  },
+  {
+    "id": "helix_drill",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 3
+    },
+    "varsUpgraded": {
+      "Damage": 5
+    }
+  },
+  {
+    "id": "hello_world",
+    "cost": 1,
+    "type": "power",
+    "rarity": "event",
+    "targetType": "self"
+  },
+  {
+    "id": "hellraiser",
+    "cost": 2,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "costUpgraded": 1
+  },
+  {
+    "id": "hemokinesis",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 14,
+      "HpLoss": 2
+    },
+    "varsUpgraded": {
+      "Damage": 19,
+      "HpLoss": 2
+    }
+  },
+  {
+    "id": "hidden_cache",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "StarNextTurnPower": 3
+    },
+    "varsUpgraded": {
+      "StarNextTurnPower": 4
+    }
+  },
+  {
+    "id": "hidden_daggers",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Shivs": 2,
+      "Cards": 2
+    }
+  },
+  {
+    "id": "hidden_gem",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self"
+  },
+  {
+    "id": "high_five",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 11,
+      "VulnerablePower": 2,
+      "OstyDamage": 11
+    },
+    "varsUpgraded": {
+      "Damage": 11,
+      "VulnerablePower": 2,
+      "OstyDamage": 13
+    }
+  },
+  {
+    "id": "hologram",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Block": 3
+    },
+    "varsUpgraded": {
+      "Block": 5
+    }
+  },
+  {
+    "id": "hotfix",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "FocusPower": 2
+    },
+    "varsUpgraded": {
+      "FocusPower": 3
+    }
+  },
+  {
+    "id": "howl_from_beyond",
+    "cost": 3,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 16
+    },
+    "varsUpgraded": {
+      "Damage": 21
+    }
+  },
+  {
+    "id": "huddle_up",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "allallies",
+    "vars": {
+      "Cards": 2
+    },
+    "varsUpgraded": {
+      "Cards": 3
+    }
+  },
+  {
+    "id": "hyperbeam",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 26,
+      "FocusPower": 3
+    },
+    "varsUpgraded": {
+      "Damage": 34,
+      "FocusPower": 3
+    }
+  },
+  {
+    "id": "i_aminvincible",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Block": 9
+    },
+    "varsUpgraded": {
+      "Block": 12
+    }
+  },
+  {
+    "id": "ice_lance",
+    "cost": 3,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 19,
+      "Repeat": 3
+    },
+    "varsUpgraded": {
+      "Damage": 24,
+      "Repeat": 3
+    }
+  },
+  {
+    "id": "ignition",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "any_ally"
+  },
+  {
+    "id": "impatience",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Cards": 2
+    },
+    "varsUpgraded": {
+      "Cards": 3
+    }
+  },
+  {
+    "id": "impervious",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Block": 30
+    },
+    "varsUpgraded": {
+      "Block": 40
+    }
+  },
+  {
+    "id": "infection",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none",
+    "vars": {
+      "Damage": 3
+    }
+  },
+  {
+    "id": "infernal_blade",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "costUpgraded": 0
+  },
+  {
+    "id": "inferno",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "InfernoPower": 6
+    },
+    "varsUpgraded": {
+      "InfernoPower": 9
+    }
+  },
+  {
+    "id": "infinite_blades",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self"
+  },
+  {
+    "id": "inflame",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "StrengthPower": 2
+    },
+    "varsUpgraded": {
+      "StrengthPower": 3
+    }
+  },
+  {
+    "id": "injury",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none"
+  },
+  {
+    "id": "intercept",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "any_ally",
+    "vars": {
+      "Block": 9
+    },
+    "varsUpgraded": {
+      "Block": 13
+    }
+  },
+  {
+    "id": "invoke",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Summon": 2
+    },
+    "varsUpgraded": {
+      "Summon": 3
+    }
+  },
+  {
+    "id": "iron_wave",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 5,
+      "Block": 5
+    },
+    "varsUpgraded": {
+      "Damage": 7,
+      "Block": 7
+    }
+  },
+  {
+    "id": "iteration",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "IterationPower": 2
+    },
+    "varsUpgraded": {
+      "IterationPower": 3
+    }
+  },
+  {
+    "id": "jack_of_all_trades",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Cards": 1
+    },
+    "varsUpgraded": {
+      "Cards": 2
+    }
+  },
+  {
+    "id": "jackpot",
+    "cost": 3,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 25,
+      "Cards": 3
+    },
+    "varsUpgraded": {
+      "Damage": 30,
+      "Cards": 3
+    }
+  },
+  {
+    "id": "juggernaut",
+    "cost": 2,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "JuggernautPower": 5
+    },
+    "varsUpgraded": {
+      "JuggernautPower": 7
+    }
+  },
+  {
+    "id": "juggling",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self"
+  },
+  {
+    "id": "kingly_punch",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 8,
+      "Increase": 3
+    },
+    "varsUpgraded": {
+      "Damage": 8,
+      "Increase": 5
+    }
+  },
+  {
+    "id": "kinglykick",
+    "cost": 4,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 24
+    },
+    "varsUpgraded": {
+      "Damage": 30
+    }
+  },
+  {
+    "id": "knife_trap",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "any_enemy"
+  },
+  {
+    "id": "knockdown",
+    "cost": 3,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 10,
+      "KnockdownPower": 2
+    },
+    "varsUpgraded": {
+      "Damage": 14,
+      "KnockdownPower": 3
+    }
+  },
+  {
+    "id": "knockout_blow",
+    "cost": 3,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 30
+    },
+    "varsUpgraded": {
+      "Damage": 38
+    }
+  },
+  {
+    "id": "know_thy_place",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "WeakPower": 1,
+      "VulnerablePower": 1
+    }
+  },
+  {
+    "id": "lantern_key",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none"
+  },
+  {
+    "id": "largesse",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "any_ally"
+  },
+  {
+    "id": "leading_strike",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 7
+    },
+    "varsUpgraded": {
+      "Damage": 10
+    }
+  },
+  {
+    "id": "leap",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Block": 9
+    },
+    "varsUpgraded": {
+      "Block": 12
+    }
+  },
+  {
+    "id": "leg_sweep",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Block": 11,
+      "WeakPower": 2
+    },
+    "varsUpgraded": {
+      "Block": 14,
+      "WeakPower": 2
+    }
+  },
+  {
+    "id": "legion_of_bone",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "allallies",
+    "vars": {
+      "Summon": 6
+    },
+    "varsUpgraded": {
+      "Summon": 8
+    }
+  },
+  {
+    "id": "lethality",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "LethalityPower": 50
+    },
+    "varsUpgraded": {
+      "LethalityPower": 75
+    }
+  },
+  {
+    "id": "lift",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "any_ally",
+    "vars": {
+      "Block": 11
+    },
+    "varsUpgraded": {
+      "Block": 16
+    }
+  },
+  {
+    "id": "lightning_rod",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Block": 4,
+      "LightningRodPower": 2
+    },
+    "varsUpgraded": {
+      "Block": 7,
+      "LightningRodPower": 2
+    }
+  },
+  {
+    "id": "loop",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Loop": 1
+    },
+    "varsUpgraded": {
+      "Loop": 2
+    }
+  },
+  {
+    "id": "luminesce",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "token",
+    "targetType": "self"
+  },
+  {
+    "id": "lunar_blast",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 4
+    },
+    "varsUpgraded": {
+      "Damage": 5
+    }
+  },
+  {
+    "id": "machine_learning",
+    "cost": 1,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Cards": 1
+    }
+  },
+  {
+    "id": "mad_science",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none",
+    "vars": {
+      "Damage": 12,
+      "Block": 8,
+      "ViolenceHits": 3,
+      "CuriousReduction": 1
+    }
+  },
+  {
+    "id": "make_it_so",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 6,
+      "Cards": 3
+    },
+    "varsUpgraded": {
+      "Damage": 9,
+      "Cards": 3
+    }
+  },
+  {
+    "id": "malaise",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "any_enemy"
+  },
+  {
+    "id": "mangle",
+    "cost": 3,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 15,
+      "StrengthLoss": 10
+    },
+    "varsUpgraded": {
+      "Damage": 20,
+      "StrengthLoss": 15
+    }
+  },
+  {
+    "id": "manifest_authority",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 7
+    },
+    "varsUpgraded": {
+      "Block": 8
+    }
+  },
+  {
+    "id": "master_of_strategy",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Cards": 3
+    },
+    "varsUpgraded": {
+      "Cards": 4
+    }
+  },
+  {
+    "id": "master_planner",
+    "cost": 2,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "costUpgraded": 1
+  },
+  {
+    "id": "maul",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "ancient",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 5,
+      "Increase": 1
+    },
+    "varsUpgraded": {
+      "Damage": 6,
+      "Increase": 2
+    }
+  },
+  {
+    "id": "mayhem",
+    "cost": 2,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "costUpgraded": 1
+  },
+  {
+    "id": "melancholy",
+    "cost": 3,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 13
+    },
+    "varsUpgraded": {
+      "Block": 17
+    }
+  },
+  {
+    "id": "mementomori",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 4,
+      "ExtraDamage": 4
+    },
+    "varsUpgraded": {
+      "Damage": 4,
+      "ExtraDamage": 5
+    }
+  },
+  {
+    "id": "metamorphosis",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "event",
+    "targetType": "self",
+    "vars": {
+      "Cards": 3
+    },
+    "varsUpgraded": {
+      "Cards": 5
+    }
+  },
+  {
+    "id": "meteor_shower",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "ancient",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 14,
+      "VulnerablePower": 2,
+      "WeakPower": 2
+    },
+    "varsUpgraded": {
+      "Damage": 21,
+      "VulnerablePower": 2,
+      "WeakPower": 2
+    }
+  },
+  {
+    "id": "meteor_strike",
+    "cost": 5,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 24
+    },
+    "varsUpgraded": {
+      "Damage": 30
+    }
+  },
+  {
+    "id": "mimic",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "any_ally"
+  },
+  {
+    "id": "mind_blast",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 1,
+      "ExtraDamage": 1
+    },
+    "costUpgraded": 0
+  },
+  {
+    "id": "mind_rot",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none",
+    "vars": {
+      "MindRotPower": 1
+    }
+  },
+  {
+    "id": "minion_dive_bomb",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "token",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 13
+    },
+    "varsUpgraded": {
+      "Damage": 16
+    }
+  },
+  {
+    "id": "minion_sacrifice",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "token",
+    "targetType": "self",
+    "vars": {
+      "Block": 9
+    },
+    "varsUpgraded": {
+      "Block": 12
+    }
+  },
+  {
+    "id": "minion_strike",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "token",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 7,
+      "Cards": 1
+    },
+    "varsUpgraded": {
+      "Damage": 10,
+      "Cards": 1
+    }
+  },
+  {
+    "id": "mirage",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "costUpgraded": 0
+  },
+  {
+    "id": "misery",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 7
+    },
+    "varsUpgraded": {
+      "Damage": 9
+    }
+  },
+  {
+    "id": "mock_attack",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none",
+    "vars": {
+      "Damage": 6,
+      "Block": 0,
+      "OstyDamage": 6
+    },
+    "varsUpgraded": {
+      "Damage": 9,
+      "Block": 0,
+      "OstyDamage": 6
+    }
+  },
+  {
+    "id": "mock_curse",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none"
+  },
+  {
+    "id": "mock_power",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none",
+    "vars": {
+      "Block": 0,
+      "StrengthPower": 2
+    }
+  },
+  {
+    "id": "mock_quest",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none"
+  },
+  {
+    "id": "mock_skill",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none",
+    "vars": {
+      "Block": 5,
+      "Forge": 0,
+      "Summon": 0
+    },
+    "varsUpgraded": {
+      "Block": 8,
+      "Forge": 0,
+      "Summon": 0
+    }
+  },
+  {
+    "id": "mock_status",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none"
+  },
+  {
+    "id": "modded",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Cards": 1,
+      "Repeat": 1
+    },
+    "varsUpgraded": {
+      "Cards": 2,
+      "Repeat": 1
+    }
+  },
+  {
+    "id": "molten_fist",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 10
+    },
+    "varsUpgraded": {
+      "Damage": 14
+    }
+  },
+  {
+    "id": "momentum_strike",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 10
+    },
+    "varsUpgraded": {
+      "Damage": 13
+    }
+  },
+  {
+    "id": "monarchs_gaze",
+    "cost": 3,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "StrengthLoss": 1
+    },
+    "costUpgraded": 2
+  },
+  {
+    "id": "monologue",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Power": 1
+    }
+  },
+  {
+    "id": "multi_cast",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self"
+  },
+  {
+    "id": "murder",
+    "cost": 3,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 1,
+      "ExtraDamage": 1
+    },
+    "costUpgraded": 2
+  },
+  {
+    "id": "necro_mastery",
+    "cost": 2,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Summon": 5
+    },
+    "varsUpgraded": {
+      "Summon": 8
+    }
+  },
+  {
+    "id": "negative_pulse",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "allenemies",
+    "vars": {
+      "Block": 5,
+      "DoomPower": 7
+    },
+    "varsUpgraded": {
+      "Block": 6,
+      "DoomPower": 7
+    }
+  },
+  {
+    "id": "neows_fury",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "ancient",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 10,
+      "Cards": 2
+    },
+    "varsUpgraded": {
+      "Damage": 14,
+      "Cards": 2
+    }
+  },
+  {
+    "id": "neurosurge",
+    "cost": 0,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "NeurosurgePower": 3,
+      "Cards": 2
+    }
+  },
+  {
+    "id": "neutralize",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "basic",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 3,
+      "WeakPower": 1
+    },
+    "varsUpgraded": {
+      "Damage": 4,
+      "WeakPower": 1
+    }
+  },
+  {
+    "id": "neutron_aegis",
+    "cost": 1,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "PlatingPower": 8
+    },
+    "varsUpgraded": {
+      "PlatingPower": 11
+    }
+  },
+  {
+    "id": "nightmare",
+    "cost": 3,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "costUpgraded": 2
+  },
+  {
+    "id": "no_escape",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "DoomThreshold": 10
+    }
+  },
+  {
+    "id": "normality",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none"
+  },
+  {
+    "id": "nostalgia",
+    "cost": 1,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "costUpgraded": 0
+  },
+  {
+    "id": "noxious_fumes",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "PoisonPerTurn": 2
+    },
+    "varsUpgraded": {
+      "PoisonPerTurn": 3
+    }
+  },
+  {
+    "id": "null",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 10,
+      "WeakPower": 2
+    },
+    "varsUpgraded": {
+      "Damage": 13,
+      "WeakPower": 2
+    }
+  },
+  {
+    "id": "oblivion",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "DoomPower": 3
+    }
+  },
+  {
+    "id": "offering",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Cards": 3,
+      "HpLoss": 6
+    },
+    "varsUpgraded": {
+      "Cards": 5,
+      "HpLoss": 6
+    }
+  },
+  {
+    "id": "omnislice",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 8
+    },
+    "varsUpgraded": {
+      "Damage": 11
+    }
+  },
+  {
+    "id": "one_two_punch",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Attacks": 1
+    },
+    "varsUpgraded": {
+      "Attacks": 2
+    }
+  },
+  {
+    "id": "orbit",
+    "cost": 2,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "costUpgraded": 1
+  },
+  {
+    "id": "outbreak",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "OutbreakPower": 11,
+      "Repeat": 3
+    },
+    "varsUpgraded": {
+      "OutbreakPower": 15,
+      "Repeat": 3
+    }
+  },
+  {
+    "id": "outmaneuver",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "event",
+    "targetType": "self"
+  },
+  {
+    "id": "overclock",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Cards": 2
+    },
+    "varsUpgraded": {
+      "Cards": 3
+    }
+  },
+  {
+    "id": "pacts_end",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 17,
+      "Cards": 3
+    },
+    "varsUpgraded": {
+      "Damage": 23,
+      "Cards": 3
+    }
+  },
+  {
+    "id": "pagestorm",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Cards": 1
+    },
+    "costUpgraded": 0
+  },
+  {
+    "id": "pale_blue_dot",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "CardPlay": 5,
+      "Cards": 1
+    },
+    "varsUpgraded": {
+      "CardPlay": 5,
+      "Cards": 2
+    }
+  },
+  {
+    "id": "panache",
+    "cost": 0,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "PanacheDamage": 10
+    },
+    "varsUpgraded": {
+      "PanacheDamage": 14
+    }
+  },
+  {
+    "id": "panic_button",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 30,
+      "Turns": 2
+    },
+    "varsUpgraded": {
+      "Block": 40,
+      "Turns": 2
+    }
+  },
+  {
+    "id": "parry",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "ParryPower": 6
+    },
+    "varsUpgraded": {
+      "ParryPower": 9
+    }
+  },
+  {
+    "id": "parse",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Cards": 3
+    },
+    "varsUpgraded": {
+      "Cards": 4
+    }
+  },
+  {
+    "id": "particle_wall",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 9
+    },
+    "varsUpgraded": {
+      "Block": 12
+    }
+  },
+  {
+    "id": "patter",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Block": 8,
+      "VigorPower": 2
+    },
+    "varsUpgraded": {
+      "Block": 10,
+      "VigorPower": 3
+    }
+  },
+  {
+    "id": "peck",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "event",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 2,
+      "Repeat": 3
+    },
+    "varsUpgraded": {
+      "Damage": 2,
+      "Repeat": 4
+    }
+  },
+  {
+    "id": "perfected_strike",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 2,
+      "ExtraDamage": 2
+    },
+    "varsUpgraded": {
+      "Damage": 2,
+      "ExtraDamage": 3
+    }
+  },
+  {
+    "id": "phantom_blades",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "PhantomBladesPower": 9
+    },
+    "varsUpgraded": {
+      "PhantomBladesPower": 12
+    }
+  },
+  {
+    "id": "photon_cut",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 10,
+      "PutBack": 1,
+      "Cards": 1
+    },
+    "varsUpgraded": {
+      "Damage": 13,
+      "PutBack": 1,
+      "Cards": 2
+    }
+  },
+  {
+    "id": "piercing_wail",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "allenemies",
+    "vars": {
+      "StrengthLoss": 6
+    },
+    "varsUpgraded": {
+      "StrengthLoss": 8
+    }
+  },
+  {
+    "id": "pillage",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 6
+    },
+    "varsUpgraded": {
+      "Damage": 9
+    }
+  },
+  {
+    "id": "pillar_of_creation",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 3
+    },
+    "varsUpgraded": {
+      "Block": 4
+    }
+  },
+  {
+    "id": "pinpoint",
+    "cost": 3,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 17
+    },
+    "varsUpgraded": {
+      "Damage": 22
+    }
+  },
+  {
+    "id": "poisoned_stab",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 6,
+      "PoisonPower": 3
+    },
+    "varsUpgraded": {
+      "Damage": 8,
+      "PoisonPower": 3
+    }
+  },
+  {
+    "id": "poke",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 6,
+      "OstyDamage": 6
+    },
+    "varsUpgraded": {
+      "Damage": 6,
+      "OstyDamage": 9
+    }
+  },
+  {
+    "id": "pommel_strike",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 9,
+      "Cards": 1
+    },
+    "varsUpgraded": {
+      "Damage": 10,
+      "Cards": 2
+    }
+  },
+  {
+    "id": "poor_sleep",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none"
+  },
+  {
+    "id": "pounce",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 12
+    },
+    "varsUpgraded": {
+      "Damage": 18
+    }
+  },
+  {
+    "id": "precise_cut",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 2,
+      "ExtraDamage": 2
+    }
+  },
+  {
+    "id": "predator",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 15
+    },
+    "varsUpgraded": {
+      "Damage": 20
+    }
+  },
+  {
+    "id": "prep_time",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "PrepTimePower": 4
+    },
+    "varsUpgraded": {
+      "PrepTimePower": 6
+    }
+  },
+  {
+    "id": "prepared",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Cards": 1
+    },
+    "varsUpgraded": {
+      "Cards": 2
+    }
+  },
+  {
+    "id": "primal_force",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self"
+  },
+  {
+    "id": "production",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self"
+  },
+  {
+    "id": "prolong",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self"
+  },
+  {
+    "id": "prophesize",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Cards": 6
+    },
+    "varsUpgraded": {
+      "Cards": 9
+    }
+  },
+  {
+    "id": "protector",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "ancient",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 1,
+      "ExtraDamage": 1
+    },
+    "costUpgraded": 0
+  },
+  {
+    "id": "prowess",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "StrengthPower": 1,
+      "DexterityPower": 1
+    }
+  },
+  {
+    "id": "pull_aggro",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Block": 7,
+      "Summon": 4
+    },
+    "varsUpgraded": {
+      "Block": 9,
+      "Summon": 5
+    }
+  },
+  {
+    "id": "pull_from_below",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 5
+    },
+    "varsUpgraded": {
+      "Damage": 7
+    }
+  },
+  {
+    "id": "purity",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Cards": 3
+    },
+    "varsUpgraded": {
+      "Cards": 5
+    }
+  },
+  {
+    "id": "putrefy",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Power": 2
+    },
+    "varsUpgraded": {
+      "Power": 3
+    }
+  },
+  {
+    "id": "pyre",
+    "cost": 2,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self"
+  },
+  {
+    "id": "quadcast",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "ancient",
+    "targetType": "self",
+    "vars": {
+      "Repeat": 4
+    },
+    "costUpgraded": 0
+  },
+  {
+    "id": "quasar",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self"
+  },
+  {
+    "id": "radiate",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 3
+    },
+    "varsUpgraded": {
+      "Damage": 4
+    }
+  },
+  {
+    "id": "rage",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Power": 3
+    },
+    "varsUpgraded": {
+      "Power": 5
+    }
+  },
+  {
+    "id": "rainbow",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self"
+  },
+  {
+    "id": "rally",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "allallies",
+    "vars": {
+      "Block": 12
+    },
+    "varsUpgraded": {
+      "Block": 17
+    }
+  },
+  {
+    "id": "rampage",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 9,
+      "Increase": 5
+    },
+    "varsUpgraded": {
+      "Damage": 9,
+      "Increase": 9
+    }
+  },
+  {
+    "id": "rattle",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 7,
+      "OstyDamage": 7
+    },
+    "varsUpgraded": {
+      "Damage": 7,
+      "OstyDamage": 9
+    }
+  },
+  {
+    "id": "reanimate",
+    "cost": 3,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Summon": 20
+    },
+    "varsUpgraded": {
+      "Summon": 25
+    }
+  },
+  {
+    "id": "reap",
+    "cost": 3,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 27
+    },
+    "varsUpgraded": {
+      "Damage": 33
+    }
+  },
+  {
+    "id": "reaper_form",
+    "cost": 3,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self"
+  },
+  {
+    "id": "reave",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 9,
+      "Cards": 1
+    },
+    "varsUpgraded": {
+      "Damage": 11,
+      "Cards": 1
+    }
+  },
+  {
+    "id": "reboot",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Cards": 4
+    },
+    "varsUpgraded": {
+      "Cards": 6
+    }
+  },
+  {
+    "id": "rebound",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "event",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 9
+    },
+    "varsUpgraded": {
+      "Damage": 12
+    }
+  },
+  {
+    "id": "refine_blade",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Forge": 6
+    },
+    "varsUpgraded": {
+      "Forge": 10
+    }
+  },
+  {
+    "id": "reflect",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 17
+    },
+    "varsUpgraded": {
+      "Block": 21
+    }
+  },
+  {
+    "id": "reflex",
+    "cost": 3,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Cards": 2
+    },
+    "varsUpgraded": {
+      "Cards": 3
+    }
+  },
+  {
+    "id": "refract",
+    "cost": 3,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 9,
+      "Repeat": 2
+    },
+    "varsUpgraded": {
+      "Damage": 12,
+      "Repeat": 2
+    }
+  },
+  {
+    "id": "regret",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none"
+  },
+  {
+    "id": "relax",
+    "cost": 3,
+    "type": "skill",
+    "rarity": "ancient",
+    "targetType": "self",
+    "vars": {
+      "Block": 15,
+      "Cards": 2
+    },
+    "varsUpgraded": {
+      "Block": 17,
+      "Cards": 3
+    }
+  },
+  {
+    "id": "rend",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 5,
+      "ExtraDamage": 5
+    },
+    "varsUpgraded": {
+      "Damage": 5,
+      "ExtraDamage": 8
+    }
+  },
+  {
+    "id": "resonance",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "allenemies",
+    "vars": {
+      "StrengthPower": 1
+    },
+    "varsUpgraded": {
+      "StrengthPower": 2
+    }
+  },
+  {
+    "id": "restlessness",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Cards": 2
+    },
+    "varsUpgraded": {
+      "Cards": 3
+    }
+  },
+  {
+    "id": "ricochet",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "randomenemy",
+    "vars": {
+      "Damage": 3,
+      "Repeat": 4
+    },
+    "varsUpgraded": {
+      "Damage": 3,
+      "Repeat": 5
+    }
+  },
+  {
+    "id": "right_hand_hand",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 4,
+      "OstyDamage": 4
+    },
+    "varsUpgraded": {
+      "Damage": 4,
+      "OstyDamage": 6
+    }
+  },
+  {
+    "id": "rip_and_tear",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "randomenemy",
+    "vars": {
+      "Damage": 7
+    },
+    "varsUpgraded": {
+      "Damage": 9
+    }
+  },
+  {
+    "id": "rocket_punch",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 13,
+      "Cards": 1
+    },
+    "varsUpgraded": {
+      "Damage": 14,
+      "Cards": 2
+    }
+  },
+  {
+    "id": "rolling_boulder",
+    "cost": 3,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "IncrementAmount": 5,
+      "RollingBoulderPower": 5
+    },
+    "varsUpgraded": {
+      "IncrementAmount": 5,
+      "RollingBoulderPower": 10
+    }
+  },
+  {
+    "id": "royal_gamble",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self"
+  },
+  {
+    "id": "royalties",
+    "cost": 1,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self"
+  },
+  {
+    "id": "rupture",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "StrengthPower": 1
+    }
+  },
+  {
+    "id": "sacrifice",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "costUpgraded": 0
+  },
+  {
+    "id": "salvo",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 12
+    },
+    "varsUpgraded": {
+      "Damage": 16
+    }
+  },
+  {
+    "id": "scavenge",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self"
+  },
+  {
+    "id": "scourge",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "DoomPower": 13,
+      "Cards": 1
+    },
+    "varsUpgraded": {
+      "DoomPower": 13,
+      "Cards": 2
+    }
+  },
+  {
+    "id": "scrape",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 7,
+      "Cards": 4
+    },
+    "varsUpgraded": {
+      "Damage": 10,
+      "Cards": 5
+    }
+  },
+  {
+    "id": "scrawl",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self"
+  },
+  {
+    "id": "sculptingstrike",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 8
+    },
+    "varsUpgraded": {
+      "Damage": 11
+    }
+  },
+  {
+    "id": "seance",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Cards": 1
+    }
+  },
+  {
+    "id": "second_wind",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 5
+    },
+    "varsUpgraded": {
+      "Block": 7
+    }
+  },
+  {
+    "id": "secret_technique",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self"
+  },
+  {
+    "id": "secret_weapon",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self"
+  },
+  {
+    "id": "seekerstrike",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 6,
+      "Cards": 3
+    },
+    "varsUpgraded": {
+      "Damage": 9,
+      "Cards": 3
+    }
+  },
+  {
+    "id": "seeking_edge",
+    "cost": 1,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Forge": 7
+    },
+    "varsUpgraded": {
+      "Forge": 11
+    }
+  },
+  {
+    "id": "sentry_mode",
+    "cost": 2,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "SentryModePower": 1
+    },
+    "costUpgraded": 1
+  },
+  {
+    "id": "serpent_form",
+    "cost": 3,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "SerpentFormPower": 4
+    },
+    "varsUpgraded": {
+      "SerpentFormPower": 5
+    }
+  },
+  {
+    "id": "setupstrike",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 7,
+      "StrengthPower": 2
+    },
+    "varsUpgraded": {
+      "Damage": 9,
+      "StrengthPower": 2
+    }
+  },
+  {
+    "id": "sevenstars",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 7,
+      "Repeat": 7
+    },
+    "costUpgraded": 1
+  },
+  {
+    "id": "severance",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 13
+    },
+    "varsUpgraded": {
+      "Damage": 18
+    }
+  },
+  {
+    "id": "shadowmeld",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Power": 1
+    },
+    "costUpgraded": 0
+  },
+  {
+    "id": "shadowshield",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 11
+    },
+    "varsUpgraded": {
+      "Block": 15
+    }
+  },
+  {
+    "id": "shadowstep",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Cards": 3
+    },
+    "costUpgraded": 0
+  },
+  {
+    "id": "shame",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none",
+    "vars": {
+      "Frail": 1
+    }
+  },
+  {
+    "id": "shared_fate",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "EnemyStrengthLoss": 2,
+      "PlayerStrengthLoss": 2
+    },
+    "varsUpgraded": {
+      "EnemyStrengthLoss": 3,
+      "PlayerStrengthLoss": 2
+    }
+  },
+  {
+    "id": "shatter",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 11
+    },
+    "varsUpgraded": {
+      "Damage": 15
+    }
+  },
+  {
+    "id": "shiningstrike",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 8
+    },
+    "varsUpgraded": {
+      "Damage": 11
+    }
+  },
+  {
+    "id": "shiv",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "token",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 4
+    },
+    "varsUpgraded": {
+      "Damage": 6
+    }
+  },
+  {
+    "id": "shockwave",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "allenemies",
+    "vars": {
+      "Power": 3
+    },
+    "varsUpgraded": {
+      "Power": 5
+    }
+  },
+  {
+    "id": "shroud",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 2
+    },
+    "varsUpgraded": {
+      "Block": 3
+    }
+  },
+  {
+    "id": "shrug_it_off",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Block": 8,
+      "Cards": 1
+    },
+    "varsUpgraded": {
+      "Block": 11,
+      "Cards": 1
+    }
+  },
+  {
+    "id": "sic_em",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 5,
+      "SicEmPower": 2,
+      "OstyDamage": 5
+    },
+    "varsUpgraded": {
+      "Damage": 5,
+      "SicEmPower": 3,
+      "OstyDamage": 6
+    }
+  },
+  {
+    "id": "signal_boost",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "SignalBoostPower": 1
+    },
+    "costUpgraded": 0
+  },
+  {
+    "id": "skewer",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 7
+    },
+    "varsUpgraded": {
+      "Damage": 10
+    }
+  },
+  {
+    "id": "skim",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Cards": 3
+    },
+    "varsUpgraded": {
+      "Cards": 4
+    }
+  },
+  {
+    "id": "sleight_of_flesh",
+    "cost": 2,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "SleightOfFleshPower": 9
+    },
+    "varsUpgraded": {
+      "SleightOfFleshPower": 13
+    }
+  },
+  {
+    "id": "slice",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 6
+    },
+    "varsUpgraded": {
+      "Damage": 9
+    }
+  },
+  {
+    "id": "slimed",
+    "cost": 1,
+    "type": "status",
+    "rarity": "status",
+    "targetType": "none",
+    "vars": {
+      "Cards": 1
+    }
+  },
+  {
+    "id": "sloth",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none",
+    "vars": {
+      "SlothPower": 3
+    }
+  },
+  {
+    "id": "smokestack",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "SmokestackPower": 5
+    },
+    "varsUpgraded": {
+      "SmokestackPower": 7
+    }
+  },
+  {
+    "id": "snakebite",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "PoisonPower": 7
+    }
+  },
+  {
+    "id": "snap",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 7,
+      "OstyDamage": 7
+    },
+    "varsUpgraded": {
+      "Damage": 7,
+      "OstyDamage": 10
+    }
+  },
+  {
+    "id": "sneaky",
+    "cost": 2,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "SneakyPower": 1
+    },
+    "varsUpgraded": {
+      "SneakyPower": 2
+    }
+  },
+  {
+    "id": "solarstrike",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 8
+    },
+    "varsUpgraded": {
+      "Damage": 9
+    }
+  },
+  {
+    "id": "soot",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none"
+  },
+  {
+    "id": "soul",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "token",
+    "targetType": "self",
+    "vars": {
+      "Cards": 2
+    },
+    "varsUpgraded": {
+      "Cards": 3
+    }
+  },
+  {
+    "id": "soulstorm",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 2,
+      "ExtraDamage": 2
+    },
+    "varsUpgraded": {
+      "Damage": 2,
+      "ExtraDamage": 3
+    }
+  },
+  {
+    "id": "sovereign_blade",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "token",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 10,
+      "Repeat": 1
+    },
+    "costUpgraded": 1
+  },
+  {
+    "id": "sow",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 8
+    },
+    "varsUpgraded": {
+      "Damage": 11
+    }
+  },
+  {
+    "id": "spectrumshift",
+    "cost": 2,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Cards": 1
+    },
+    "costUpgraded": 1
+  },
+  {
+    "id": "speedster",
+    "cost": 2,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "SpeedsterPower": 2
+    },
+    "varsUpgraded": {
+      "SpeedsterPower": 3
+    }
+  },
+  {
+    "id": "spinner",
+    "cost": 1,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "SpinnerPower": 1
+    }
+  },
+  {
+    "id": "spirit_of_ash",
+    "cost": 1,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "BlockOnExhaust": 4
+    },
+    "varsUpgraded": {
+      "BlockOnExhaust": 5
+    }
+  },
+  {
+    "id": "spite",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 6,
+      "Cards": 1
+    },
+    "varsUpgraded": {
+      "Damage": 9,
+      "Cards": 1
+    }
+  },
+  {
+    "id": "splash",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self"
+  },
+  {
+    "id": "spoils_map",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none"
+  },
+  {
+    "id": "spoils_of_battle",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Forge": 10
+    },
+    "varsUpgraded": {
+      "Forge": 15
+    }
+  },
+  {
+    "id": "spore_mind",
+    "cost": 1,
+    "type": "curse",
+    "rarity": "curse",
+    "targetType": "none"
+  },
+  {
+    "id": "spur",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Summon": 3,
+      "Heal": 5
+    },
+    "varsUpgraded": {
+      "Summon": 5,
+      "Heal": 7
+    }
+  },
+  {
+    "id": "squash",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "event",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 10,
+      "VulnerablePower": 2
+    },
+    "varsUpgraded": {
+      "Damage": 12,
+      "VulnerablePower": 2
+    }
+  },
+  {
+    "id": "squeeze",
+    "cost": 3,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 5,
+      "ExtraDamage": 5
+    },
+    "varsUpgraded": {
+      "Damage": 5,
+      "ExtraDamage": 6
+    }
+  },
+  {
+    "id": "stack",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "event",
+    "targetType": "self"
+  },
+  {
+    "id": "stampede",
+    "cost": 2,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Power": 1
+    },
+    "costUpgraded": 1
+  },
+  {
+    "id": "stardust",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "randomenemy",
+    "vars": {
+      "Damage": 5
+    },
+    "varsUpgraded": {
+      "Damage": 7
+    }
+  },
+  {
+    "id": "stoke",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "costUpgraded": 0
+  },
+  {
+    "id": "stomp",
+    "cost": 3,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 12
+    },
+    "varsUpgraded": {
+      "Damage": 15
+    }
+  },
+  {
+    "id": "stone_armor",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "PlatingPower": 4
+    },
+    "varsUpgraded": {
+      "PlatingPower": 6
+    }
+  },
+  {
+    "id": "storm",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "StormPower": 1
+    },
+    "varsUpgraded": {
+      "StormPower": 2
+    }
+  },
+  {
+    "id": "storm_ofsteel",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self"
+  },
+  {
+    "id": "strangle",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 8,
+      "StranglePower": 2
+    },
+    "varsUpgraded": {
+      "Damage": 10,
+      "StranglePower": 3
+    }
+  },
+  {
+    "id": "stratagem",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "costUpgraded": 0
+  },
+  {
+    "id": "strike_defect",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "basic",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 6
+    },
+    "varsUpgraded": {
+      "Damage": 9
+    }
+  },
+  {
+    "id": "strike_ironclad",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "basic",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 6
+    },
+    "varsUpgraded": {
+      "Damage": 9
+    }
+  },
+  {
+    "id": "strike_necrobinder",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "basic",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 6
+    },
+    "varsUpgraded": {
+      "Damage": 9
+    }
+  },
+  {
+    "id": "strike_regent",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "basic",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 6
+    },
+    "varsUpgraded": {
+      "Damage": 9
+    }
+  },
+  {
+    "id": "strikesilent",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "basic",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 6
+    },
+    "varsUpgraded": {
+      "Damage": 9
+    }
+  },
+  {
+    "id": "subroutine",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "costUpgraded": 0
+  },
+  {
+    "id": "sucker_punch",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 8,
+      "WeakPower": 1
+    },
+    "varsUpgraded": {
+      "Damage": 10,
+      "WeakPower": 1
+    }
+  },
+  {
+    "id": "summon_forth",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Forge": 8
+    },
+    "varsUpgraded": {
+      "Forge": 11
+    }
+  },
+  {
+    "id": "sunder",
+    "cost": 3,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 24
+    },
+    "varsUpgraded": {
+      "Damage": 32
+    }
+  },
+  {
+    "id": "supercritical",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self"
+  },
+  {
+    "id": "supermassive",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 3,
+      "ExtraDamage": 3
+    },
+    "varsUpgraded": {
+      "Damage": 3,
+      "ExtraDamage": 4
+    }
+  },
+  {
+    "id": "suppress",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "ancient",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 11,
+      "WeakPower": 3
+    },
+    "varsUpgraded": {
+      "Damage": 17,
+      "WeakPower": 3
+    }
+  },
+  {
+    "id": "survivor",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "basic",
+    "targetType": "self",
+    "vars": {
+      "Block": 8
+    },
+    "varsUpgraded": {
+      "Block": 11
+    }
+  },
+  {
+    "id": "sweeping_beam",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 6,
+      "Cards": 1
+    },
+    "varsUpgraded": {
+      "Damage": 9,
+      "Cards": 1
+    }
+  },
+  {
+    "id": "sweeping_gaze",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "token",
+    "targetType": "randomenemy",
+    "vars": {
+      "Damage": 10,
+      "OstyDamage": 10
+    },
+    "varsUpgraded": {
+      "Damage": 10,
+      "OstyDamage": 15
+    }
+  },
+  {
+    "id": "sword_boomerang",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "randomenemy",
+    "vars": {
+      "Damage": 3,
+      "Repeat": 3
+    },
+    "varsUpgraded": {
+      "Damage": 3,
+      "Repeat": 4
+    }
+  },
+  {
+    "id": "swordsage",
+    "cost": 2,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "SwordSagePower": 1
+    },
+    "costUpgraded": 1
+  },
+  {
+    "id": "synchronize",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self"
+  },
+  {
+    "id": "synthesis",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 12
+    },
+    "varsUpgraded": {
+      "Damage": 18
+    }
+  },
+  {
+    "id": "tactician",
+    "cost": 3,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self"
+  },
+  {
+    "id": "tagteam",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 11
+    },
+    "varsUpgraded": {
+      "Damage": 15
+    }
+  },
+  {
+    "id": "tank",
+    "cost": 1,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "costUpgraded": 0
+  },
+  {
+    "id": "taunt",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Block": 7,
+      "VulnerablePower": 1
+    },
+    "varsUpgraded": {
+      "Block": 8,
+      "VulnerablePower": 1
+    }
+  },
+  {
+    "id": "tear_asunder",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 5,
+      "Repeat": 1
+    },
+    "varsUpgraded": {
+      "Damage": 7,
+      "Repeat": 1
+    }
+  },
+  {
+    "id": "tempest",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self"
+  },
+  {
+    "id": "terraforming",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "VigorPower": 6
+    },
+    "varsUpgraded": {
+      "VigorPower": 8
+    }
+  },
+  {
+    "id": "tesla_coil",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 3
+    },
+    "varsUpgraded": {
+      "Damage": 6
+    }
+  },
+  {
+    "id": "the_bomb",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Turns": 3,
+      "BombDamage": 40
+    },
+    "varsUpgraded": {
+      "Turns": 3,
+      "BombDamage": 50
+    }
+  },
+  {
+    "id": "the_gambit",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Block": 50
+    },
+    "varsUpgraded": {
+      "Block": 75
+    }
+  },
+  {
+    "id": "the_hunt",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 10
+    },
+    "varsUpgraded": {
+      "Damage": 15
+    }
+  },
+  {
+    "id": "the_scythe",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy"
+  },
+  {
+    "id": "the_sealedthrone",
+    "cost": 1,
+    "type": "power",
+    "rarity": "ancient",
+    "targetType": "self"
+  },
+  {
+    "id": "the_smith",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Forge": 30
+    },
+    "varsUpgraded": {
+      "Forge": 40
+    }
+  },
+  {
+    "id": "thinking_ahead",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Cards": 2
+    }
+  },
+  {
+    "id": "thrash",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 4
+    },
+    "varsUpgraded": {
+      "Damage": 6
+    }
+  },
+  {
+    "id": "thrumming_hatchet",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 11
+    },
+    "varsUpgraded": {
+      "Damage": 14
+    }
+  },
+  {
+    "id": "thunder",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "ThunderPower": 6
+    },
+    "varsUpgraded": {
+      "ThunderPower": 8
+    }
+  },
+  {
+    "id": "thunderclap",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 4,
+      "VulnerablePower": 1
+    },
+    "varsUpgraded": {
+      "Damage": 7,
+      "VulnerablePower": 1
+    }
+  },
+  {
+    "id": "times_up",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "rare",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 1,
+      "ExtraDamage": 1
+    }
+  },
+  {
+    "id": "tools_ofthetrade",
+    "cost": 1,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "costUpgraded": 0
+  },
+  {
+    "id": "torictoughness",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "event",
+    "targetType": "self",
+    "vars": {
+      "Block": 5,
+      "Turns": 2
+    },
+    "varsUpgraded": {
+      "Block": 7,
+      "Turns": 2
+    }
+  },
+  {
+    "id": "toxic",
+    "cost": 1,
+    "type": "status",
+    "rarity": "status",
+    "targetType": "none",
+    "vars": {
+      "Damage": 5
+    }
+  },
+  {
+    "id": "tracking",
+    "cost": 2,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "costUpgraded": 1
+  },
+  {
+    "id": "transfigure",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self"
+  },
+  {
+    "id": "trashtotreasure",
+    "cost": 1,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self"
+  },
+  {
+    "id": "tremble",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "VulnerablePower": 2
+    }
+  },
+  {
+    "id": "true_grit",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Block": 7
+    },
+    "varsUpgraded": {
+      "Block": 9
+    }
+  },
+  {
+    "id": "turbo",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self"
+  },
+  {
+    "id": "twin_strike",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 5
+    },
+    "varsUpgraded": {
+      "Damage": 7
+    }
+  },
+  {
+    "id": "tyranny",
+    "cost": 1,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self"
+  },
+  {
+    "id": "ultimate_defend",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Block": 11
+    },
+    "varsUpgraded": {
+      "Block": 15
+    }
+  },
+  {
+    "id": "ultimate_strike",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 14
+    },
+    "varsUpgraded": {
+      "Damage": 20
+    }
+  },
+  {
+    "id": "undeath",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "Block": 7
+    },
+    "varsUpgraded": {
+      "Block": 9
+    }
+  },
+  {
+    "id": "unleash",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "basic",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 1,
+      "ExtraDamage": 1
+    }
+  },
+  {
+    "id": "unmovable",
+    "cost": 2,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "costUpgraded": 1
+  },
+  {
+    "id": "unrelenting",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 12
+    },
+    "varsUpgraded": {
+      "Damage": 18
+    }
+  },
+  {
+    "id": "untouchable",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self",
+    "vars": {
+      "Block": 9
+    },
+    "varsUpgraded": {
+      "Block": 12
+    }
+  },
+  {
+    "id": "up_my_sleeve",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Cards": 3
+    },
+    "varsUpgraded": {
+      "Cards": 4
+    }
+  },
+  {
+    "id": "uppercut",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 13,
+      "Power": 1
+    },
+    "varsUpgraded": {
+      "Damage": 13,
+      "Power": 2
+    }
+  },
+  {
+    "id": "uproar",
+    "cost": 2,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 5
+    },
+    "varsUpgraded": {
+      "Damage": 7
+    }
+  },
+  {
+    "id": "veilpiercer",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 10
+    },
+    "varsUpgraded": {
+      "Damage": 13
+    }
+  },
+  {
+    "id": "venerate",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "basic",
+    "targetType": "self"
+  },
+  {
+    "id": "vicious",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "Cards": 1
+    },
+    "varsUpgraded": {
+      "Cards": 2
+    }
+  },
+  {
+    "id": "void",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none"
+  },
+  {
+    "id": "void_form",
+    "cost": 3,
+    "type": "power",
+    "rarity": "rare",
+    "targetType": "self",
+    "vars": {
+      "VoidFormPower": 2
+    },
+    "varsUpgraded": {
+      "VoidFormPower": 3
+    }
+  },
+  {
+    "id": "volley",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "randomenemy",
+    "vars": {
+      "Damage": 10
+    },
+    "varsUpgraded": {
+      "Damage": 14
+    }
+  },
+  {
+    "id": "voltaic",
+    "cost": 2,
+    "type": "skill",
+    "rarity": "rare",
+    "targetType": "self"
+  },
+  {
+    "id": "waste_away",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none",
+    "vars": {
+      "WasteAwayPower": 1
+    }
+  },
+  {
+    "id": "well_laid_plans",
+    "cost": 1,
+    "type": "power",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "vars": {
+      "RetainAmount": 1
+    },
+    "varsUpgraded": {
+      "RetainAmount": 2
+    }
+  },
+  {
+    "id": "whirlwind",
+    "cost": 0,
+    "type": "attack",
+    "rarity": "uncommon",
+    "targetType": "allenemies",
+    "vars": {
+      "Damage": 5
+    },
+    "varsUpgraded": {
+      "Damage": 8
+    }
+  },
+  {
+    "id": "whistle",
+    "cost": 3,
+    "type": "attack",
+    "rarity": "ancient",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 33
+    },
+    "varsUpgraded": {
+      "Damage": 44
+    }
+  },
+  {
+    "id": "white_noise",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "uncommon",
+    "targetType": "self",
+    "costUpgraded": 0
+  },
+  {
+    "id": "wish",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "ancient",
+    "targetType": "self"
+  },
+  {
+    "id": "wisp",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "self"
+  },
+  {
+    "id": "wound",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none"
+  },
+  {
+    "id": "wraith_form",
+    "cost": 3,
+    "type": "power",
+    "rarity": "ancient",
+    "targetType": "self",
+    "vars": {
+      "IntangiblePower": 2,
+      "WraithFormPower": 1
+    },
+    "varsUpgraded": {
+      "IntangiblePower": 3,
+      "WraithFormPower": 1
+    }
+  },
+  {
+    "id": "writhe",
+    "cost": 0,
+    "type": "skill",
+    "rarity": "common",
+    "targetType": "none"
+  },
+  {
+    "id": "wrought_inwar",
+    "cost": 1,
+    "type": "attack",
+    "rarity": "common",
+    "targetType": "any_enemy",
+    "vars": {
+      "Damage": 7,
+      "Forge": 5
+    },
+    "varsUpgraded": {
+      "Damage": 9,
+      "Forge": 7
+    }
+  },
+  {
+    "id": "zap",
+    "cost": 1,
+    "type": "skill",
+    "rarity": "basic",
+    "targetType": "self",
+    "costUpgraded": 0
+  }
+]

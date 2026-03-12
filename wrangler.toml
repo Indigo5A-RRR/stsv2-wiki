@@ -1,0 +1,3 @@
+# Cloudflare Pages 构建配置
+# 指定静态文件输出目录（Next.js output: 'export' 生成到 out/）
+pages_build_output_dir = "./out"
