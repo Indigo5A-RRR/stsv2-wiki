@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[23503,["/stsv2-wiki/_next/static/chunks/ae11dfc105dd608e.js"],"BackButton"]
+3:I[97367,["/stsv2-wiki/_next/static/chunks/ff1a16fafef87110.js","/stsv2-wiki/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"sePMPsS4ZWPSbPMVG1Ptv","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-slate-950 text-slate-100","children":["$","div",null,{"className":"max-w-3xl mx-auto px-4 py-6","children":[["$","header",null,{"className":"flex items-center justify-between mb-6","children":[["$","h1",null,{"className":"text-2xl font-bold","children":"锋利"}],["$","$L2",null,{"fallbackHref":"/enchantments","children":"返回附魔列表"}]]}],["$","section",null,{"children":[["$","p",null,{"className":"text-slate-400","children":"Sharp"}],["$","p",null,{"className":"mt-4 text-slate-300","children":"这张牌上的伤害值增加3点。"}],null]}]]}]}],[["$","script","script-0",{"src":"/stsv2-wiki/_next/static/chunks/ae11dfc105dd608e.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

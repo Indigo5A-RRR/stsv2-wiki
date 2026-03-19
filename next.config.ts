@@ -7,6 +7,7 @@ const nextConfig: NextConfig = {
   output: "export",
   basePath: basePath,
   assetPrefix: basePath ? `${basePath}/` : undefined,
+  trailingSlash: true, // 生成 xxx/index.html，改善静态托管兼容性，避免点击下载 HTML
   env: {
     NEXT_PUBLIC_BASE_PATH: basePath,
   },

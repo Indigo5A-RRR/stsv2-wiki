@@ -7,7 +7,7 @@
     "descriptionEn": "Decrease the cost of this card by [blue]1[/blue].",
     "extraCardText": null,
     "extraCardTextEn": null,
-    "image": "/enchantment-icons/instinct.webp"
+    "image": ""
   },
   {
     "id": "sown",
@@ -17,7 +17,7 @@
     "descriptionEn": "The first time you play this card each combat, gain {Amount:energyIcons()}.",
     "extraCardText": "获得1点能量。",
     "extraCardTextEn": "Gain {Amount:energyIcons()}.",
-    "image": "/enchantment-icons/sown.webp"
+    "image": ""
   },
   {
     "id": "slumbering_essence",
@@ -27,7 +27,7 @@
     "descriptionEn": "If this card is in your hand at the end of turn, reduce its cost by [blue]1[/blue] until it is played.",
     "extraCardText": null,
     "extraCardTextEn": null,
-    "image": "/enchantment-icons/slumbering_essence.webp"
+    "image": ""
   },
   {
     "id": "momentum",
@@ -37,7 +37,7 @@
     "descriptionEn": "Increase this card's attack damage by [blue]{Amount}[/blue] this combat when played.",
     "extraCardText": "在本场战斗中这张牌的伤害增加5点。",
     "extraCardTextEn": "Increase this card's damage by {Amount} this combat.",
-    "image": "/enchantment-icons/momentum.webp"
+    "image": ""
   },
   {
     "id": "sharp",
@@ -47,7 +47,7 @@
     "descriptionEn": "Increases damage on this card by [blue]{Amount}[/blue].",
     "extraCardText": null,
     "extraCardTextEn": null,
-    "image": "/enchantment-icons/sharp.webp"
+    "image": ""
   },
   {
     "id": "corrupted",
@@ -57,7 +57,7 @@
     "descriptionEn": "Deal [blue]50%[/blue] more damage, but lose [blue]2[/blue] HP.",
     "extraCardText": "失去2点生命。",
     "extraCardTextEn": "Lose 2 HP.",
-    "image": "/enchantment-icons/corrupted.webp"
+    "image": ""
   },
   {
     "id": "glam",
@@ -67,7 +67,7 @@
     "descriptionEn": "This card has [gold]Replay[/gold] once per combat.",
     "extraCardText": null,
     "extraCardTextEn": null,
-    "image": "/enchantment-icons/glam.webp"
+    "image": ""
   },
   {
     "id": "royally_approved",
@@ -77,7 +77,7 @@
     "descriptionEn": "This card has [gold]Innate[/gold] and [gold]Retain[/gold].",
     "extraCardText": null,
     "extraCardTextEn": null,
-    "image": "/enchantment-icons/royally_approved.webp"
+    "image": ""
   },
   {
     "id": "vigorous",
@@ -87,7 +87,7 @@
     "descriptionEn": "The first time this card is played, it deals [blue]{Amount}[/blue] additional damage.",
     "extraCardText": null,
     "extraCardTextEn": null,
-    "image": "/enchantment-icons/vigorous.webp"
+    "image": ""
   },
   {
     "id": "clone",
@@ -97,7 +97,7 @@
     "descriptionEn": "This card can be duplicated at [gold]Rest Sites[/gold].",
     "extraCardText": null,
     "extraCardTextEn": null,
-    "image": "/enchantment-icons/clone.webp"
+    "image": ""
   },
   {
     "id": "adroit",
@@ -107,7 +107,7 @@
     "descriptionEn": "Gain [blue]{Block:diff()}[/blue] [gold]Block[/gold].",
     "extraCardText": "获得等同于该牌基础格挡值的格挡。",
     "extraCardTextEn": "Gain {Block:diff()} [gold]Block[/gold].",
-    "image": "/enchantment-icons/adroit.webp"
+    "image": ""
   },
   {
     "id": "souls_power",
@@ -117,7 +117,7 @@
     "descriptionEn": "This card loses [gold]Exhaust[/gold].",
     "extraCardText": null,
     "extraCardTextEn": null,
-    "image": "/enchantment-icons/souls_power.webp"
+    "image": ""
   },
   {
     "id": "nimble",
@@ -127,7 +127,7 @@
     "descriptionEn": "Increases [gold]Block[/gold] gained from this card by [blue]{Amount}[/blue].",
     "extraCardText": null,
     "extraCardTextEn": null,
-    "image": "/enchantment-icons/nimble.webp"
+    "image": ""
   },
   {
     "id": "goopy",
@@ -137,7 +137,7 @@
     "descriptionEn": "This card gains [gold]Exhaust[/gold]. When played, permanently increase this card's [gold]Block[/gold] by [blue]1[/blue].",
     "extraCardText": "这张牌的格挡值永久增加1点。",
     "extraCardTextEn": "Permanently increase this card's [gold]Block[/gold] by [blue]1[/blue].",
-    "image": "/enchantment-icons/goopy.webp"
+    "image": ""
   },
   {
     "id": "slither",
@@ -147,7 +147,7 @@
     "descriptionEn": "When you draw this card, randomize its cost from [blue]0[/blue] to [blue]3[/blue].",
     "extraCardText": null,
     "extraCardTextEn": null,
-    "image": "/enchantment-icons/slither.webp"
+    "image": ""
   },
   {
     "id": "tezcataras_ember",
@@ -157,7 +157,7 @@
     "descriptionEn": "Costs [blue]0[/blue] and gains [gold]Eternal[/gold].",
     "extraCardText": null,
     "extraCardTextEn": null,
-    "image": "/enchantment-icons/tezcataras_ember.webp"
+    "image": ""
   },
   {
     "id": "perfect_fit",
@@ -167,7 +167,7 @@
     "descriptionEn": "Whenever this would be shuffled into your [gold]Draw Pile[/gold], place it on the top instead.",
     "extraCardText": "完美契合。",
     "extraCardTextEn": "Perfect Fit.",
-    "image": "/enchantment-icons/perfect_fit.webp"
+    "image": ""
   },
   {
     "id": "steady",
@@ -177,7 +177,7 @@
     "descriptionEn": "This card gains [gold]Retain[/gold].",
     "extraCardText": null,
     "extraCardTextEn": null,
-    "image": "/enchantment-icons/steady.webp"
+    "image": ""
   },
   {
     "id": "spiral",
@@ -187,7 +187,7 @@
     "descriptionEn": "This card gains [gold]Replay[/gold] [blue]1[/blue].",
     "extraCardText": null,
     "extraCardTextEn": null,
-    "image": "/enchantment-icons/spiral.webp"
+    "image": ""
   },
   {
     "id": "swift",
@@ -197,7 +197,7 @@
     "descriptionEn": "The first time you play this card, draw [blue]{Amount}[/blue] {Amount:plural:card|cards}.",
     "extraCardText": "第一次打出时抽1张牌。",
     "extraCardTextEn": "Draw {Amount} {Amount:plural:card|cards} the first time this is played.",
-    "image": "/enchantment-icons/swift.webp"
+    "image": ""
   },
   {
     "id": "favored",
@@ -207,7 +207,7 @@
     "descriptionEn": "This card's attack damage is doubled.",
     "extraCardText": null,
     "extraCardTextEn": null,
-    "image": "/enchantment-icons/favored.webp"
+    "image": ""
   },
   {
     "id": "imbued",
@@ -217,6 +217,6 @@
     "descriptionEn": "This card is played automatically at the start of each combat.",
     "extraCardText": "注能。",
     "extraCardTextEn": "Imbued.",
-    "image": "/enchantment-icons/imbued.webp"
+    "image": ""
   }
 ]

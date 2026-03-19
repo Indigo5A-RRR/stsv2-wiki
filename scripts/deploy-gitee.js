@@ -28,7 +28,18 @@ if (fs.existsSync(docsDir)) {
 }
 fs.cpSync(outDir, docsDir, { recursive: true });
 
-console.log("完成！请执行以下命令推送到 Gitee：");
-console.log("  git add docs");
-console.log("  git commit -m \"Update Gitee Pages\"");
-console.log("  git push gitee main");
+// GitHub Pages / Gitee Pages: 404 回退到 index，实现 SPA 路由
+const indexPath = path.join(docsDir, "index.html");
+const notFoundPath = path.join(docsDir, "404.html");
+if (fs.existsSync(indexPath)) {
+  fs.copyFileSync(indexPath, notFoundPath);
+  console.log("已创建 404.html（SPA 回退）");
+}
+
+// GitHub Pages: 禁用 Jekyll，否则会忽略 _next 目录
+const noJekyllPath = path.join(docsDir, ".nojekyll");
+fs.writeFileSync(noJekyllPath, "", "utf-8");
+console.log("已创建 .nojekyll");
+
+console.log("完成！推送到 Gitee: git add docs && git commit -m \"Update\" && git push gitee main");
+console.log("推送到 GitHub: git add docs && git commit -m \"Update\" && git push origin main");

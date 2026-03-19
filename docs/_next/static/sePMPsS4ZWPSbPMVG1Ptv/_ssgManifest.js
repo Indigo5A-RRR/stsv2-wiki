@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fcards\u002F[id]","\u002Fenchantments\u002F[id]","\u002Fmonsters\u002F[id]","\u002Fpotions\u002F[id]","\u002Frelics\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
