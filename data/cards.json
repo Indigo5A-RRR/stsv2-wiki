@@ -9,7 +9,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__abrasive.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "获得1点敏捷。 获得6点荆棘。"
@@ -25,7 +25,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__accelerant.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "中毒会额外触发2次。"
@@ -41,7 +41,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__accuracy.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "小刀额外造成6点伤害。"
@@ -57,7 +57,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__acrobatics.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "抽4张牌。 丢弃1张牌。"
@@ -73,7 +73,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__adaptive_strike.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 18,
     "upgraded": {
@@ -91,7 +91,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__adrenaline.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -104,7 +104,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__afterimage.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -117,7 +117,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__afterlife.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "召唤9。"
@@ -133,7 +133,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__aggression.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -146,7 +146,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__alchemize.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 0
@@ -162,7 +162,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__alignment.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -175,7 +175,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__all_for_one.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 10,
     "upgraded": {
@@ -193,7 +193,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__anger.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 6,
     "upgraded": {
@@ -211,7 +211,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__anointed.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -224,7 +224,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__anticipate.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -237,7 +237,7 @@
     "rarity": "ancient",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__apotheosis.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 1
@@ -253,7 +253,7 @@
     "rarity": "ancient",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__apparition.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -266,7 +266,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__armaments.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 5,
     "upgraded": {
@@ -284,7 +284,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__arsenal.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "你每打出一张无色牌，都获得2点力量。"
@@ -300,7 +300,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/curse__ascenders_bane.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -313,7 +313,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__ashen_strike.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 3,
     "upgraded": {
@@ -331,7 +331,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__assassinate.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 10,
     "upgraded": {
@@ -349,7 +349,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__astral_pulse.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 14,
     "upgraded": {
@@ -367,7 +367,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__automation.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 0
@@ -383,7 +383,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__backflip.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 5,
     "upgraded": {
@@ -401,7 +401,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__backstab.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 11,
     "upgraded": {
@@ -419,7 +419,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/curse__bad_luck.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -432,7 +432,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__ball_lightning.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 7,
     "upgraded": {
@@ -450,7 +450,7 @@
     "rarity": "rare",
     "cost": 6,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__banshees_cry.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 33,
     "upgraded": {
@@ -468,7 +468,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__barrage.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 5,
     "upgraded": {
@@ -486,7 +486,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__barricade.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 2
@@ -502,7 +502,7 @@
     "rarity": "basic",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__bash.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 8,
     "upgraded": {
@@ -520,7 +520,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__battle_trance.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "抽4张牌。 你在本回合内不能再抽任何牌。"
@@ -536,7 +536,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__beacon_of_hope.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -549,7 +549,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__beam_cell.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 3,
     "upgraded": {
@@ -567,7 +567,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__beat_down.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "打出你弃牌堆中的4张随机攻击牌。"
@@ -583,7 +583,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__beat_into_shape.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 5,
     "upgraded": {
@@ -601,7 +601,7 @@
     "rarity": "status",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/status__beckon.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -614,7 +614,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__begone.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 4,
     "upgraded": {
@@ -632,7 +632,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__believe_in_you.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -645,7 +645,7 @@
     "rarity": "ancient",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__biased_cognition.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "获得5点集中。 在你的回合开始时，失去1点集中。"
@@ -661,7 +661,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__big_bang.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -674,7 +674,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__black_hole.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "每当你使用或获得星能时, 对所有敌人造成4点伤害。"
@@ -690,7 +690,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__blade_dance.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "添加4张小刀到你的手牌。"
@@ -706,7 +706,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__blade_of_ink.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -719,7 +719,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__blight_strike.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 8,
     "upgraded": {
@@ -737,7 +737,7 @@
     "rarity": "common",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__blood_wall.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 16,
     "upgraded": {
@@ -755,7 +755,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__bloodletting.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -768,7 +768,7 @@
     "rarity": "uncommon",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__bludgeon.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 32,
     "upgraded": {
@@ -786,7 +786,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__blur.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 5,
     "upgraded": {
@@ -804,7 +804,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__body_slam.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 1,
     "upgraded": {
@@ -822,7 +822,7 @@
     "rarity": "basic",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__bodyguard.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "召唤7。"
@@ -838,7 +838,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__bolas.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 3,
     "upgraded": {
@@ -856,7 +856,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__bombardment.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 18,
     "upgraded": {
@@ -874,7 +874,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__bone_shards.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 9,
     "block": 9,
@@ -894,7 +894,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__boost_away.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 6,
     "upgraded": {
@@ -912,7 +912,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__boot_sequence.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 10,
     "upgraded": {
@@ -930,7 +930,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__borrowed_time.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -943,7 +943,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__bouncing_flask.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "随机给予敌人3层中毒4次。"
@@ -959,7 +959,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__brand.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -972,7 +972,7 @@
     "rarity": "ancient",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__break.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 20,
     "upgraded": {
@@ -990,7 +990,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__breakthrough.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 9,
     "upgraded": {
@@ -1008,7 +1008,7 @@
     "rarity": "ancient",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__brightest_flame.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "获得能量。 抽3张牌。 失去1点最大生命。"
@@ -1024,7 +1024,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__bubble_bubble.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -1037,7 +1037,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__buffer.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "阻止下2次你受到的生命值损伤。"
@@ -1053,7 +1053,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__bulk_up.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -1066,7 +1066,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__bullet_time.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 2
@@ -1082,7 +1082,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__bully.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 2,
     "upgraded": {
@@ -1100,7 +1100,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__bulwark.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 13,
     "upgraded": {
@@ -1118,7 +1118,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__bundle_of_joy.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "将4张随机无色牌添加到你的手牌。"
@@ -1134,7 +1134,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/status__burn.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 2
   },
@@ -1148,7 +1148,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__burning_pact.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "消耗1张牌。 抽3张牌。"
@@ -1164,7 +1164,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__burst.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "在这个回合，你打出的下2}{Skills:plural:张技能牌会被额外打出一次。"
@@ -1180,7 +1180,7 @@
     "rarity": "uncommon",
     "cost": 4,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__bury.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 52,
     "upgraded": {
@@ -1198,7 +1198,7 @@
     "rarity": "event",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__byrd_swoop.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 14,
     "upgraded": {
@@ -1216,7 +1216,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/quest__byrdonis_egg.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -1229,7 +1229,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__calamity.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 2
@@ -1245,7 +1245,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__calcify.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "奥斯提的攻击额外造成6点伤害。"
@@ -1261,7 +1261,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__calculated_gamble.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -1274,7 +1274,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__call_of_the_void.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -1287,7 +1287,7 @@
     "rarity": "event",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__caltrops.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "每当你被攻击时，对攻击者造成5点伤害。"
@@ -1303,7 +1303,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__capacitor.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "获得3个充能球栏位。"
@@ -1319,7 +1319,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__capture_spirit.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 3,
     "upgraded": {
@@ -1337,7 +1337,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__cascade.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -1350,7 +1350,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__catastrophe.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "从你的抽牌堆中随机打出3张牌。"
@@ -1366,7 +1366,7 @@
     "rarity": "common",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__celestial_might.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 6,
     "upgraded": {
@@ -1384,7 +1384,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__chaos.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "生成2个随机充能球。"
@@ -1400,7 +1400,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__charge.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "选择你抽牌堆中的2张 牌，将其变化为 仆从打击+。"
@@ -1416,7 +1416,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__charge_battery.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 7,
     "upgraded": {
@@ -1434,7 +1434,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__child_of_the_stars.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "每当你花费星能时，每花费一点星能，获得3点格挡。"
@@ -1450,7 +1450,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__chill.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -1463,7 +1463,7 @@
     "rarity": "common",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__cinder.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 17,
     "upgraded": {
@@ -1481,7 +1481,7 @@
     "rarity": "event",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__clash.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 14,
     "upgraded": {
@@ -1499,7 +1499,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__claw.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 3,
     "upgraded": {
@@ -1517,7 +1517,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__cleanse.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "召唤5。 从你的抽牌堆中选一张牌消耗。"
@@ -1533,7 +1533,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__cloak_and_dagger.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 6,
     "upgraded": {
@@ -1551,7 +1551,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__cloak_of_stars.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 7,
     "upgraded": {
@@ -1569,7 +1569,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/curse__clumsy.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -1582,7 +1582,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__cold_snap.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 6,
     "upgraded": {
@@ -1600,7 +1600,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__collision_course.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -1613,7 +1613,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__colossus.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 5,
     "upgraded": {
@@ -1631,7 +1631,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__comet.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 33,
     "upgraded": {
@@ -1649,7 +1649,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__compact.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 6,
     "upgraded": {
@@ -1667,7 +1667,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__compile_driver.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 7,
     "upgraded": {
@@ -1685,7 +1685,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__conflagration.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 2,
     "upgraded": {
@@ -1703,7 +1703,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__conqueror.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "铸造5。 君王之剑在本回合对敌人造成双倍伤害。"
@@ -1719,7 +1719,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__consuming_shadow.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "生成3个黑暗充能球。 在你的回合结束时，激发你最左侧的充能球。"
@@ -1735,7 +1735,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__convergence.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -1748,7 +1748,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__coolant.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "在你的回合开始时，你每有一种不同的充能球，就获得3点格挡。"
@@ -1764,7 +1764,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__coolheaded.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "生成1个冰霜充能球。 抽2张牌。"
@@ -1780,7 +1780,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__coordinate.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -1793,7 +1793,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__corrosive_wave.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "打出此牌后，你在本回合每抽到一张牌，就给予所有敌人4层中毒。"
@@ -1809,7 +1809,7 @@
     "rarity": "ancient",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__corruption.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 2
@@ -1825,7 +1825,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__cosmic_indifference.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 6,
     "upgraded": {
@@ -1843,7 +1843,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__countdown.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "在你的回合开始时，给予随机敌人9点灾厄。"
@@ -1859,7 +1859,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__crash_landing.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 21,
     "upgraded": {
@@ -1877,7 +1877,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__creative_ai.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 2
@@ -1893,7 +1893,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__crescent_spear.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 2,
     "upgraded": {
@@ -1911,7 +1911,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__crimson_mantle.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "在你的回合开始时，失去1点生命并获得10点格挡。"
@@ -1927,7 +1927,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__cruelty.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "有易伤状态的敌人额外受到50%的伤害。"
@@ -1943,7 +1943,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__crush_under.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 7,
     "upgraded": {
@@ -1961,7 +1961,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/curse__curse_of_the_bell.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -1974,7 +1974,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__dagger_spray.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 4,
     "upgraded": {
@@ -1992,7 +1992,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__dagger_throw.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 9,
     "upgraded": {
@@ -2010,7 +2010,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__danse_macabre.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "每当你打出一张耗能大于等于能量的牌时，获得4点格挡。"
@@ -2026,7 +2026,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__dark_embrace.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 1
@@ -2042,7 +2042,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__dark_shackles.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "使一名敌人在本回合失去15点力量。"
@@ -2058,7 +2058,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__darkness.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "生成1黑暗充能球。 触发所有黑暗充能球的被动两次。"
@@ -2074,7 +2074,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__dash.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 10,
     "block": 10,
@@ -2094,7 +2094,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/status__dazed.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -2107,7 +2107,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__deadly_poison.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -2120,7 +2120,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__death_march.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 3,
     "upgraded": {
@@ -2138,7 +2138,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__deathbringer.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -2151,7 +2151,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__deaths_door.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -2164,7 +2164,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__debilitate.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 7,
     "upgraded": {
@@ -2182,7 +2182,7 @@
     "rarity": "status",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/status__debris.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -2195,7 +2195,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/curse__debt.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -2208,7 +2208,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/curse__decay.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 2
   },
@@ -2222,7 +2222,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__decisions_decisions.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -2235,7 +2235,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__defend_defect.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -2248,7 +2248,7 @@
     "rarity": "basic",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__defend_ironclad.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 5,
     "upgraded": {
@@ -2266,7 +2266,7 @@
     "rarity": "basic",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__defend_necrobinder.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 5,
     "upgraded": {
@@ -2284,7 +2284,7 @@
     "rarity": "basic",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__defend_regent.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 5,
     "upgraded": {
@@ -2302,7 +2302,7 @@
     "rarity": "basic",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__defend_silent.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 5,
     "upgraded": {
@@ -2320,7 +2320,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__defile.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 13,
     "upgraded": {
@@ -2338,7 +2338,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__deflect.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 4,
     "upgraded": {
@@ -2356,7 +2356,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__defragment.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "获得2点集中。"
@@ -2372,7 +2372,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__defy.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 6,
     "upgraded": {
@@ -2390,7 +2390,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__delay.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 11,
     "upgraded": {
@@ -2408,7 +2408,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__demesne.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 2
@@ -2424,7 +2424,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__demon_form.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "在你的回合开始时，获得3点力量。"
@@ -2440,7 +2440,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__demonic_shield.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -2453,7 +2453,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__devastate.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 30,
     "upgraded": {
@@ -2471,7 +2471,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__devour_life.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "每当你打出一张灵魂时，召唤2。"
@@ -2487,7 +2487,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__dirge.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "召唤4X次。 将X张灵魂+添加到你的抽牌堆中。"
@@ -2503,7 +2503,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__discovery.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -2516,7 +2516,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/status__disintegration.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -2529,7 +2529,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__dismantle.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 8,
     "upgraded": {
@@ -2547,7 +2547,7 @@
     "rarity": "event",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__distraction.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 0
@@ -2563,7 +2563,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__dodge_and_roll.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 4,
     "upgraded": {
@@ -2581,7 +2581,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__dominate.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -2594,7 +2594,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__double_energy.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 0
@@ -2610,7 +2610,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/curse__doubt.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -2623,7 +2623,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__drain_power.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 10,
     "upgraded": {
@@ -2641,7 +2641,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__dramatic_entrance.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 11,
     "upgraded": {
@@ -2659,7 +2659,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__dredge.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -2672,7 +2672,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__drum_of_battle.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "抽3张牌。 在你的回合开始时，消耗你的抽牌堆顶部的牌。"
@@ -2688,7 +2688,7 @@
     "rarity": "event",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__dual_wield.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "选择一张攻击牌或能力牌。将2张此牌的复制品加入你的手牌。"
@@ -2704,7 +2704,7 @@
     "rarity": "basic",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__dualcast.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 0
@@ -2720,7 +2720,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__dying_star.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 9,
     "upgraded": {
@@ -2738,7 +2738,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__echo_form.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -2751,7 +2751,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__echoing_slash.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 10,
     "upgraded": {
@@ -2769,7 +2769,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__eidolon.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 1
@@ -2785,7 +2785,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__end_of_days.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -2798,7 +2798,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__energy_surge.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -2811,7 +2811,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__enfeebling_touch.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "让一名敌人在本回合内失去11点力量。"
@@ -2827,7 +2827,7 @@
     "rarity": "event",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__enlightenment.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "在这场战斗，你当前手牌中所有牌的耗能降低至1。"
@@ -2843,7 +2843,7 @@
     "rarity": "curse",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/curse__enthralled.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -2856,7 +2856,7 @@
     "rarity": "event",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__entrench.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 1
@@ -2872,7 +2872,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__entropy.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -2885,7 +2885,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__envenom.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "每有一次攻击造成未被格挡的伤害，就给予2层中毒。"
@@ -2901,7 +2901,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__equilibrium.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 13,
     "upgraded": {
@@ -2919,7 +2919,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__eradicate.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 11,
     "upgraded": {
@@ -2937,7 +2937,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__escape_plan.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 3,
     "upgraded": {
@@ -2955,7 +2955,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__eternal_armor.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "获得9层覆甲。"
@@ -2971,7 +2971,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__evil_eye.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -2984,7 +2984,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__expect_a_fight.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 1
@@ -3000,7 +3000,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__expertise.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "抽牌直至你的手牌有7张牌。"
@@ -3016,7 +3016,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__expose.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "去除敌人身上的所有格挡值和人工制品。 并给予3层易伤。"
@@ -3032,7 +3032,7 @@
     "rarity": "event",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__exterminate.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 3,
     "upgraded": {
@@ -3050,7 +3050,7 @@
     "rarity": "basic",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__falling_star.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 7,
     "upgraded": {
@@ -3068,7 +3068,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__fan_of_knives.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -3081,7 +3081,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__fasten.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "从“防御”牌中额外获得7点格挡。"
@@ -3097,7 +3097,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__fear.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 7,
     "upgraded": {
@@ -3115,7 +3115,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__feed.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 10,
     "upgraded": {
@@ -3133,7 +3133,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__feeding_frenzy.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -3146,7 +3146,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__feel_no_pain.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "每当有一张牌被消耗时，获得4点格挡。"
@@ -3162,7 +3162,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__feral.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 1
@@ -3178,7 +3178,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__fetch.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 3,
     "upgraded": {
@@ -3196,7 +3196,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__fiend_fire.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -3209,7 +3209,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__fight_me.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 5,
     "upgraded": {
@@ -3227,7 +3227,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__fight_through.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 13,
     "upgraded": {
@@ -3245,7 +3245,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__finesse.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 4,
     "upgraded": {
@@ -3263,7 +3263,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__finisher.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 6,
     "upgraded": {
@@ -3281,7 +3281,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__fisticuffs.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 7,
     "upgraded": {
@@ -3299,7 +3299,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__flak_cannon.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 8,
     "upgraded": {
@@ -3317,7 +3317,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__flame_barrier.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 12,
     "upgraded": {
@@ -3335,7 +3335,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__flanking.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 1
@@ -3351,7 +3351,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__flash_of_steel.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 5,
     "upgraded": {
@@ -3369,7 +3369,7 @@
     "rarity": "common",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__flatten.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 12,
     "upgraded": {
@@ -3387,7 +3387,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__flechettes.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 5,
     "upgraded": {
@@ -3405,7 +3405,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__flick_flack.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -3418,7 +3418,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__focused_strike.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 9,
     "upgraded": {
@@ -3436,7 +3436,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__follow_through.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 6,
     "upgraded": {
@@ -3454,7 +3454,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/curse__folly.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -3467,7 +3467,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__footwork.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -3480,7 +3480,7 @@
     "rarity": "ancient",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__forbidden_grimoire.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 1
@@ -3496,7 +3496,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__foregone_conclusion.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "在下个回合，从你的抽牌堆中选择3张牌放入你的手牌。"
@@ -3512,7 +3512,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__forgotten_ritual.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -3525,7 +3525,7 @@
     "rarity": "status",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/status__frantic_escape.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -3538,7 +3538,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__friendship.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {}
   },
@@ -3552,7 +3552,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__ftl.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 5,
     "upgraded": {
@@ -3570,7 +3570,7 @@
     "rarity": "token",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/token__fuel.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "获得能量。 抽2张牌。"
@@ -3586,7 +3586,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__furnace.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "在你的回合开始时，铸造6。"
@@ -3602,7 +3602,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__fusion.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 1
@@ -3618,7 +3618,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__gamma_blast.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 13,
     "upgraded": {
@@ -3636,7 +3636,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__gang_up.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 5,
     "upgraded": {
@@ -3654,7 +3654,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__gather_light.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 7,
     "upgraded": {
@@ -3672,7 +3672,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__genesis.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {}
   },
@@ -3686,7 +3686,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__genetic_algorithm.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -3699,7 +3699,7 @@
     "rarity": "token",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/token__giant_rock.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 16,
     "upgraded": {
@@ -3717,7 +3717,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__glacier.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 6,
     "upgraded": {
@@ -3735,7 +3735,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__glasswork.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 5,
     "upgraded": {
@@ -3753,7 +3753,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__glimmer.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "抽4张牌。 将你手牌中的1张牌放到抽牌堆顶部。"
@@ -3769,7 +3769,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__glimpse_beyond.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "在所有玩家的抽牌堆中加入4张灵魂。"
@@ -3785,7 +3785,7 @@
     "rarity": "common",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__glitterstream.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 11,
     "upgraded": {
@@ -3803,7 +3803,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__glow.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -3816,7 +3816,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__go_for_the_eyes.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 3,
     "upgraded": {
@@ -3834,7 +3834,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__gold_axe.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 1
   },
@@ -3848,7 +3848,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__grand_finale.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 50,
     "upgraded": {
@@ -3866,7 +3866,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__grapple.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 7,
     "upgraded": {
@@ -3884,7 +3884,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__grave_warden.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 8,
     "upgraded": {
@@ -3902,7 +3902,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__graveblast.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 4,
     "upgraded": {
@@ -3920,7 +3920,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/curse__greed.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -3933,7 +3933,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__guards.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "将你手牌中的任意张牌变化为仆从捐躯+。"
@@ -3949,7 +3949,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__guiding_star.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 12,
     "upgraded": {
@@ -3967,7 +3967,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/curse__guilty.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -3980,7 +3980,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__gunk_up.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 4,
     "upgraded": {
@@ -3998,7 +3998,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__hailstorm.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "在你的回合结束时，如果你有冰霜充能球，则对所有敌人造成8点伤害。"
@@ -4014,7 +4014,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__hammer_time.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 1
@@ -4030,7 +4030,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__hand_of_greed.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 20,
     "upgraded": {
@@ -4048,7 +4048,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__hand_trick.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 7,
     "upgraded": {
@@ -4066,7 +4066,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__hang.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 10,
     "upgraded": {
@@ -4084,7 +4084,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__haunt.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "每当你打出一张灵魂时，随机一名敌人失去8点生命。"
@@ -4100,7 +4100,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__havoc.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 0
@@ -4116,7 +4116,7 @@
     "rarity": "uncommon",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__haze.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -4129,7 +4129,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__headbutt.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 9,
     "upgraded": {
@@ -4147,7 +4147,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__heavenly_drill.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 8,
     "upgraded": {
@@ -4165,7 +4165,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__hegemony.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 15,
     "upgraded": {
@@ -4183,7 +4183,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__heirloom_hammer.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -4196,7 +4196,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__helix_drill.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 3,
     "upgraded": {
@@ -4214,7 +4214,7 @@
     "rarity": "event",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__hello_world.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -4227,7 +4227,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__hellraiser.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 1
@@ -4243,7 +4243,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__hemokinesis.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 14,
     "upgraded": {
@@ -4261,7 +4261,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__hidden_cache.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {}
   },
@@ -4275,7 +4275,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__hidden_daggers.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "丢弃2张牌。 将2张小刀+加入你的手牌。"
@@ -4291,7 +4291,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__hidden_gem.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -4304,7 +4304,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__high_five.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 11,
     "upgraded": {
@@ -4322,7 +4322,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__hologram.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 3,
     "upgraded": {
@@ -4340,7 +4340,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__hotfix.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "在本回合获得3点集中。"
@@ -4356,7 +4356,7 @@
     "rarity": "uncommon",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__howl_from_beyond.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 16,
     "upgraded": {
@@ -4374,7 +4374,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__huddle_up.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "所有玩家抽3张牌。"
@@ -4390,7 +4390,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__hyperbeam.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 26,
     "upgraded": {
@@ -4408,7 +4408,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__i_am_invincible.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -4421,7 +4421,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__ice_lance.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 19,
     "upgraded": {
@@ -4439,7 +4439,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__ignition.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -4452,7 +4452,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__impatience.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "如果你的手牌中没有攻击牌，抽3张牌。"
@@ -4468,7 +4468,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__impervious.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 30,
     "upgraded": {
@@ -4486,7 +4486,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/status__infection.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 3
   },
@@ -4500,7 +4500,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__infernal_blade.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 0
@@ -4516,7 +4516,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__inferno.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "在你的回合开始时，失去1点生命。 每当你在你的回合内失去生命时，对所有敌人造成9点伤害。"
@@ -4532,7 +4532,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__infinite_blades.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -4545,7 +4545,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__inflame.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "获得3点力量。"
@@ -4561,7 +4561,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/curse__injury.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -4574,7 +4574,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__intercept.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 9,
     "upgraded": {
@@ -4592,7 +4592,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__invoke.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "在下个回合召唤3并获得能量。"
@@ -4608,7 +4608,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__iron_wave.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 5,
     "block": 5,
@@ -4628,7 +4628,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__iteration.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "每回合你第一次抽到状态牌时，抽3张牌。"
@@ -4644,7 +4644,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__jack_of_all_trades.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "将2张随机无色牌加入你的手牌。"
@@ -4660,7 +4660,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__jackpot.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 25,
     "upgraded": {
@@ -4678,7 +4678,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__juggernaut.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "每当你获得格挡时，对随机敌人造成7点伤害。"
@@ -4694,7 +4694,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__juggling.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -4707,7 +4707,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__kingly_kick.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -4720,7 +4720,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__kingly_punch.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 8,
     "upgraded": {
@@ -4738,7 +4738,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__knife_trap.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "将你消耗牌堆中的所有小刀升级然后对一名敌人打出。"
@@ -4754,7 +4754,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__knockdown.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 10,
     "upgraded": {
@@ -4772,7 +4772,7 @@
     "rarity": "uncommon",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__knockout_blow.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 30,
     "upgraded": {
@@ -4790,7 +4790,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__know_thy_place.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -4803,7 +4803,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/quest__lantern_key.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -4816,7 +4816,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__largesse.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -4829,7 +4829,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__leading_strike.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 7,
     "upgraded": {
@@ -4847,7 +4847,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__leap.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 9,
     "upgraded": {
@@ -4865,7 +4865,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__leg_sweep.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 11,
     "upgraded": {
@@ -4883,7 +4883,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__legion_of_bone.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "所有玩家召唤8。"
@@ -4899,7 +4899,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__lethality.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "每回合的第一张攻击牌会造成75%额外伤害。"
@@ -4915,7 +4915,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__lift.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 11,
     "upgraded": {
@@ -4933,7 +4933,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__lightning_rod.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 4,
     "upgraded": {
@@ -4951,7 +4951,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__loop.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {}
   },
@@ -4965,7 +4965,7 @@
     "rarity": "token",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/token__luminesce.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -4978,7 +4978,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__lunar_blast.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 4,
     "upgraded": {
@@ -4996,7 +4996,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__machine_learning.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -5009,7 +5009,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__make_it_so.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 6,
     "upgraded": {
@@ -5027,7 +5027,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__malaise.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -5040,7 +5040,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__mangle.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 15,
     "upgraded": {
@@ -5058,7 +5058,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__manifest_authority.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 7,
     "upgraded": {
@@ -5076,7 +5076,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__master_of_strategy.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "抽4张牌。"
@@ -5092,7 +5092,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__master_planner.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 1
@@ -5108,7 +5108,7 @@
     "rarity": "ancient",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__maul.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 5,
     "upgraded": {
@@ -5126,7 +5126,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__mayhem.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 1
@@ -5142,7 +5142,7 @@
     "rarity": "uncommon",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__melancholy.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 13,
     "upgraded": {
@@ -5160,7 +5160,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__memento_mori.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -5173,7 +5173,7 @@
     "rarity": "event",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__metamorphosis.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "在你的抽牌堆中加入5张随机攻击牌。它们在本场战斗中可以被免费打出。"
@@ -5189,7 +5189,7 @@
     "rarity": "ancient",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__meteor_shower.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 14,
     "upgraded": {
@@ -5207,7 +5207,7 @@
     "rarity": "rare",
     "cost": 5,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__meteor_strike.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 24,
     "upgraded": {
@@ -5225,7 +5225,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__mimic.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -5238,7 +5238,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__mind_blast.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 1,
     "upgraded": {
@@ -5256,7 +5256,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/status__mind_rot.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -5269,7 +5269,7 @@
     "rarity": "token",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/token__minion_dive_bomb.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 13,
     "upgraded": {
@@ -5287,7 +5287,7 @@
     "rarity": "token",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/token__minion_sacrifice.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 9,
     "upgraded": {
@@ -5305,7 +5305,7 @@
     "rarity": "token",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/token__minion_strike.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 7,
     "upgraded": {
@@ -5323,7 +5323,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__mirage.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 0
@@ -5339,7 +5339,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__misery.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 7,
     "upgraded": {
@@ -5357,7 +5357,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__modded.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "获得1个充能球栏位。 抽2张牌。这张牌的耗能加1。"
@@ -5373,7 +5373,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__molten_fist.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 10,
     "upgraded": {
@@ -5391,7 +5391,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__momentum_strike.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 10,
     "upgraded": {
@@ -5409,7 +5409,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__monarchs_gaze.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 2
@@ -5425,7 +5425,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__monologue.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -5438,7 +5438,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__multi_cast.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "激发你最右侧的充能球X+1次。"
@@ -5454,7 +5454,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__murder.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 1,
     "upgraded": {
@@ -5472,7 +5472,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__necro_mastery.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "召唤8。 每当奥斯提失去生命值时， 所有敌人失去等量生命值。"
@@ -5488,7 +5488,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__negative_pulse.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 5,
     "upgraded": {
@@ -5506,7 +5506,7 @@
     "rarity": "ancient",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__neows_fury.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 10,
     "upgraded": {
@@ -5524,7 +5524,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__neurosurge.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -5537,7 +5537,7 @@
     "rarity": "basic",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__neutralize.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 3,
     "upgraded": {
@@ -5555,7 +5555,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__neutron_aegis.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "获得11层覆甲。"
@@ -5571,7 +5571,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__nightmare.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 2
@@ -5587,7 +5587,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__no_escape.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -5600,7 +5600,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/curse__normality.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -5613,7 +5613,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__nostalgia.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 0
@@ -5629,7 +5629,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__noxious_fumes.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "在你的回合开始时，给予所有敌人3层中毒。"
@@ -5645,7 +5645,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__null.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 10,
     "upgraded": {
@@ -5663,7 +5663,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__oblivion.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -5676,7 +5676,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__offering.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "失去6点生命。 获得能量。 抽5张牌。"
@@ -5692,7 +5692,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__omnislice.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 8,
     "upgraded": {
@@ -5710,7 +5710,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__one_two_punch.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "在这个回合，你打出的下2张攻击牌会被额外打出一次。"
@@ -5726,7 +5726,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__orbit.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 1
@@ -5742,7 +5742,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__outbreak.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "每当你给予3次中毒，就对所有敌人造成15点伤害。"
@@ -5758,7 +5758,7 @@
     "rarity": "event",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__outmaneuver.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -5771,7 +5771,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__overclock.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "抽3张牌。 将一张灼伤加入你的弃牌堆。"
@@ -5787,7 +5787,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__pacts_end.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 17,
     "upgraded": {
@@ -5805,7 +5805,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__pagestorm.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 0
@@ -5821,7 +5821,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__pale_blue_dot.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "如果你在一回合内打出了大于等于5张牌，在下个回合开始时抽2张牌。"
@@ -5837,7 +5837,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__panache.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "每当你在一回合内打出五张牌时，对所有敌人造成14点伤害。"
@@ -5853,7 +5853,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__panic_button.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 30,
     "upgraded": {
@@ -5871,7 +5871,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__parry.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "每当你打出君王之剑时，获得9点格挡。"
@@ -5887,7 +5887,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__parse.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "抽4张牌。"
@@ -5903,7 +5903,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__particle_wall.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 9,
     "upgraded": {
@@ -5921,7 +5921,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__patter.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 8,
     "upgraded": {
@@ -5939,7 +5939,7 @@
     "rarity": "event",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__peck.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 2,
     "upgraded": {
@@ -5957,7 +5957,7 @@
     "rarity": "common",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__perfected_strike.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 2,
     "upgraded": {
@@ -5975,7 +5975,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__phantom_blades.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "小刀获得保留。 你在每回合打出的第一张小刀额外造成12点伤害。"
@@ -5991,7 +5991,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__photon_cut.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 10,
     "upgraded": {
@@ -6009,7 +6009,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__piercing_wail.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "所有敌人在本回合失去8点力量。"
@@ -6025,7 +6025,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__pillage.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 6,
     "upgraded": {
@@ -6043,7 +6043,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__pillar_of_creation.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 3,
     "upgraded": {
@@ -6061,7 +6061,7 @@
     "rarity": "uncommon",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__pinpoint.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 17,
     "upgraded": {
@@ -6079,7 +6079,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__poisoned_stab.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 6,
     "upgraded": {
@@ -6097,7 +6097,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__poke.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 6,
     "upgraded": {
@@ -6115,7 +6115,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__pommel_strike.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 9,
     "upgraded": {
@@ -6133,7 +6133,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/curse__poor_sleep.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -6146,7 +6146,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__pounce.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 12,
     "upgraded": {
@@ -6164,7 +6164,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__precise_cut.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 2
   },
@@ -6178,7 +6178,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__predator.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 15,
     "upgraded": {
@@ -6196,7 +6196,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__prep_time.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "在你的回合开始时，获得6点活力。"
@@ -6212,7 +6212,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__prepared.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "抽2张牌。 丢弃2张牌。"
@@ -6228,7 +6228,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__primal_force.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "将手牌中的所有攻击牌变化为巨石+。"
@@ -6244,7 +6244,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__production.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -6257,7 +6257,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__prolong.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -6270,7 +6270,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__prophesize.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "抽9张牌。"
@@ -6286,7 +6286,7 @@
     "rarity": "ancient",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__protector.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 1,
     "upgraded": {
@@ -6304,7 +6304,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__prowess.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -6317,7 +6317,7 @@
     "rarity": "common",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__pull_aggro.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 7,
     "upgraded": {
@@ -6335,7 +6335,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__pull_from_below.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 5,
     "upgraded": {
@@ -6353,7 +6353,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__purity.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "从手牌中选择最多5张牌消耗。"
@@ -6369,7 +6369,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__putrefy.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "给予3层虚弱。 给予3层易伤。"
@@ -6385,7 +6385,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__pyre.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -6398,7 +6398,7 @@
     "rarity": "ancient",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__quadcast.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 0
@@ -6414,7 +6414,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__quasar.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "从3张随机升级过的无色牌中选择1张加入你的手牌。"
@@ -6430,7 +6430,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__radiate.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 3,
     "upgraded": {
@@ -6448,7 +6448,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__rage.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "打出此牌后，你在这个回合内每打出一张攻击牌，获得5点格挡。"
@@ -6464,7 +6464,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__rainbow.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -6477,7 +6477,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__rally.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 12,
     "upgraded": {
@@ -6495,7 +6495,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__rampage.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 9,
     "upgraded": {
@@ -6513,7 +6513,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__rattle.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 7,
     "upgraded": {
@@ -6531,7 +6531,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__reanimate.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "召唤25。"
@@ -6547,7 +6547,7 @@
     "rarity": "common",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__reap.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 27,
     "upgraded": {
@@ -6565,7 +6565,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__reaper_form.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -6578,7 +6578,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__reave.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 9,
     "upgraded": {
@@ -6596,7 +6596,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__reboot.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "将你的所有未消耗的卡牌重新洗牌放入抽牌堆。 抽6张牌。"
@@ -6612,7 +6612,7 @@
     "rarity": "event",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__rebound.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 9,
     "upgraded": {
@@ -6630,7 +6630,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__refine_blade.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "铸造10。 在下个回合获得能量。"
@@ -6646,7 +6646,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__reflect.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 17,
     "upgraded": {
@@ -6664,7 +6664,7 @@
     "rarity": "uncommon",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__reflex.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "抽3张牌。"
@@ -6680,7 +6680,7 @@
     "rarity": "uncommon",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__refract.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 9,
     "upgraded": {
@@ -6698,7 +6698,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/curse__regret.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -6711,7 +6711,7 @@
     "rarity": "ancient",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__relax.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 15,
     "upgraded": {
@@ -6729,7 +6729,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__rend.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 5,
     "upgraded": {
@@ -6747,7 +6747,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__reserves.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -6760,7 +6760,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__resonance.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "获得2点力量。所有敌人失去1点力量。"
@@ -6776,7 +6776,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__restlessness.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "如果你的手牌为空，则抽3张牌并获得能量。"
@@ -6792,7 +6792,7 @@
     "rarity": "common",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__ricochet.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 3,
     "upgraded": {
@@ -6810,7 +6810,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__right_hand_hand.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 4,
     "upgraded": {
@@ -6828,7 +6828,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__rip_and_tear.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 7,
     "upgraded": {
@@ -6846,7 +6846,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__rocket_punch.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 13,
     "upgraded": {
@@ -6864,7 +6864,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__rolling_boulder.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "在你的回合开始时，对所有敌人造成10点伤害，然后将该伤害增加5点。"
@@ -6880,7 +6880,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__royal_gamble.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -6893,7 +6893,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__royalties.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -6906,7 +6906,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__rupture.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -6919,7 +6919,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__sacrifice.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 0
@@ -6935,7 +6935,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__salvo.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 12,
     "upgraded": {
@@ -6953,7 +6953,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__scavenge.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -6966,7 +6966,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__scourge.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "给予13层灾厄。 抽2张牌。"
@@ -6982,7 +6982,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__scrape.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 7,
     "upgraded": {
@@ -7000,7 +7000,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__scrawl.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -7013,7 +7013,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__sculpting_strike.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -7026,7 +7026,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__seance.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "将你抽牌堆中的一张牌变化为灵魂+。"
@@ -7042,7 +7042,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__second_wind.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 5,
     "upgraded": {
@@ -7060,7 +7060,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__secret_technique.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -7073,7 +7073,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__secret_weapon.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -7086,7 +7086,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__seeker_strike.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -7099,7 +7099,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__seeking_edge.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "铸造11。 君王之剑现在会对所有敌人造成伤害。"
@@ -7115,7 +7115,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__sentry_mode.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 1
@@ -7131,7 +7131,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__serpent_form.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "你每打出一张牌，就对随机一名敌人造成5点伤害。"
@@ -7147,7 +7147,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__setup_strike.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -7160,7 +7160,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__seven_stars.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -7173,7 +7173,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__severance.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 13,
     "upgraded": {
@@ -7191,7 +7191,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__shadow_shield.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -7204,7 +7204,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__shadow_step.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -7217,7 +7217,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__shadowmeld.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 0
@@ -7233,7 +7233,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/curse__shame.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -7246,7 +7246,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__shared_fate.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "失去2点力量。 敌人失去3点力量。"
@@ -7262,7 +7262,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__shatter.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 11,
     "upgraded": {
@@ -7280,7 +7280,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__shining_strike.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -7293,7 +7293,7 @@
     "rarity": "token",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/token__shiv.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 4,
     "upgraded": {
@@ -7311,7 +7311,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__shockwave.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "给予所有敌人5层虚弱和易伤。"
@@ -7327,7 +7327,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__shroud.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 2,
     "upgraded": {
@@ -7345,7 +7345,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__shrug_it_off.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 8,
     "upgraded": {
@@ -7363,7 +7363,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__sic_em.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 5,
     "upgraded": {
@@ -7381,7 +7381,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__signal_boost.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 0
@@ -7397,7 +7397,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__skewer.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 7,
     "upgraded": {
@@ -7415,7 +7415,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__skim.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "抽4张牌。"
@@ -7431,7 +7431,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__sleight_of_flesh.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "每当你给予一个敌人负面状态时，使其受到13点伤害。"
@@ -7447,7 +7447,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__slice.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 6,
     "upgraded": {
@@ -7465,7 +7465,7 @@
     "rarity": "status",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/status__slimed.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -7478,7 +7478,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/token__sloth.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -7491,7 +7491,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__smokestack.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "每当你生成一张状态牌时，对所有敌人造成7点伤害。"
@@ -7507,7 +7507,7 @@
     "rarity": "common",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__snakebite.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -7520,7 +7520,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__snap.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 7,
     "upgraded": {
@@ -7538,7 +7538,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__sneaky.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "每当其他玩家攻击一名敌人时，获得2点格挡。"
@@ -7554,7 +7554,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__solar_strike.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -7567,7 +7567,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/status__soot.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -7580,7 +7580,7 @@
     "rarity": "token",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/token__soul.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "抽3张牌。"
@@ -7596,7 +7596,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__soul_storm.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -7609,7 +7609,7 @@
     "rarity": "token",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/token__sovereign_blade.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 10,
     "upgraded": {
@@ -7627,7 +7627,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__sow.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 8,
     "upgraded": {
@@ -7645,7 +7645,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__spectrum_shift.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -7658,7 +7658,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__speedster.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "每当你在回合进行中抽到一张牌时，对所有敌人造成3点伤害。"
@@ -7674,7 +7674,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__spinner.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "生成1个玻璃充能球。 在你的回合开始时，生成1个玻璃充能球。"
@@ -7690,7 +7690,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__spirit_of_ash.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "每当你打出一张虚无牌时，获得5点格挡。"
@@ -7706,7 +7706,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__spite.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 6,
     "upgraded": {
@@ -7724,7 +7724,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__splash.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -7737,7 +7737,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/quest__spoils_map.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -7750,7 +7750,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__spoils_of_battle.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "铸造15。"
@@ -7766,7 +7766,7 @@
     "rarity": "curse",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/curse__spore_mind.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -7779,7 +7779,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__spur.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "召唤5。 奥斯提回复7点生命。"
@@ -7795,7 +7795,7 @@
     "rarity": "event",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__squash.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 10,
     "upgraded": {
@@ -7813,7 +7813,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__squeeze.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 5,
     "upgraded": {
@@ -7831,7 +7831,7 @@
     "rarity": "event",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__stack.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "获得等量于与你当前弃牌堆中牌数+?的格挡值。"
@@ -7847,7 +7847,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__stampede.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 1
@@ -7863,7 +7863,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__stardust.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 5,
     "upgraded": {
@@ -7881,7 +7881,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__stoke.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 0
@@ -7897,7 +7897,7 @@
     "rarity": "uncommon",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__stomp.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 12,
     "upgraded": {
@@ -7915,7 +7915,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__stone_armor.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "获得6层覆甲。"
@@ -7931,7 +7931,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__storm.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "每当你打出一张能力牌时，生成2个闪电充能球。"
@@ -7947,7 +7947,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__storm_of_steel.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "丢弃所有手牌。 每丢弃一张牌，就将一张小刀+添加至你的手牌。"
@@ -7963,7 +7963,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__strangle.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 8,
     "upgraded": {
@@ -7981,7 +7981,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__stratagem.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 0
@@ -7997,7 +7997,7 @@
     "rarity": "basic",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__strike_defect.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 6,
     "upgraded": {
@@ -8015,7 +8015,7 @@
     "rarity": "basic",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__strike_ironclad.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 6,
     "upgraded": {
@@ -8033,7 +8033,7 @@
     "rarity": "basic",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__strike_necrobinder.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 6,
     "upgraded": {
@@ -8051,7 +8051,7 @@
     "rarity": "basic",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__strike_regent.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 6,
     "upgraded": {
@@ -8069,7 +8069,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__strike_silent.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -8082,7 +8082,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__subroutine.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 0
@@ -8098,7 +8098,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__sucker_punch.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 8,
     "upgraded": {
@@ -8116,7 +8116,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__summon_forth.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "铸造11。 不论何处，将君王之剑放入你的手牌。"
@@ -8132,7 +8132,7 @@
     "rarity": "uncommon",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__sunder.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 24,
     "upgraded": {
@@ -8150,7 +8150,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__supercritical.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -8163,7 +8163,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__supermassive.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 3,
     "upgraded": {
@@ -8181,7 +8181,7 @@
     "rarity": "ancient",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__suppress.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 11,
     "upgraded": {
@@ -8199,7 +8199,7 @@
     "rarity": "basic",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__survivor.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 8,
     "upgraded": {
@@ -8217,7 +8217,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__sweeping_beam.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 6,
     "upgraded": {
@@ -8235,7 +8235,7 @@
     "rarity": "token",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/token__sweeping_gaze.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 10,
     "upgraded": {
@@ -8253,7 +8253,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__sword_boomerang.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 3,
     "upgraded": {
@@ -8271,7 +8271,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__sword_sage.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -8284,7 +8284,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__synchronize.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -8297,7 +8297,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__synthesis.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 12,
     "upgraded": {
@@ -8315,7 +8315,7 @@
     "rarity": "uncommon",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__tactician.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -8328,7 +8328,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__tag_team.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -8341,7 +8341,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__tank.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 0
@@ -8357,7 +8357,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__taunt.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 7,
     "upgraded": {
@@ -8375,7 +8375,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__tear_asunder.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 5,
     "upgraded": {
@@ -8393,7 +8393,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__tempest.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "生成X+1个闪电充能球。"
@@ -8409,7 +8409,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__terraforming.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "获得8点活力。"
@@ -8425,7 +8425,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__tesla_coil.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 3,
     "upgraded": {
@@ -8443,7 +8443,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__the_bomb.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "在3回合结束后，对所有敌人造成50点伤害。"
@@ -8459,7 +8459,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__the_gambit.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 50,
     "upgraded": {
@@ -8477,7 +8477,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__the_hunt.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 10,
     "upgraded": {
@@ -8495,7 +8495,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__the_scythe.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -8508,7 +8508,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__the_sealed_throne.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -8521,7 +8521,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__the_smith.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "铸造40。"
@@ -8537,7 +8537,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__thinking_ahead.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -8550,7 +8550,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__thrash.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 4,
     "upgraded": {
@@ -8568,7 +8568,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__thrumming_hatchet.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 11,
     "upgraded": {
@@ -8586,7 +8586,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__thunder.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "每当你激发闪电充能球时，对被命中的敌人造成8点伤害。"
@@ -8602,7 +8602,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__thunderclap.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 4,
     "upgraded": {
@@ -8620,7 +8620,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__times_up.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 1
   },
@@ -8634,7 +8634,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__tools_of_the_trade.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -8647,7 +8647,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__toric_toughness.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -8660,7 +8660,7 @@
     "rarity": "status",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/status__toxic.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 5
   },
@@ -8674,7 +8674,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__tracking.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 1
@@ -8690,7 +8690,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__transfigure.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -8703,7 +8703,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__trash_to_treasure.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -8716,7 +8716,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__tremble.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -8729,7 +8729,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__true_grit.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 7,
     "upgraded": {
@@ -8747,7 +8747,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__turbo.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -8760,7 +8760,7 @@
     "rarity": "common",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__twin_strike.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 5,
     "upgraded": {
@@ -8778,7 +8778,7 @@
     "rarity": "rare",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__tyranny.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -8791,7 +8791,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__ultimate_defend.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 11,
     "upgraded": {
@@ -8809,7 +8809,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__ultimate_strike.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 14,
     "upgraded": {
@@ -8827,7 +8827,7 @@
     "rarity": "rare",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__undeath.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 7,
     "upgraded": {
@@ -8845,7 +8845,7 @@
     "rarity": "basic",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__unleash.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 1
   },
@@ -8859,7 +8859,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__unmovable.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 1
@@ -8875,7 +8875,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__unrelenting.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 12,
     "upgraded": {
@@ -8893,7 +8893,7 @@
     "rarity": "common",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__untouchable.webp",
+    "image": "",
     "version": "1.0.0",
     "block": 9,
     "upgraded": {
@@ -8911,7 +8911,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__up_my_sleeve.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "将4张小刀加入你的手牌。 这张牌的耗能减少1。"
@@ -8927,7 +8927,7 @@
     "rarity": "uncommon",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__uppercut.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 13,
     "upgraded": {
@@ -8945,7 +8945,7 @@
     "rarity": "common",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__uproar.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 5,
     "upgraded": {
@@ -8963,7 +8963,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__veilpiercer.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 10,
     "upgraded": {
@@ -8981,7 +8981,7 @@
     "rarity": "basic",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__venerate.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -8994,7 +8994,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__vicious.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "每当你给予易伤时，抽2张牌。"
@@ -9010,7 +9010,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/status__void.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -9023,7 +9023,7 @@
     "rarity": "rare",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__void_form.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "结束你的回合。 你可以免费打出每回合的前3张牌。"
@@ -9039,7 +9039,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/colorless__volley.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 10,
     "upgraded": {
@@ -9057,7 +9057,7 @@
     "rarity": "rare",
     "cost": 2,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__voltaic.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -9070,7 +9070,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/token__waste_away.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -9083,7 +9083,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__well_laid_plans.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "在你的回合结束时，保留最多2张牌。"
@@ -9099,7 +9099,7 @@
     "rarity": "uncommon",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/ironclad__whirlwind.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 5,
     "upgraded": {
@@ -9117,7 +9117,7 @@
     "rarity": "ancient",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__whistle.webp",
+    "image": "",
     "version": "1.0.0",
     "damage": 33,
     "upgraded": {
@@ -9135,7 +9135,7 @@
     "rarity": "uncommon",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__white_noise.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 0
@@ -9151,7 +9151,7 @@
     "rarity": "ancient",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/event__wish.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -9164,7 +9164,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/necrobinder__wisp.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -9177,7 +9177,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/status__wound.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -9190,7 +9190,7 @@
     "rarity": "ancient",
     "cost": 3,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/silent__wraith_form.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "description": "获得3无实体。 在你的回合开始时，失去1点敏捷。"
@@ -9206,7 +9206,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/curse__writhe.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -9219,7 +9219,7 @@
     "rarity": "common",
     "cost": 0,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/regent__wrought_in_war.webp",
+    "image": "",
     "version": "1.0.0"
   },
   {
@@ -9232,7 +9232,7 @@
     "rarity": "basic",
     "cost": 1,
     "tags": [],
-    "image": "https://sts2.runthesim.ai/assets/card-portraits/defect__zap.webp",
+    "image": "",
     "version": "1.0.0",
     "upgraded": {
       "cost": 0

@@ -9,7 +9,7 @@
     "classLabel": "铁甲战士",
     "category": "starter",
     "categoryLabel": "初始遗物",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/burning_blood.webp"
+    "image": ""
   },
   {
     "id": "ring_of_the_snake",
@@ -21,7 +21,7 @@
     "classLabel": "静默猎手",
     "category": "starter",
     "categoryLabel": "初始遗物",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/ring_of_the_snake.webp"
+    "image": ""
   },
   {
     "id": "divine_right",
@@ -33,7 +33,7 @@
     "classLabel": "储君",
     "category": "starter",
     "categoryLabel": "初始遗物",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/divine_right.webp"
+    "image": ""
   },
   {
     "id": "bound_phylactery",
@@ -45,7 +45,7 @@
     "classLabel": "亡灵契约师",
     "category": "starter",
     "categoryLabel": "初始遗物",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/bound_phylactery.webp"
+    "image": ""
   },
   {
     "id": "cracked_core",
@@ -57,7 +57,7 @@
     "classLabel": "故障机器人",
     "category": "starter",
     "categoryLabel": "初始遗物",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/cracked_core.webp"
+    "image": ""
   },
   {
     "id": "black_blood",
@@ -69,7 +69,7 @@
     "classLabel": "铁甲战士",
     "category": "starter",
     "categoryLabel": "初始遗物",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/black_blood.webp"
+    "image": ""
   },
   {
     "id": "divine_destiny",
@@ -81,7 +81,7 @@
     "classLabel": "储君",
     "category": "starter",
     "categoryLabel": "初始遗物",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/divine_destiny.webp"
+    "image": ""
   },
   {
     "id": "infused_core",
@@ -93,7 +93,7 @@
     "classLabel": "故障机器人",
     "category": "starter",
     "categoryLabel": "初始遗物",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/infused_core.webp"
+    "image": ""
   },
   {
     "id": "phylactery_unbound",
@@ -105,7 +105,7 @@
     "classLabel": "亡灵契约师",
     "category": "starter",
     "categoryLabel": "初始遗物",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/phylactery_unbound.webp"
+    "image": ""
   },
   {
     "id": "ring_of_the_drake",
@@ -117,7 +117,7 @@
     "classLabel": "静默猎手",
     "category": "starter",
     "categoryLabel": "初始遗物",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/ring_of_the_drake.webp"
+    "image": ""
   },
   {
     "id": "red_skull",
@@ -129,7 +129,7 @@
     "classLabel": "铁甲战士",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/red_skull.webp"
+    "image": ""
   },
   {
     "id": "snecko_skull",
@@ -141,7 +141,7 @@
     "classLabel": "静默猎手",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/snecko_skull.webp"
+    "image": ""
   },
   {
     "id": "fencing_manual",
@@ -153,7 +153,7 @@
     "classLabel": "储君",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/fencing_manual.webp"
+    "image": ""
   },
   {
     "id": "bone_flute",
@@ -165,7 +165,7 @@
     "classLabel": "亡灵契约师",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/bone_flute.webp"
+    "image": ""
   },
   {
     "id": "data_disk",
@@ -177,7 +177,7 @@
     "classLabel": "故障机器人",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/data_disk.webp"
+    "image": ""
   },
   {
     "id": "amethyst_aubergine",
@@ -189,7 +189,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/amethyst_aubergine.webp"
+    "image": ""
   },
   {
     "id": "anchor",
@@ -201,7 +201,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/anchor.webp"
+    "image": ""
   },
   {
     "id": "bag_of_preparation",
@@ -213,7 +213,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/bag_of_preparation.webp"
+    "image": ""
   },
   {
     "id": "blood_vial",
@@ -225,7 +225,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/blood_vial.webp"
+    "image": ""
   },
   {
     "id": "book_of_five_rings",
@@ -237,7 +237,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/book_of_five_rings.webp"
+    "image": ""
   },
   {
     "id": "bronze_scales",
@@ -249,7 +249,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/bronze_scales.webp"
+    "image": ""
   },
   {
     "id": "centennial_puzzle",
@@ -261,7 +261,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/centennial_puzzle.webp"
+    "image": ""
   },
   {
     "id": "festive_popper",
@@ -273,7 +273,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/festive_popper.webp"
+    "image": ""
   },
   {
     "id": "gorget",
@@ -285,7 +285,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/gorget.webp"
+    "image": ""
   },
   {
     "id": "happy_flower",
@@ -297,7 +297,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/happy_flower.webp"
+    "image": ""
   },
   {
     "id": "juzu_bracelet",
@@ -309,7 +309,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/juzu_bracelet.webp"
+    "image": ""
   },
   {
     "id": "lantern",
@@ -321,7 +321,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/lantern.webp"
+    "image": ""
   },
   {
     "id": "meal_ticket",
@@ -333,7 +333,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/meal_ticket.webp"
+    "image": ""
   },
   {
     "id": "oddly_smooth_stone",
@@ -345,7 +345,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/oddly_smooth_stone.webp"
+    "image": ""
   },
   {
     "id": "pendulum",
@@ -357,7 +357,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/pendulum.webp"
+    "image": ""
   },
   {
     "id": "permafrost",
@@ -369,7 +369,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/permafrost.webp"
+    "image": ""
   },
   {
     "id": "potion_belt",
@@ -381,7 +381,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/potion_belt.webp"
+    "image": ""
   },
   {
     "id": "regal_pillow",
@@ -393,7 +393,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/regal_pillow.webp"
+    "image": ""
   },
   {
     "id": "strawberry",
@@ -405,7 +405,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/strawberry.webp"
+    "image": ""
   },
   {
     "id": "strike_dummy",
@@ -417,7 +417,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/strike_dummy.webp"
+    "image": ""
   },
   {
     "id": "tiny_mailbox",
@@ -429,7 +429,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/tiny_mailbox.webp"
+    "image": ""
   },
   {
     "id": "vajra",
@@ -441,7 +441,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/vajra.webp"
+    "image": ""
   },
   {
     "id": "venerable_tea_set",
@@ -453,7 +453,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/venerable_tea_set.webp"
+    "image": ""
   },
   {
     "id": "war_paint",
@@ -465,7 +465,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/war_paint.webp"
+    "image": ""
   },
   {
     "id": "whetstone",
@@ -477,7 +477,7 @@
     "classLabel": "无色",
     "category": "common",
     "categoryLabel": "普通掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/whetstone.webp"
+    "image": ""
   },
   {
     "id": "paper_phrog",
@@ -489,7 +489,7 @@
     "classLabel": "铁甲战士",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/paper_phrog.webp"
+    "image": ""
   },
   {
     "id": "self_forming_clay",
@@ -501,7 +501,7 @@
     "classLabel": "铁甲战士",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/self_forming_clay.webp"
+    "image": ""
   },
   {
     "id": "tingsha",
@@ -513,7 +513,7 @@
     "classLabel": "静默猎手",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/tingsha.webp"
+    "image": ""
   },
   {
     "id": "twisted_funnel",
@@ -525,7 +525,7 @@
     "classLabel": "静默猎手",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/twisted_funnel.webp"
+    "image": ""
   },
   {
     "id": "galactic_dust",
@@ -537,7 +537,7 @@
     "classLabel": "储君",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/galactic_dust.webp"
+    "image": ""
   },
   {
     "id": "regalite",
@@ -549,7 +549,7 @@
     "classLabel": "储君",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/regalite.webp"
+    "image": ""
   },
   {
     "id": "book_repair_knife",
@@ -561,7 +561,7 @@
     "classLabel": "亡灵契约师",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/book_repair_knife.webp"
+    "image": ""
   },
   {
     "id": "funerary_mask",
@@ -573,7 +573,7 @@
     "classLabel": "亡灵契约师",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/funerary_mask.webp"
+    "image": ""
   },
   {
     "id": "gold_plated_cables",
@@ -585,7 +585,7 @@
     "classLabel": "故障机器人",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/gold_plated_cables.webp"
+    "image": ""
   },
   {
     "id": "symbiotic_virus",
@@ -597,7 +597,7 @@
     "classLabel": "故障机器人",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/symbiotic_virus.webp"
+    "image": ""
   },
   {
     "id": "akabeko",
@@ -609,7 +609,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/akabeko.webp"
+    "image": ""
   },
   {
     "id": "bag_of_marbles",
@@ -621,7 +621,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/bag_of_marbles.webp"
+    "image": ""
   },
   {
     "id": "bellows",
@@ -633,7 +633,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/bellows.webp"
+    "image": ""
   },
   {
     "id": "bowler_hat",
@@ -645,7 +645,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/bowler_hat.webp"
+    "image": ""
   },
   {
     "id": "candelabra",
@@ -657,7 +657,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/candelabra.webp"
+    "image": ""
   },
   {
     "id": "eternal_feather",
@@ -669,7 +669,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/eternal_feather.webp"
+    "image": ""
   },
   {
     "id": "gremlin_horn",
@@ -681,7 +681,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/gremlin_horn.webp"
+    "image": ""
   },
   {
     "id": "horn_cleat",
@@ -693,7 +693,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/horn_cleat.webp"
+    "image": ""
   },
   {
     "id": "joss_paper",
@@ -705,7 +705,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/joss_paper.webp"
+    "image": ""
   },
   {
     "id": "kusarigama",
@@ -717,7 +717,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/kusarigama.webp"
+    "image": ""
   },
   {
     "id": "letter_opener",
@@ -729,7 +729,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/letter_opener.webp"
+    "image": ""
   },
   {
     "id": "lucky_fysh",
@@ -741,7 +741,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/lucky_fysh.webp"
+    "image": ""
   },
   {
     "id": "mercury_hourglass",
@@ -753,7 +753,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/mercury_hourglass.webp"
+    "image": ""
   },
   {
     "id": "miniature_cannon",
@@ -765,7 +765,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/miniature_cannon.webp"
+    "image": ""
   },
   {
     "id": "nunchaku",
@@ -777,7 +777,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/nunchaku.webp"
+    "image": ""
   },
   {
     "id": "orichalcum",
@@ -789,7 +789,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/orichalcum.webp"
+    "image": ""
   },
   {
     "id": "ornamental_fan",
@@ -801,7 +801,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/ornamental_fan.webp"
+    "image": ""
   },
   {
     "id": "pantograph",
@@ -813,7 +813,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/pantograph.webp"
+    "image": ""
   },
   {
     "id": "parrying_shield",
@@ -825,7 +825,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/parrying_shield.webp"
+    "image": ""
   },
   {
     "id": "pear",
@@ -837,7 +837,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/pear.webp"
+    "image": ""
   },
   {
     "id": "pen_nib",
@@ -849,7 +849,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/pen_nib.webp"
+    "image": ""
   },
   {
     "id": "petrified_toad",
@@ -861,7 +861,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/petrified_toad.webp"
+    "image": ""
   },
   {
     "id": "planisphere",
@@ -873,7 +873,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/planisphere.webp"
+    "image": ""
   },
   {
     "id": "red_mask",
@@ -885,7 +885,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/red_mask.webp"
+    "image": ""
   },
   {
     "id": "reptile_trinket",
@@ -897,7 +897,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/reptile_trinket.webp"
+    "image": ""
   },
   {
     "id": "ripple_basin",
@@ -909,7 +909,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/ripple_basin.webp"
+    "image": ""
   },
   {
     "id": "sparkling_rouge",
@@ -921,7 +921,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/sparkling_rouge.webp"
+    "image": ""
   },
   {
     "id": "stone_cracker",
@@ -933,7 +933,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/stone_cracker.webp"
+    "image": ""
   },
   {
     "id": "tuning_fork",
@@ -945,7 +945,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/tuning_fork.webp"
+    "image": ""
   },
   {
     "id": "vambrace",
@@ -957,7 +957,7 @@
     "classLabel": "无色",
     "category": "uncommon",
     "categoryLabel": "罕见掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/vambrace.webp"
+    "image": ""
   },
   {
     "id": "charons_ashes",
@@ -969,7 +969,7 @@
     "classLabel": "铁甲战士",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/charons_ashes.webp"
+    "image": ""
   },
   {
     "id": "demon_tongue",
@@ -981,7 +981,7 @@
     "classLabel": "铁甲战士",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/demon_tongue.webp"
+    "image": ""
   },
   {
     "id": "ruined_helmet",
@@ -993,7 +993,7 @@
     "classLabel": "铁甲战士",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/ruined_helmet.webp"
+    "image": ""
   },
   {
     "id": "helical_dart",
@@ -1005,7 +1005,7 @@
     "classLabel": "静默猎手",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/helical_dart.webp"
+    "image": ""
   },
   {
     "id": "paper_krane",
@@ -1017,7 +1017,7 @@
     "classLabel": "静默猎手",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/paper_krane.webp"
+    "image": ""
   },
   {
     "id": "tough_bandages",
@@ -1029,7 +1029,7 @@
     "classLabel": "静默猎手",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/tough_bandages.webp"
+    "image": ""
   },
   {
     "id": "lunar_pastry",
@@ -1041,7 +1041,7 @@
     "classLabel": "储君",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/lunar_pastry.webp"
+    "image": ""
   },
   {
     "id": "mini_regent",
@@ -1053,7 +1053,7 @@
     "classLabel": "储君",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/mini_regent.webp"
+    "image": ""
   },
   {
     "id": "orange_dough",
@@ -1065,7 +1065,7 @@
     "classLabel": "储君",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/orange_dough.webp"
+    "image": ""
   },
   {
     "id": "big_hat",
@@ -1077,7 +1077,7 @@
     "classLabel": "亡灵契约师",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/big_hat.webp"
+    "image": ""
   },
   {
     "id": "bookmark",
@@ -1089,7 +1089,7 @@
     "classLabel": "亡灵契约师",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/bookmark.webp"
+    "image": ""
   },
   {
     "id": "ivory_tile",
@@ -1101,7 +1101,7 @@
     "classLabel": "亡灵契约师",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/ivory_tile.webp"
+    "image": ""
   },
   {
     "id": "emotion_chip",
@@ -1113,7 +1113,7 @@
     "classLabel": "故障机器人",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/emotion_chip.webp"
+    "image": ""
   },
   {
     "id": "metronome",
@@ -1125,7 +1125,7 @@
     "classLabel": "故障机器人",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/metronome.webp"
+    "image": ""
   },
   {
     "id": "power_cell",
@@ -1137,7 +1137,7 @@
     "classLabel": "故障机器人",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/power_cell.webp"
+    "image": ""
   },
   {
     "id": "art_of_war",
@@ -1149,7 +1149,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/art_of_war.webp"
+    "image": ""
   },
   {
     "id": "beating_remnant",
@@ -1161,7 +1161,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/beating_remnant.webp"
+    "image": ""
   },
   {
     "id": "captains_wheel",
@@ -1173,7 +1173,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/captains_wheel.webp"
+    "image": ""
   },
   {
     "id": "chandelier",
@@ -1185,7 +1185,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/chandelier.webp"
+    "image": ""
   },
   {
     "id": "cloak_clasp",
@@ -1197,7 +1197,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/cloak_clasp.webp"
+    "image": ""
   },
   {
     "id": "frozen_egg",
@@ -1209,7 +1209,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/frozen_egg.webp"
+    "image": ""
   },
   {
     "id": "gambling_chip",
@@ -1221,7 +1221,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/gambling_chip.webp"
+    "image": ""
   },
   {
     "id": "game_piece",
@@ -1233,7 +1233,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/game_piece.webp"
+    "image": ""
   },
   {
     "id": "girya",
@@ -1245,7 +1245,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/girya.webp"
+    "image": ""
   },
   {
     "id": "ice_cream",
@@ -1257,7 +1257,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/ice_cream.webp"
+    "image": ""
   },
   {
     "id": "intimidating_helmet",
@@ -1269,7 +1269,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/intimidating_helmet.webp"
+    "image": ""
   },
   {
     "id": "kunai",
@@ -1281,7 +1281,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/kunai.webp"
+    "image": ""
   },
   {
     "id": "lasting_candy",
@@ -1293,7 +1293,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/lasting_candy.webp"
+    "image": ""
   },
   {
     "id": "lizard_tail",
@@ -1305,7 +1305,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/lizard_tail.webp"
+    "image": ""
   },
   {
     "id": "mango",
@@ -1317,7 +1317,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/mango.webp"
+    "image": ""
   },
   {
     "id": "meat_on_the_bone",
@@ -1329,7 +1329,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/meat_on_the_bone.webp"
+    "image": ""
   },
   {
     "id": "molten_egg",
@@ -1341,7 +1341,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/molten_egg.webp"
+    "image": ""
   },
   {
     "id": "mummified_hand",
@@ -1353,7 +1353,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/mummified_hand.webp"
+    "image": ""
   },
   {
     "id": "old_coin",
@@ -1365,7 +1365,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/old_coin.webp"
+    "image": ""
   },
   {
     "id": "pocketwatch",
@@ -1377,7 +1377,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/pocketwatch.webp"
+    "image": ""
   },
   {
     "id": "prayer_wheel",
@@ -1389,7 +1389,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/prayer_wheel.webp"
+    "image": ""
   },
   {
     "id": "rainbow_ring",
@@ -1401,7 +1401,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/rainbow_ring.webp"
+    "image": ""
   },
   {
     "id": "razor_tooth",
@@ -1413,7 +1413,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/razor_tooth.webp"
+    "image": ""
   },
   {
     "id": "shovel",
@@ -1425,7 +1425,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/shovel.webp"
+    "image": ""
   },
   {
     "id": "shuriken",
@@ -1437,7 +1437,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/shuriken.webp"
+    "image": ""
   },
   {
     "id": "stone_calendar",
@@ -1449,7 +1449,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/stone_calendar.webp"
+    "image": ""
   },
   {
     "id": "sturdy_clamp",
@@ -1461,7 +1461,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/sturdy_clamp.webp"
+    "image": ""
   },
   {
     "id": "the_courier",
@@ -1473,7 +1473,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/the_courier.webp"
+    "image": ""
   },
   {
     "id": "toxic_egg",
@@ -1485,7 +1485,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/toxic_egg.webp"
+    "image": ""
   },
   {
     "id": "tungsten_rod",
@@ -1497,7 +1497,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/tungsten_rod.webp"
+    "image": ""
   },
   {
     "id": "unceasing_top",
@@ -1509,7 +1509,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/unceasing_top.webp"
+    "image": ""
   },
   {
     "id": "unsettling_lamp",
@@ -1521,7 +1521,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/unsettling_lamp.webp"
+    "image": ""
   },
   {
     "id": "vexing_puzzlebox",
@@ -1533,7 +1533,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/vexing_puzzlebox.webp"
+    "image": ""
   },
   {
     "id": "white_beast_statue",
@@ -1545,7 +1545,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/white_beast_statue.webp"
+    "image": ""
   },
   {
     "id": "white_star",
@@ -1557,7 +1557,7 @@
     "classLabel": "无色",
     "category": "rare",
     "categoryLabel": "稀有掉落",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/white_star.webp"
+    "image": ""
   },
   {
     "id": "brimstone",
@@ -1569,7 +1569,7 @@
     "classLabel": "铁甲战士",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/brimstone.webp"
+    "image": ""
   },
   {
     "id": "ninja_scroll",
@@ -1581,7 +1581,7 @@
     "classLabel": "静默猎手",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/ninja_scroll.webp"
+    "image": ""
   },
   {
     "id": "vitruvian_minion",
@@ -1593,7 +1593,7 @@
     "classLabel": "储君",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/vitruvian_minion.webp"
+    "image": ""
   },
   {
     "id": "undying_sigil",
@@ -1605,7 +1605,7 @@
     "classLabel": "亡灵契约师",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/undying_sigil.webp"
+    "image": ""
   },
   {
     "id": "runic_capacitor",
@@ -1617,7 +1617,7 @@
     "classLabel": "故障机器人",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/runic_capacitor.webp"
+    "image": ""
   },
   {
     "id": "belt_buckle",
@@ -1629,7 +1629,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/belt_buckle.webp"
+    "image": ""
   },
   {
     "id": "bread",
@@ -1641,7 +1641,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/bread.webp"
+    "image": ""
   },
   {
     "id": "burning_sticks",
@@ -1653,7 +1653,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/burning_sticks.webp"
+    "image": ""
   },
   {
     "id": "cauldron",
@@ -1665,7 +1665,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/cauldron.webp"
+    "image": ""
   },
   {
     "id": "chemical_x",
@@ -1677,7 +1677,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/chemical_x.webp"
+    "image": ""
   },
   {
     "id": "dingy_rug",
@@ -1689,7 +1689,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/dingy_rug.webp"
+    "image": ""
   },
   {
     "id": "dollys_mirror",
@@ -1701,7 +1701,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/dollys_mirror.webp"
+    "image": ""
   },
   {
     "id": "dragon_fruit",
@@ -1713,7 +1713,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/dragon_fruit.webp"
+    "image": ""
   },
   {
     "id": "ghost_seed",
@@ -1725,7 +1725,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/ghost_seed.webp"
+    "image": ""
   },
   {
     "id": "gnarled_hammer",
@@ -1737,7 +1737,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/gnarled_hammer.webp"
+    "image": ""
   },
   {
     "id": "kifuda",
@@ -1749,7 +1749,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/kifuda.webp"
+    "image": ""
   },
   {
     "id": "lava_lamp",
@@ -1761,7 +1761,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/lava_lamp.webp"
+    "image": ""
   },
   {
     "id": "lees_waffle",
@@ -1773,7 +1773,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/lees_waffle.webp"
+    "image": ""
   },
   {
     "id": "membership_card",
@@ -1785,7 +1785,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/membership_card.webp"
+    "image": ""
   },
   {
     "id": "miniature_tent",
@@ -1797,7 +1797,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/miniature_tent.webp"
+    "image": ""
   },
   {
     "id": "mystic_lighter",
@@ -1809,7 +1809,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/mystic_lighter.webp"
+    "image": ""
   },
   {
     "id": "orrery",
@@ -1821,7 +1821,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/orrery.webp"
+    "image": ""
   },
   {
     "id": "punch_dagger",
@@ -1833,7 +1833,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/punch_dagger.webp"
+    "image": ""
   },
   {
     "id": "ringing_triangle",
@@ -1845,7 +1845,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/ringing_triangle.webp"
+    "image": ""
   },
   {
     "id": "royal_stamp",
@@ -1857,7 +1857,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/royal_stamp.webp"
+    "image": ""
   },
   {
     "id": "screaming_flagon",
@@ -1869,7 +1869,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/screaming_flagon.webp"
+    "image": ""
   },
   {
     "id": "sling_of_courage",
@@ -1881,7 +1881,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/sling_of_courage.webp"
+    "image": ""
   },
   {
     "id": "the_abacus",
@@ -1893,7 +1893,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/the_abacus.webp"
+    "image": ""
   },
   {
     "id": "toolbox",
@@ -1905,7 +1905,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/toolbox.webp"
+    "image": ""
   },
   {
     "id": "wing_charm",
@@ -1917,7 +1917,7 @@
     "classLabel": "无色",
     "category": "shop",
     "categoryLabel": "商店",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/wing_charm.webp"
+    "image": ""
   },
   {
     "id": "astrolabe",
@@ -1929,7 +1929,7 @@
     "classLabel": "无色",
     "category": "darv",
     "categoryLabel": "Boss遗物",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/astrolabe.webp"
+    "image": ""
   },
   {
     "id": "black_star",
@@ -1941,7 +1941,7 @@
     "classLabel": "无色",
     "category": "darv",
     "categoryLabel": "Boss遗物",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/black_star.webp"
+    "image": ""
   },
   {
     "id": "calling_bell",
@@ -1953,7 +1953,7 @@
     "classLabel": "无色",
     "category": "darv",
     "categoryLabel": "Boss遗物",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/calling_bell.webp"
+    "image": ""
   },
   {
     "id": "dusty_tome",
@@ -1965,7 +1965,7 @@
     "classLabel": "无色",
     "category": "darv",
     "categoryLabel": "Boss遗物",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/dusty_tome.webp"
+    "image": ""
   },
   {
     "id": "ectoplasm",
@@ -1977,7 +1977,7 @@
     "classLabel": "无色",
     "category": "darv",
     "categoryLabel": "Boss遗物",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/ectoplasm.webp"
+    "image": ""
   },
   {
     "id": "empty_cage",
@@ -1989,7 +1989,7 @@
     "classLabel": "无色",
     "category": "darv",
     "categoryLabel": "Boss遗物",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/empty_cage.webp"
+    "image": ""
   },
   {
     "id": "pandoras_box",
@@ -2001,7 +2001,7 @@
     "classLabel": "无色",
     "category": "darv",
     "categoryLabel": "Boss遗物",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/pandoras_box.webp"
+    "image": ""
   },
   {
     "id": "philosophers_stone",
@@ -2013,7 +2013,7 @@
     "classLabel": "无色",
     "category": "darv",
     "categoryLabel": "Boss遗物",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/philosophers_stone.webp"
+    "image": ""
   },
   {
     "id": "runic_pyramid",
@@ -2025,7 +2025,7 @@
     "classLabel": "无色",
     "category": "darv",
     "categoryLabel": "Boss遗物",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/runic_pyramid.webp"
+    "image": ""
   },
   {
     "id": "snecko_eye",
@@ -2037,7 +2037,7 @@
     "classLabel": "无色",
     "category": "darv",
     "categoryLabel": "Boss遗物",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/snecko_eye.webp"
+    "image": ""
   },
   {
     "id": "sozu",
@@ -2049,7 +2049,7 @@
     "classLabel": "无色",
     "category": "darv",
     "categoryLabel": "Boss遗物",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/sozu.webp"
+    "image": ""
   },
   {
     "id": "velvet_choker",
@@ -2061,7 +2061,7 @@
     "classLabel": "无色",
     "category": "darv",
     "categoryLabel": "Boss遗物",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/velvet_choker.webp"
+    "image": ""
   },
   {
     "id": "arcane_scroll",
@@ -2073,7 +2073,7 @@
     "classLabel": "无色",
     "category": "neow",
     "categoryLabel": "涅奥祝福",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/arcane_scroll.webp"
+    "image": ""
   },
   {
     "id": "booming_conch",
@@ -2085,7 +2085,7 @@
     "classLabel": "无色",
     "category": "neow",
     "categoryLabel": "涅奥祝福",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/booming_conch.webp"
+    "image": ""
   },
   {
     "id": "cursed_pearl",
@@ -2097,7 +2097,7 @@
     "classLabel": "无色",
     "category": "neow",
     "categoryLabel": "涅奥祝福",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/cursed_pearl.webp"
+    "image": ""
   },
   {
     "id": "golden_pearl",
@@ -2109,7 +2109,7 @@
     "classLabel": "无色",
     "category": "neow",
     "categoryLabel": "涅奥祝福",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/golden_pearl.webp"
+    "image": ""
   },
   {
     "id": "large_capsule",
@@ -2121,7 +2121,7 @@
     "classLabel": "无色",
     "category": "neow",
     "categoryLabel": "涅奥祝福",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/large_capsule.webp"
+    "image": ""
   },
   {
     "id": "lava_rock",
@@ -2133,7 +2133,7 @@
     "classLabel": "无色",
     "category": "neow",
     "categoryLabel": "涅奥祝福",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/lava_rock.webp"
+    "image": ""
   },
   {
     "id": "lead_paperweight",
@@ -2145,7 +2145,7 @@
     "classLabel": "无色",
     "category": "neow",
     "categoryLabel": "涅奥祝福",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/lead_paperweight.webp"
+    "image": ""
   },
   {
     "id": "leafy_poultice",
@@ -2157,7 +2157,7 @@
     "classLabel": "无色",
     "category": "neow",
     "categoryLabel": "涅奥祝福",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/leafy_poultice.webp"
+    "image": ""
   },
   {
     "id": "lost_coffer",
@@ -2169,7 +2169,7 @@
     "classLabel": "无色",
     "category": "neow",
     "categoryLabel": "涅奥祝福",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/lost_coffer.webp"
+    "image": ""
   },
   {
     "id": "massive_scroll",
@@ -2181,7 +2181,7 @@
     "classLabel": "无色",
     "category": "neow",
     "categoryLabel": "涅奥祝福",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/massive_scroll.webp"
+    "image": ""
   },
   {
     "id": "neows_torment",
@@ -2193,7 +2193,7 @@
     "classLabel": "无色",
     "category": "neow",
     "categoryLabel": "涅奥祝福",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/neows_torment.webp"
+    "image": ""
   },
   {
     "id": "new_leaf",
@@ -2205,7 +2205,7 @@
     "classLabel": "无色",
     "category": "neow",
     "categoryLabel": "涅奥祝福",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/new_leaf.webp"
+    "image": ""
   },
   {
     "id": "nutritious_oyster",
@@ -2217,7 +2217,7 @@
     "classLabel": "无色",
     "category": "neow",
     "categoryLabel": "涅奥祝福",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/nutritious_oyster.webp"
+    "image": ""
   },
   {
     "id": "pomander",
@@ -2229,7 +2229,7 @@
     "classLabel": "无色",
     "category": "neow",
     "categoryLabel": "涅奥祝福",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/pomander.webp"
+    "image": ""
   },
   {
     "id": "precarious_shears",
@@ -2241,7 +2241,7 @@
     "classLabel": "无色",
     "category": "neow",
     "categoryLabel": "涅奥祝福",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/precarious_shears.webp"
+    "image": ""
   },
   {
     "id": "precise_scissors",
@@ -2253,7 +2253,7 @@
     "classLabel": "无色",
     "category": "neow",
     "categoryLabel": "涅奥祝福",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/precise_scissors.webp"
+    "image": ""
   },
   {
     "id": "scroll_boxes",
@@ -2265,7 +2265,7 @@
     "classLabel": "无色",
     "category": "neow",
     "categoryLabel": "涅奥祝福",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/scroll_boxes.webp"
+    "image": ""
   },
   {
     "id": "silver_crucible",
@@ -2277,7 +2277,7 @@
     "classLabel": "无色",
     "category": "neow",
     "categoryLabel": "涅奥祝福",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/silver_crucible.webp"
+    "image": ""
   },
   {
     "id": "small_capsule",
@@ -2289,7 +2289,7 @@
     "classLabel": "无色",
     "category": "neow",
     "categoryLabel": "涅奥祝福",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/small_capsule.webp"
+    "image": ""
   },
   {
     "id": "stone_humidifier",
@@ -2301,7 +2301,7 @@
     "classLabel": "无色",
     "category": "neow",
     "categoryLabel": "涅奥祝福",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/stone_humidifier.webp"
+    "image": ""
   },
   {
     "id": "beautiful_bracelet",
@@ -2313,7 +2313,7 @@
     "classLabel": "无色",
     "category": "nonupeipe",
     "categoryLabel": "特殊来源",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/beautiful_bracelet.webp"
+    "image": ""
   },
   {
     "id": "blessed_antler",
@@ -2325,7 +2325,7 @@
     "classLabel": "无色",
     "category": "nonupeipe",
     "categoryLabel": "特殊来源",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/blessed_antler.webp"
+    "image": ""
   },
   {
     "id": "brilliant_scarf",
@@ -2337,7 +2337,7 @@
     "classLabel": "无色",
     "category": "nonupeipe",
     "categoryLabel": "特殊来源",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/brilliant_scarf.webp"
+    "image": ""
   },
   {
     "id": "delicate_frond",
@@ -2349,7 +2349,7 @@
     "classLabel": "无色",
     "category": "nonupeipe",
     "categoryLabel": "特殊来源",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/delicate_frond.webp"
+    "image": ""
   },
   {
     "id": "diamond_diadem",
@@ -2361,7 +2361,7 @@
     "classLabel": "无色",
     "category": "nonupeipe",
     "categoryLabel": "特殊来源",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/diamond_diadem.webp"
+    "image": ""
   },
   {
     "id": "fur_coat",
@@ -2373,7 +2373,7 @@
     "classLabel": "无色",
     "category": "nonupeipe",
     "categoryLabel": "特殊来源",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/fur_coat.webp"
+    "image": ""
   },
   {
     "id": "glitter",
@@ -2385,7 +2385,7 @@
     "classLabel": "无色",
     "category": "nonupeipe",
     "categoryLabel": "特殊来源",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/glitter.webp"
+    "image": ""
   },
   {
     "id": "jewelry_box",
@@ -2397,7 +2397,7 @@
     "classLabel": "无色",
     "category": "nonupeipe",
     "categoryLabel": "特殊来源",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/jewelry_box.webp"
+    "image": ""
   },
   {
     "id": "looming_fruit",
@@ -2409,7 +2409,7 @@
     "classLabel": "无色",
     "category": "nonupeipe",
     "categoryLabel": "特殊来源",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/looming_fruit.webp"
+    "image": ""
   },
   {
     "id": "signet_ring",
@@ -2421,7 +2421,7 @@
     "classLabel": "无色",
     "category": "nonupeipe",
     "categoryLabel": "特殊来源",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/signet_ring.webp"
+    "image": ""
   },
   {
     "id": "alchemical_coffer",
@@ -2433,7 +2433,7 @@
     "classLabel": "无色",
     "category": "orobas",
     "categoryLabel": "奥罗巴斯",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/alchemical_coffer.webp"
+    "image": ""
   },
   {
     "id": "archaic_tooth",
@@ -2445,7 +2445,7 @@
     "classLabel": "无色",
     "category": "orobas",
     "categoryLabel": "奥罗巴斯",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/archaic_tooth.webp"
+    "image": ""
   },
   {
     "id": "driftwood",
@@ -2457,7 +2457,7 @@
     "classLabel": "无色",
     "category": "orobas",
     "categoryLabel": "奥罗巴斯",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/driftwood.webp"
+    "image": ""
   },
   {
     "id": "electric_shrymp",
@@ -2469,7 +2469,7 @@
     "classLabel": "无色",
     "category": "orobas",
     "categoryLabel": "奥罗巴斯",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/electric_shrymp.webp"
+    "image": ""
   },
   {
     "id": "glass_eye",
@@ -2481,7 +2481,7 @@
     "classLabel": "无色",
     "category": "orobas",
     "categoryLabel": "奥罗巴斯",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/glass_eye.webp"
+    "image": ""
   },
   {
     "id": "prismatic_gem",
@@ -2493,7 +2493,7 @@
     "classLabel": "无色",
     "category": "orobas",
     "categoryLabel": "奥罗巴斯",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/prismatic_gem.webp"
+    "image": ""
   },
   {
     "id": "radiant_pearl",
@@ -2505,7 +2505,7 @@
     "classLabel": "无色",
     "category": "orobas",
     "categoryLabel": "奥罗巴斯",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/radiant_pearl.webp"
+    "image": ""
   },
   {
     "id": "sand_castle",
@@ -2517,7 +2517,7 @@
     "classLabel": "无色",
     "category": "orobas",
     "categoryLabel": "奥罗巴斯",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/sand_castle.webp"
+    "image": ""
   },
   {
     "id": "sea_glass",
@@ -2529,7 +2529,7 @@
     "classLabel": "无色",
     "category": "orobas",
     "categoryLabel": "奥罗巴斯",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/sea_glass.webp"
+    "image": ""
   },
   {
     "id": "touch_of_orobas",
@@ -2541,7 +2541,7 @@
     "classLabel": "无色",
     "category": "orobas",
     "categoryLabel": "奥罗巴斯",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/touch_of_orobas.webp"
+    "image": ""
   },
   {
     "id": "paels_blood",
@@ -2553,7 +2553,7 @@
     "classLabel": "无色",
     "category": "pael",
     "categoryLabel": "帕埃尔",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/paels_blood.webp"
+    "image": ""
   },
   {
     "id": "paels_claw",
@@ -2565,7 +2565,7 @@
     "classLabel": "无色",
     "category": "pael",
     "categoryLabel": "帕埃尔",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/paels_claw.webp"
+    "image": ""
   },
   {
     "id": "paels_eye",
@@ -2577,7 +2577,7 @@
     "classLabel": "无色",
     "category": "pael",
     "categoryLabel": "帕埃尔",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/paels_eye.webp"
+    "image": ""
   },
   {
     "id": "paels_flesh",
@@ -2589,7 +2589,7 @@
     "classLabel": "无色",
     "category": "pael",
     "categoryLabel": "帕埃尔",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/paels_flesh.webp"
+    "image": ""
   },
   {
     "id": "paels_growth",
@@ -2601,7 +2601,7 @@
     "classLabel": "无色",
     "category": "pael",
     "categoryLabel": "帕埃尔",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/paels_growth.webp"
+    "image": ""
   },
   {
     "id": "paels_horn",
@@ -2613,7 +2613,7 @@
     "classLabel": "无色",
     "category": "pael",
     "categoryLabel": "帕埃尔",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/paels_horn.webp"
+    "image": ""
   },
   {
     "id": "paels_legion",
@@ -2625,7 +2625,7 @@
     "classLabel": "无色",
     "category": "pael",
     "categoryLabel": "帕埃尔",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/paels_legion.webp"
+    "image": ""
   },
   {
     "id": "paels_tears",
@@ -2637,7 +2637,7 @@
     "classLabel": "无色",
     "category": "pael",
     "categoryLabel": "帕埃尔",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/paels_tears.webp"
+    "image": ""
   },
   {
     "id": "paels_tooth",
@@ -2649,7 +2649,7 @@
     "classLabel": "无色",
     "category": "pael",
     "categoryLabel": "帕埃尔",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/paels_tooth.webp"
+    "image": ""
   },
   {
     "id": "paels_wing",
@@ -2661,7 +2661,7 @@
     "classLabel": "无色",
     "category": "pael",
     "categoryLabel": "帕埃尔",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/paels_wing.webp"
+    "image": ""
   },
   {
     "id": "claws",
@@ -2673,7 +2673,7 @@
     "classLabel": "无色",
     "category": "tanx",
     "categoryLabel": "坦克斯",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/claws.webp"
+    "image": ""
   },
   {
     "id": "crossbow",
@@ -2685,7 +2685,7 @@
     "classLabel": "无色",
     "category": "tanx",
     "categoryLabel": "坦克斯",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/crossbow.webp"
+    "image": ""
   },
   {
     "id": "iron_club",
@@ -2697,7 +2697,7 @@
     "classLabel": "无色",
     "category": "tanx",
     "categoryLabel": "坦克斯",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/iron_club.webp"
+    "image": ""
   },
   {
     "id": "meat_cleaver",
@@ -2709,7 +2709,7 @@
     "classLabel": "无色",
     "category": "tanx",
     "categoryLabel": "坦克斯",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/meat_cleaver.webp"
+    "image": ""
   },
   {
     "id": "sai",
@@ -2721,7 +2721,7 @@
     "classLabel": "无色",
     "category": "tanx",
     "categoryLabel": "坦克斯",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/sai.webp"
+    "image": ""
   },
   {
     "id": "spiked_gauntlets",
@@ -2733,7 +2733,7 @@
     "classLabel": "无色",
     "category": "tanx",
     "categoryLabel": "坦克斯",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/spiked_gauntlets.webp"
+    "image": ""
   },
   {
     "id": "tanxs_whistle",
@@ -2745,7 +2745,7 @@
     "classLabel": "无色",
     "category": "tanx",
     "categoryLabel": "坦克斯",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/tanxs_whistle.webp"
+    "image": ""
   },
   {
     "id": "throwing_axe",
@@ -2757,7 +2757,7 @@
     "classLabel": "无色",
     "category": "tanx",
     "categoryLabel": "坦克斯",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/throwing_axe.webp"
+    "image": ""
   },
   {
     "id": "tri_boomerang",
@@ -2769,7 +2769,7 @@
     "classLabel": "无色",
     "category": "tanx",
     "categoryLabel": "坦克斯",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/tri_boomerang.webp"
+    "image": ""
   },
   {
     "id": "war_hammer",
@@ -2781,7 +2781,7 @@
     "classLabel": "无色",
     "category": "tanx",
     "categoryLabel": "坦克斯",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/war_hammer.webp"
+    "image": ""
   },
   {
     "id": "biiig_hug",
@@ -2793,7 +2793,7 @@
     "classLabel": "无色",
     "category": "tezcatara",
     "categoryLabel": "特兹卡特拉",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/biiig_hug.webp"
+    "image": ""
   },
   {
     "id": "golden_compass",
@@ -2805,7 +2805,7 @@
     "classLabel": "无色",
     "category": "tezcatara",
     "categoryLabel": "特兹卡特拉",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/golden_compass.webp"
+    "image": ""
   },
   {
     "id": "nutritious_soup",
@@ -2817,7 +2817,7 @@
     "classLabel": "无色",
     "category": "tezcatara",
     "categoryLabel": "特兹卡特拉",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/nutritious_soup.webp"
+    "image": ""
   },
   {
     "id": "pumpkin_candle",
@@ -2829,7 +2829,7 @@
     "classLabel": "无色",
     "category": "tezcatara",
     "categoryLabel": "特兹卡特拉",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/pumpkin_candle.webp"
+    "image": ""
   },
   {
     "id": "seal_of_gold",
@@ -2841,7 +2841,7 @@
     "classLabel": "无色",
     "category": "tezcatara",
     "categoryLabel": "特兹卡特拉",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/seal_of_gold.webp"
+    "image": ""
   },
   {
     "id": "storybook",
@@ -2853,7 +2853,7 @@
     "classLabel": "无色",
     "category": "tezcatara",
     "categoryLabel": "特兹卡特拉",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/storybook.webp"
+    "image": ""
   },
   {
     "id": "toasty_mittens",
@@ -2865,7 +2865,7 @@
     "classLabel": "无色",
     "category": "tezcatara",
     "categoryLabel": "特兹卡特拉",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/toasty_mittens.webp"
+    "image": ""
   },
   {
     "id": "toy_box",
@@ -2877,7 +2877,7 @@
     "classLabel": "无色",
     "category": "tezcatara",
     "categoryLabel": "特兹卡特拉",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/toy_box.webp"
+    "image": ""
   },
   {
     "id": "very_hot_cocoa",
@@ -2889,7 +2889,7 @@
     "classLabel": "无色",
     "category": "tezcatara",
     "categoryLabel": "特兹卡特拉",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/very_hot_cocoa.webp"
+    "image": ""
   },
   {
     "id": "yummy_cookie",
@@ -2901,7 +2901,7 @@
     "classLabel": "无色",
     "category": "tezcatara",
     "categoryLabel": "特兹卡特拉",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/yummy_cookie.webp"
+    "image": ""
   },
   {
     "id": "blood_soaked_rose",
@@ -2913,7 +2913,7 @@
     "classLabel": "无色",
     "category": "vakuu",
     "categoryLabel": "瓦库",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/blood_soaked_rose.webp"
+    "image": ""
   },
   {
     "id": "choices_paradox",
@@ -2925,7 +2925,7 @@
     "classLabel": "无色",
     "category": "vakuu",
     "categoryLabel": "瓦库",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/choices_paradox.webp"
+    "image": ""
   },
   {
     "id": "distinguished_cape",
@@ -2937,7 +2937,7 @@
     "classLabel": "无色",
     "category": "vakuu",
     "categoryLabel": "瓦库",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/distinguished_cape.webp"
+    "image": ""
   },
   {
     "id": "fiddle",
@@ -2949,7 +2949,7 @@
     "classLabel": "无色",
     "category": "vakuu",
     "categoryLabel": "瓦库",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/fiddle.webp"
+    "image": ""
   },
   {
     "id": "jeweled_mask",
@@ -2961,7 +2961,7 @@
     "classLabel": "无色",
     "category": "vakuu",
     "categoryLabel": "瓦库",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/jeweled_mask.webp"
+    "image": ""
   },
   {
     "id": "lords_parasol",
@@ -2973,7 +2973,7 @@
     "classLabel": "无色",
     "category": "vakuu",
     "categoryLabel": "瓦库",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/lords_parasol.webp"
+    "image": ""
   },
   {
     "id": "music_box",
@@ -2985,7 +2985,7 @@
     "classLabel": "无色",
     "category": "vakuu",
     "categoryLabel": "瓦库",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/music_box.webp"
+    "image": ""
   },
   {
     "id": "preserved_fog",
@@ -2997,7 +2997,7 @@
     "classLabel": "无色",
     "category": "vakuu",
     "categoryLabel": "瓦库",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/preserved_fog.webp"
+    "image": ""
   },
   {
     "id": "sere_talon",
@@ -3009,7 +3009,7 @@
     "classLabel": "无色",
     "category": "vakuu",
     "categoryLabel": "瓦库",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/sere_talon.webp"
+    "image": ""
   },
   {
     "id": "whispering_earring",
@@ -3021,7 +3021,7 @@
     "classLabel": "无色",
     "category": "vakuu",
     "categoryLabel": "瓦库",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/whispering_earring.webp"
+    "image": ""
   },
   {
     "id": "fake_anchor",
@@ -3033,7 +3033,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/fake_anchor.webp"
+    "image": ""
   },
   {
     "id": "big_mushroom",
@@ -3045,7 +3045,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/big_mushroom.webp"
+    "image": ""
   },
   {
     "id": "bing_bong",
@@ -3057,7 +3057,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/bing_bong.webp"
+    "image": ""
   },
   {
     "id": "fake_blood_vial",
@@ -3069,7 +3069,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/fake_blood_vial.webp"
+    "image": ""
   },
   {
     "id": "bone_tea",
@@ -3081,7 +3081,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/bone_tea.webp"
+    "image": ""
   },
   {
     "id": "byrdpip",
@@ -3093,7 +3093,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/byrdpip.webp"
+    "image": ""
   },
   {
     "id": "darkstone_periapt",
@@ -3105,7 +3105,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/darkstone_periapt.webp"
+    "image": ""
   },
   {
     "id": "daughter_of_the_wind",
@@ -3117,7 +3117,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/daughter_of_the_wind.webp"
+    "image": ""
   },
   {
     "id": "dream_catcher",
@@ -3129,7 +3129,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/dream_catcher.webp"
+    "image": ""
   },
   {
     "id": "ember_tea",
@@ -3141,7 +3141,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/ember_tea.webp"
+    "image": ""
   },
   {
     "id": "forgotten_soul",
@@ -3153,7 +3153,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/forgotten_soul.webp"
+    "image": ""
   },
   {
     "id": "fragrant_mushroom",
@@ -3165,7 +3165,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/fragrant_mushroom.webp"
+    "image": ""
   },
   {
     "id": "fresnel_lens",
@@ -3177,7 +3177,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/fresnel_lens.webp"
+    "image": ""
   },
   {
     "id": "hand_drill",
@@ -3189,7 +3189,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/hand_drill.webp"
+    "image": ""
   },
   {
     "id": "fake_happy_flower",
@@ -3201,7 +3201,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/fake_happy_flower.webp"
+    "image": ""
   },
   {
     "id": "history_course",
@@ -3213,7 +3213,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/history_course.webp"
+    "image": ""
   },
   {
     "id": "fake_lees_waffle",
@@ -3225,7 +3225,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/fake_lees_waffle.webp"
+    "image": ""
   },
   {
     "id": "lost_wisp",
@@ -3237,7 +3237,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/lost_wisp.webp"
+    "image": ""
   },
   {
     "id": "fake_mango",
@@ -3249,7 +3249,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/fake_mango.webp"
+    "image": ""
   },
   {
     "id": "maw_bank",
@@ -3261,7 +3261,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/maw_bank.webp"
+    "image": ""
   },
   {
     "id": "mr_struggles",
@@ -3273,7 +3273,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/mr_struggles.webp"
+    "image": ""
   },
   {
     "id": "fake_orichalcum",
@@ -3285,7 +3285,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/fake_orichalcum.webp"
+    "image": ""
   },
   {
     "id": "pollinous_core",
@@ -3297,7 +3297,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/pollinous_core.webp"
+    "image": ""
   },
   {
     "id": "royal_poison",
@@ -3309,7 +3309,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/royal_poison.webp"
+    "image": ""
   },
   {
     "id": "fake_snecko_eye",
@@ -3321,7 +3321,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/fake_snecko_eye.webp"
+    "image": ""
   },
   {
     "id": "fake_strike_dummy",
@@ -3333,7 +3333,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/fake_strike_dummy.webp"
+    "image": ""
   },
   {
     "id": "sword_of_jade",
@@ -3345,7 +3345,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/sword_of_jade.webp"
+    "image": ""
   },
   {
     "id": "sword_of_stone",
@@ -3357,7 +3357,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/sword_of_stone.webp"
+    "image": ""
   },
   {
     "id": "tea_of_discourtesy",
@@ -3369,7 +3369,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/tea_of_discourtesy.webp"
+    "image": ""
   },
   {
     "id": "the_boot",
@@ -3381,7 +3381,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/the_boot.webp"
+    "image": ""
   },
   {
     "id": "chosen_cheese",
@@ -3393,7 +3393,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/chosen_cheese.webp"
+    "image": ""
   },
   {
     "id": "fake_merchants_rug",
@@ -3405,7 +3405,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/fake_merchants_rug.webp"
+    "image": ""
   },
   {
     "id": "fake_venerable_tea_set",
@@ -3417,7 +3417,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/fake_venerable_tea_set.webp"
+    "image": ""
   },
   {
     "id": "wongo_customer_appreciation_badge",
@@ -3429,7 +3429,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/wongo_customer_appreciation_badge.webp"
+    "image": ""
   },
   {
     "id": "wongos_mystery_ticket",
@@ -3441,7 +3441,7 @@
     "classLabel": "无色",
     "category": "event",
     "categoryLabel": "事件",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/wongos_mystery_ticket.webp"
+    "image": ""
   },
   {
     "id": "circlet",
@@ -3453,7 +3453,7 @@
     "classLabel": "无色",
     "category": "other",
     "categoryLabel": "其他",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/circlet.webp"
+    "image": ""
   },
   {
     "id": "deprecated_relic",
@@ -3465,6 +3465,6 @@
     "classLabel": "无色",
     "category": "other",
     "categoryLabel": "其他",
-    "image": "https://sts2.runthesim.ai/assets/relic-images/deprecated_relic.webp"
+    "image": ""
   }
 ]
